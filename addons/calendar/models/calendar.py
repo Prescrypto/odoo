@@ -531,8 +531,8 @@ class Meeting(models.Model):
 
     @api.multi
     def _get_recurrent_date_by_event(self, date_field='start'):
-        """ Get recurrent dates based on Rule string and all event where recurrent_id is child 
-        
+        """ Get recurrent dates based on Rule string and all event where recurrent_id is child
+
         date_field: the field containing the reference date information for recurrency computation
         """
         self.ensure_one()
@@ -902,7 +902,7 @@ class Meeting(models.Model):
                     elif interval == 'minutes':
                         delta = timedelta(minutes=duration)
                     trigger.value = delta
-                    valarm.add('DESCRIPTION').value = alarm.name or 'Odoo'
+                    valarm.add('DESCRIPTION').value = alarm.name or 'Erste'
             for attendee in meeting.attendee_ids:
                 attendee_add = event.add('attendee')
                 attendee_add.value = 'MAILTO:' + (attendee.email or '')

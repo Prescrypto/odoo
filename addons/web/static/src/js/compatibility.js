@@ -1,10 +1,10 @@
 // ------------------------------------------------------------------------------
-// Compatibility with Odoo v8.  
-// 
+// Compatibility with Odoo v8.
+//
 // With the new module system, no global variable can (and should) be accessed
-// in openerp.  This file exports everything, to mimic the previous global 
-// namespace structure.  This is only supposed to be used by 3rd parties to 
-// facilitate migration.  Odoo addons should not use the 'openerp' variable at 
+// in openerp.  This file exports everything, to mimic the previous global
+// namespace structure.  This is only supposed to be used by 3rd parties to
+// facilitate migration.  Odoo addons should not use the 'openerp' variable at
 // all.
 // ------------------------------------------------------------------------------
 odoo.define('web.compatibility', function (require) {
@@ -165,7 +165,7 @@ function start_modules (modules) {
     }
     modules = _.without(modules, "web");
     if (inited) {
-        throw new Error("OpenERP was already inited");
+        throw new Error("ErsteHilfe was already inited");
     }
     inited = true;
     for(var i=0; i < modules.length; i++) {
@@ -247,7 +247,7 @@ ListView.include({
                 }
             }
         }
- 
+
         if (!this.colors) { return style; }
         for(i=0, len=this.colors.length; i<len; ++i) {
             pair = this.colors[i];
