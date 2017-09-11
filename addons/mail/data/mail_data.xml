@@ -145,7 +145,7 @@ ${object.body | safe}
     </a>
     % endif
     using
-    <a href="https://www.odoo.com" style="text-decoration:none; color: #875A7B;">Odoo</a>.
+    <a href="https://www.odoo.com" style="text-decoration:none; color: #875A7B;">Prescrypto</a>.
 </p>
 </div>]]></field>
         </record>

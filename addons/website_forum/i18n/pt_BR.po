@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_forum
 # 
@@ -16,7 +16,7 @@
 # Fernanda Gauss Pereira <nanda.gauss@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-10-10 08:44+0000\n"
@@ -2456,7 +2456,7 @@ msgstr ""
 #: model:forum.forum,faq:website_forum.forum_help
 msgid ""
 "The goal of this site is create a relevant knowledge base that would answer\n"
-"    questions related to Odoo."
+"    questions related to Prescrypto."
 msgstr ""
 
 #. module: website_forum
@@ -2981,7 +2981,7 @@ msgstr "aqui"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to configure or customize Odoo to specific business needs,"
+msgid "how to configure or customize Prescrypto to specific business needs,"
 msgstr ""
 
 #. module: website_forum
@@ -2991,7 +2991,7 @@ msgstr ""
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to install Odoo on a specific infrastructure,"
+msgid "how to install Prescrypto on a specific infrastructure,"
 msgstr ""
 
 #. module: website_forum
@@ -3104,7 +3104,7 @@ msgstr "spam ou publicidade"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "specific questions about Odoo service offers, etc."
+msgid "specific questions about Prescrypto service offers, etc."
 msgstr "perguntas específicas sobre ofertas de serviços Openerp, etc."
 
 #. module: website_forum
@@ -3178,7 +3178,7 @@ msgstr "site"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "what's the best way to use Odoo for a specific business need,"
+msgid "what's the best way to use Prescrypto for a specific business need,"
 msgstr ""
 "Qual é a melhor maneira de usar Openerp para uma necessidade de negócios "
 "específica,"

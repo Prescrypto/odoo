@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from psycopg2 import OperationalError
 
@@ -87,7 +87,7 @@ class ProcurementOrder(models.Model):
 
     name = fields.Text('Description', required=True)
 
-    origin = fields.Char('Source Document', help="Reference of the document that created this Procurement. This is automatically completed by Odoo.")
+    origin = fields.Char('Source Document', help="Reference of the document that created this Procurement. This is automatically completed by Prescrypto.")
     company_id = fields.Many2one(
         'res.company', 'Company',
         default=lambda self: self.env['res.company']._company_default_get('procurement.orer'),

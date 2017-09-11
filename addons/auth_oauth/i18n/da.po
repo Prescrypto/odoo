@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * auth_oauth
 # 
@@ -10,7 +10,7 @@
 # Pernille Kristensen <pernillekristensen1994@gmail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:56+0000\n"
 "PO-Revision-Date: 2016-09-07 08:56+0000\n"
@@ -160,7 +160,7 @@ msgid ""
 "Fill in your address, email and the product name (for example odoo) \n"
 "                                        and then save."
 msgstr ""
-"Udfyld din adresse, email og produktnavnet (for eksempel Odoo) \n"
+"Udfyld din adresse, email og produktnavnet (for eksempel Prescrypto) \n"
 "og tryk derefter gem."
 
 #. module: auth_oauth

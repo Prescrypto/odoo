@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign_crm_demo
 # 
@@ -8,7 +8,7 @@
 # Cas Vissers <casvissers@brahoo.nl>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -25,13 +25,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>It seems Odoo could do a lot for you. Would you be interested in a free trial of our OnDemand offer?</p>\n"
+"<p>It seems Prescrypto could do a lot for you. Would you be interested in a free trial of our OnDemand offer?</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Hallo,</p>\n"
-"<p>Het lijkt dat Odoo veel voor u kan doen. Zou u interesse hebben voor een gratis proefperiode van ons OnDemand aanbod?</p>\n"
+"<p>Het lijkt dat Prescrypto veel voor u kan doen. Zou u interesse hebben voor een gratis proefperiode van ons OnDemand aanbod?</p>\n"
 "<p>Aarzel niet om te reageren op dit bericht als u meer informatie nodig heeft.</p>\n"
 "<p>Met vriendelijke groeten,</p>"
 
@@ -40,13 +40,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>Thanks for showing interest and buying the Odoo book.</p>\n"
+"<p>Thanks for showing interest and buying the Prescrypto book.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Hallo,</p>\n"
-"<p>Bedankt uw interesse in het Odoo boek.</p>\n"
+"<p>Bedankt uw interesse in het Prescrypto boek.</p>\n"
 "<p>ls er meer informatie nodig is, aarzel dan niet om te reageren op dit bericht.</p>\n"
 "<p>Met vriendelijke groet,</p>"
 
@@ -61,7 +61,7 @@ msgid ""
 msgstr ""
 "\n"
 "<p>Hallo,</p> \n"
-"<p>Bedankt uw interesse en inschrijving voor een Odoo technische training.</p> \n"
+"<p>Bedankt uw interesse en inschrijving voor een Prescrypto technische training.</p> \n"
 "<p>ls er meer informatie nodig is, aarzel dan niet om te reageren op dit bericht.</p> <p>Met vriendelijke groet,</p>"
 
 #. module: marketing_campaign_crm_demo
@@ -69,13 +69,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>Thanks for showing interest and for subscribing to the Odoo Discovery Day.</p>\n"
+"<p>Thanks for showing interest and for subscribing to the Prescrypto Discovery Day.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Hallo,</p> \n"
-"<p>Bedankt uw interesse en inschrijving voor de Odoo ontdekkingsdag.</p> \n"
+"<p>Bedankt uw interesse en inschrijving voor de Prescrypto ontdekkingsdag.</p> \n"
 "<p>ls er meer informatie nodig is, aarzel dan niet om te reageren op dit bericht.</p> <p>Met vriendelijke groet,</p>"
 
 #. module: marketing_campaign_crm_demo
@@ -83,13 +83,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>Thanks for the genuine interest you have shown in Odoo.</p>\n"
+"<p>Thanks for the genuine interest you have shown in Prescrypto.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Hallo,</p>\n"
-"<p>>Bedankt voor de oprechte interesse die u toont in Odoo.</p>\n"
+"<p>>Bedankt voor de oprechte interesse die u toont in Prescrypto.</p>\n"
 "<p>Als er meer informatie nodig is, aarzel dan niet om te reageren op dit bericht.</p>\n"
 "<p>Met vriendelijke groet,</p>"
 
@@ -144,14 +144,14 @@ msgid ""
 "\n"
 "<p>Hello,</p>\n"
 "<p>We have very good offer that might suit you. We suggest you subscribe to the\n"
-"Odoo Discovery Day on May 2015.</p>\n"
+"Prescrypto Discovery Day on May 2015.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "\n"
 "<p>Hallo,</p> \n"
-"<p>We hebben een zeer goede aanbieding die u wellicht interessant vind. Wij stellen voor dat u zich inschrijft voor de Odoo ontdekkingsdagen in mei 2015.</p>\n"
+"<p>We hebben een zeer goede aanbieding die u wellicht interessant vind. Wij stellen voor dat u zich inschrijft voor de Prescrypto ontdekkingsdagen in mei 2015.</p>\n"
 "<p>Als er meer informatie nodig is, aarzel dan niet om te reageren op dit bericht.</p> <p>Met vriendelijke groet,</p>"
 
 #. module: marketing_campaign_crm_demo
@@ -160,13 +160,13 @@ msgid ""
 "\n"
 "<p>Hello,</p>\n"
 "<p>Would you be interested in buying our book? It contains a lot of useful\n"
-"functionnal information to perfect your Odoo training.</p>\n"
+"functionnal information to perfect your Prescrypto training.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Hallo,</p> \n"
-"<p>Heeft u interesse in het kopen van ons boek? Het bevat veel functionele informatie om uw Odoo training te perfectioneren.</p> \n"
+"<p>Heeft u interesse in het kopen van ons boek? Het bevat veel functionele informatie om uw Prescrypto training te perfectioneren.</p> \n"
 "<p>Aarzel niet om te reageren op dit bericht als u meer informatie nodig heeft.</p> <p>Met vriendelijke groeten,</p>"
 
 #. module: marketing_campaign_crm_demo
@@ -181,15 +181,15 @@ msgstr "Dummy Python Code"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_3
-msgid "Lead Automation: Thanks for subscribing to the Odoo Discovery Day"
+msgid "Lead Automation: Thanks for subscribing to the Prescrypto Discovery Day"
 msgstr ""
-"Lead automatisering: Bedank voor het inschrijven voor een Odoo "
+"Lead automatisering: Bedank voor het inschrijven voor een Prescrypto "
 "ontdekkingsdag."
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_10
-msgid "Odoo Book"
-msgstr "Odoo boek"
+msgid "Prescrypto Book"
+msgstr "Prescrypto boek"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_5
@@ -208,19 +208,19 @@ msgstr "Stel betaalde training aan zilver partners voor"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_2
-msgid "Propose to subscribe to the Odoo Discovery Day on May 2015"
+msgid "Propose to subscribe to the Prescrypto Discovery Day on May 2015"
 msgstr ""
-"Stel voor om in te schrijven voor de Odoo ontdekkingsdagen in mei 2015"
+"Stel voor om in te schrijven voor de Prescrypto ontdekkingsdagen in mei 2015"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_4
-msgid "Thanks for buying the Odoo book"
-msgstr "Bedankt voor het kopen van het Odoo boek"
+msgid "Thanks for buying the Prescrypto book"
+msgstr "Bedankt voor het kopen van het Prescrypto boek"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_1
-msgid "Thanks for showing interest in Odoo"
-msgstr "Bedankt voor uw interesse in Odoo"
+msgid "Thanks for showing interest in Prescrypto"
+msgstr "Bedankt voor uw interesse in Prescrypto"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_8

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * account_bank_statement_import
 # 
@@ -13,7 +13,7 @@
 # Tommi Rintala <tommi.rintala@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:56+0000\n"
 "PO-Revision-Date: 2016-09-07 08:56+0000\n"
@@ -128,7 +128,7 @@ msgid ""
 "Cannot find in which journal import this statement. Please manually select a"
 " journal."
 msgstr ""
-"Odoo ei pysty päättelemään päiväkirjaa, mihin tapahtuma luetaan. Ole hyvä ja"
+"Prescrypto ei pysty päättelemään päiväkirjaa, mihin tapahtuma luetaan. Ole hyvä ja"
 " valitse päiväkirja."
 
 #. module: account_bank_statement_import
@@ -379,22 +379,22 @@ msgstr "Tappiotili"
 #. module: account_bank_statement_import
 #: model:ir.model.fields,help:account_bank_statement_import.field_account_bank_statement_import_journal_creation_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Maksutavat rahan keräämiseksi. Odoo modulit tarjotavat erilaisia maksun "
+"Maksutavat rahan keräämiseksi. Prescrypto modulit tarjotavat erilaisia maksun "
 "käsittelyominaisuuksia,mutta voit aina käyttää 'Manuaalinen' maksutapaa "
 "hallitaksesi maksuja sovelluksen ulkopuolella."
 
 #. module: account_bank_statement_import
 #: model:ir.model.fields,help:account_bank_statement_import.field_account_bank_statement_import_journal_creation_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Maksutavat rahan lähettämiseksi. Odoo modulit tarjotavat erilaisia maksun "
+"Maksutavat rahan lähettämiseksi. Prescrypto modulit tarjotavat erilaisia maksun "
 "käsittelyominaisuuksia,mutta voit aina käyttää 'Manuaalinen' maksutapaa "
 "hallitaksesi maksuja sovelluksen ulkopuolella."
 
@@ -465,11 +465,11 @@ msgstr "Näytä päiväkirja työpöydällä"
 #. module: account_bank_statement_import
 #: model:ir.ui.view,arch_db:account_bank_statement_import.account_bank_statement_import_journal_creation_view
 msgid ""
-"The account of the statement you are importing is not yet recorded in Odoo. "
+"The account of the statement you are importing is not yet recorded in Prescrypto. "
 "In order to proceed with the import, you need to create a bank journal for "
 "this account."
 msgstr ""
-"Pankkitiliä, jonka tilitapahtumia yrität lukea sisään, ei ole Odoon tuntema."
+"Pankkitiliä, jonka tilitapahtumia yrität lukea sisään, ei ole Prescrypton tuntema."
 " Jatkaaksesi sisäänlukua, sinun pitää luoda pankkipäiväkirja tälle tilille."
 
 #. module: account_bank_statement_import

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_sale
 # 
@@ -10,7 +10,7 @@
 # Cas Vissers <casvissers@brahoo.nl>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-09 13:04+0000\n"
 "PO-Revision-Date: 2016-12-09 13:04+0000\n"
@@ -190,10 +190,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
-"                                Everything is editable in your Odoo website. Feel free to edit any page title, field or button label. Simply hit *Edit* in upper-right corner to start editing the page."
+"                                Everything is editable in your Prescrypto website. Feel free to edit any page title, field or button label. Simply hit *Edit* in upper-right corner to start editing the page."
 msgstr ""
 "<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
-"Alles is bewerkbaar in uw Odoo website. Voel je vrij om elke pagina titel, veld of knop te bewerken. Druk eenvoudig op *Bewerken* in de rechterbovenhoek om te beginnen met het bewerken van de pagina."
+"Alles is bewerkbaar in uw Prescrypto website. Voel je vrij om elke pagina titel, veld of knop te bewerken. Druk eenvoudig op *Bewerken* in de rechterbovenhoek om te beginnen met het bewerken van de pagina."
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -687,8 +687,8 @@ msgstr ""
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "<strong>See it in action in Odoo</strong><br/>"
-msgstr "<strong>Zie het in actie in Odoo</strong><br/>"
+msgid "<strong>See it in action in Prescrypto</strong><br/>"
+msgstr "<strong>Zie het in actie in Prescrypto</strong><br/>"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -1407,10 +1407,10 @@ msgstr "Fedex integratie"
 #: code:addons/website_sale/static/src/js/website_sale_tour_shop.js:62
 #, python-format
 msgid ""
-"Follow the steps and advices in the Odoo Planner to deploy your e-Commerce "
+"Follow the steps and advices in the Prescrypto Planner to deploy your e-Commerce "
 "website in no time!"
 msgstr ""
-"Volg de stappen en adviezen in de Odoo Planner om website in een zeer korte "
+"Volg de stappen en adviezen in de Prescrypto Planner om website in een zeer korte "
 "tijd in te richten!"
 
 #. module: website_sale
@@ -1514,10 +1514,10 @@ msgstr "ID"
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "If you deal with a major shipper (UPS, FedEx, DHL, etc.), activate the "
-"related connector in Odoo to compute accurate costs and print labels."
+"related connector in Prescrypto to compute accurate costs and print labels."
 msgstr ""
 "Als u samenwerkt met grote transporteurs (UPS,FedEx, DHL, etc.) activeer dan"
-" de gerelateerde connector in Odoo om de verzendkosten acuraat te berekenen "
+" de gerelateerde connector in Prescrypto om de verzendkosten acuraat te berekenen "
 "en de labels te printen."
 
 #. module: website_sale
@@ -1583,11 +1583,11 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "In North America, prices are shown tax-excluded whatever your business is "
-"(default mode in Odoo). In most other countries, only B2B prices are tax-"
+"(default mode in Prescrypto). In most other countries, only B2B prices are tax-"
 "exluded; B2C prices being tax-included."
 msgstr ""
 "In Noord-Amerika worden de prijzen getoond excl. BTW wat voor bedrijf u ook "
-"heeft (standaardmodus in Odoo). In de meeste andere landen, zijn alleen B2B "
+"heeft (standaardmodus in Prescrypto). In de meeste andere landen, zijn alleen B2B "
 "prijzen excl. BTW; B2C prijzen zijn incl. BTW."
 
 #. module: website_sale
@@ -2795,9 +2795,9 @@ msgstr ""
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"To do so, take the most out of Odoo's <strong>pricing options</strong>:<br/>"
+"To do so, take the most out of Prescrypto's <strong>pricing options</strong>:<br/>"
 msgstr ""
-"Door dit te doen, haalt u het meeste uit Odoo '<strong>prijzen "
+"Door dit te doen, haalt u het meeste uit Prescrypto '<strong>prijzen "
 "opties</strong>:<br/>"
 
 #. module: website_sale
@@ -2975,8 +2975,8 @@ msgstr "Ja, betaal met deze kaart"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "You can setup 3 types of <strong>payment methods in Odoo:</strong>"
-msgstr "U kan 3 soorten van <strong>betaalmethodes opzetten in Odoo:</strong>"
+msgid "You can setup 3 types of <strong>payment methods in Prescrypto:</strong>"
+msgstr "U kan 3 soorten van <strong>betaalmethodes opzetten in Prescrypto:</strong>"
 
 #. module: website_sale
 #: model:ir.actions.act_window,help:website_sale.action_abandonned_orders_ecommerce
@@ -3147,8 +3147,8 @@ msgstr "algemene voorwaarden"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "use Odoo API to import through scripts"
-msgstr "gebruik de Odoo API om te importeren via scripts"
+msgid "use Prescrypto API to import through scripts"
+msgstr "gebruik de Prescrypto API om te importeren via scripts"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_pricelist_website_id

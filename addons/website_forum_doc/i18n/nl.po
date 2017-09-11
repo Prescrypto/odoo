@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
@@ -9,7 +9,7 @@
 # Erwin van der Ploeg <erwin@odooexperts.nl>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -172,13 +172,13 @@ msgstr "Fout! het is niet mogelijk recursieve categorieën te maken!"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure Odoo"
-msgstr "Leg uit hoe in Odoo in te stellen"
+msgid "Explain how to configure Prescrypto"
+msgstr "Leg uit hoe in Prescrypto in te stellen"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
-msgstr "Leg uit hoe te implementeren in Odoo"
+msgid "Explain how to implement it in Prescrypto"
+msgstr "Leg uit hoe te implementeren in Prescrypto"
 
 #. module: website_forum_doc
 #: model:ir.model.fields,field_description:website_forum_doc.field_forum_documentation_toc_forum_id
@@ -389,8 +389,8 @@ msgstr "Naam fase"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
-msgstr "De vraag is begrijpbaar voor iemand die geen Odoo kent"
+msgid "The answer is understandable for someone who does not know Prescrypto"
+msgstr "De vraag is begrijpbaar voor iemand die geen Prescrypto kent"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question

@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * stock
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-22 14:03+0000\n"
 "PO-Revision-Date: 2016-01-30 10:36+0000\n"
@@ -256,9 +256,9 @@ msgstr "Contenido completo"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
+"Prescrypto will not automatically generate a back order."
 msgstr ""
-"Cambiando esta cantidad aquí, acepta la nueva cantidad como completa: Odoo "
+"Cambiando esta cantidad aquí, acepta la nueva cantidad como completa: Prescrypto "
 "no generará automáticamente una entrega parcial."
 
 #. module: stock
@@ -4196,21 +4196,21 @@ msgstr ""
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field, "
-"Odoo generates a procurement to bring the forecasted quantity to the Max "
+"Prescrypto generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
 "Cuando las existencias virtuales estén por debajo de la cantidad mínima "
-"especificada en este campo, Odoo generará un abastecimiento para llevar la "
+"especificada en este campo, Prescrypto generará un abastecimiento para llevar la "
 "cantidad prevista a la cantidad máxima."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Prescrypto generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
-"Cuando las existencias virtuales estén por debajo de la cantidad, Odoo "
+"Cuando las existencias virtuales estén por debajo de la cantidad, Prescrypto "
 "generará un abastecimiento para llevar la cantidad prevista a la cantidad "
 "especificada como aquí como máxima."
 

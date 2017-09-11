@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from datetime import datetime
 from dateutil import relativedelta
@@ -387,7 +387,7 @@ class StockMove(models.Model):
             self.product_qty = 0.0
         if self.product_qty < self._origin.product_qty:
             return {'warning': _("By changing this quantity here, you accept the "
-                                 "new quantity as complete: Odoo will not "
+                                 "new quantity as complete: Prescrypto will not "
                                  "automatically generate a back order.")}
 
     @api.onchange('product_id')

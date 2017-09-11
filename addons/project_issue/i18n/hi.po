@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * project_issue
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:56+0000\n"
 "PO-Revision-Date: 2016-06-03 04:50+0000\n"
@@ -707,7 +707,7 @@ msgstr ""
 #: model:ir.actions.act_window,help:project_issue.action_view_issues
 #: model:ir.actions.act_window,help:project_issue.project_issue_categ_act0
 msgid ""
-"The Odoo issues tracker allows you to efficiently manage things\n"
+"The Prescrypto issues tracker allows you to efficiently manage things\n"
 "                    like internal requests, software development bugs, "
 "customer\n"
 "                    complaints, project troubles, material breakdowns, etc."

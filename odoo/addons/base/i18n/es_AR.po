@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * base
 #
@@ -7,7 +7,7 @@
 # Virginia Castro <castrovirginia88@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:54+0000\n"
 "PO-Revision-Date: 2016-05-30 02:01+0000\n"
@@ -3311,11 +3311,11 @@ msgstr "Stock en el portal"
 msgid ""
 "Portal members have specific access rights (such as record rules and "
 "restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
+"                They usually do not belong to the usual Prescrypto groups."
 msgstr ""
 "Los miembros del portal tienen derechos de acceso específicos (tales como "
 "reglas de registro y menús restringidos).\n"
-"Normalmente no pertenecen a los grupos habituales de Odoo."
+"Normalmente no pertenecen a los grupos habituales de Prescrypto."
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_hw_posbox_homepage
@@ -3398,11 +3398,11 @@ msgstr ""
 msgid ""
 "Public users have specific access rights (such as record rules and "
 "restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
+"                They usually do not belong to the usual Prescrypto groups."
 msgstr ""
 "Los usuarios anónimos tienen permisos específicos (tales como reglas de "
 "registro y menús restringidos). Normalmente no pertenecen a los grupos "
-"usuales de Odoo."
+"usuales de Prescrypto."
 
 #. module: base
 #: model:ir.module.module,summary:base.module_website_membership
@@ -4041,10 +4041,10 @@ msgstr "Actualización del sistema"
 msgid ""
 "TGZ format: this is a compressed archive containing a PO file, directly "
 "suitable\n"
-"                                for uploading to Odoo's translation platform,"
+"                                for uploading to Prescrypto's translation platform,"
 msgstr ""
 "Formato TGZ: archivo comprimido que contiene un archivo PO, adecuado para "
-"subirlo directamente a la plataforma de traducción de Odoo."
+"subirlo directamente a la plataforma de traducción de Prescrypto."
 
 #. module: base
 #: code:addons/base/res/res_company.py:218
@@ -4190,11 +4190,11 @@ msgstr "La compañía para la cual trabaja este usuario actualmente."
 #: model:ir.actions.act_window,help:base.act_ir_actions_todo_form
 msgid ""
 "The configuration wizards are used to help you configure a new instance of "
-"Odoo. They are launched during the installation of new modules, but you can "
+"Prescrypto. They are launched during the installation of new modules, but you can "
 "choose to restart some wizards manually from this menu."
 msgstr ""
 "Los asistentes de configuración se usan para ayudarle a configurar una nueva "
-"instancia de Odoo. Son lanzados durante la instalación de nuevos módulos, "
+"instancia de Prescrypto. Son lanzados durante la instalación de nuevos módulos, "
 "pero puede escoger reiniciar alguno de ellos manualmente desde este menú."
 
 #. module: base
@@ -4733,13 +4733,13 @@ msgid ""
 "arrow, but rather add new nodes or arrows. If you absolutly need to modify a "
 "node or arrow, you can only change fields that are empty or set to the "
 "default value. If you don't do that, your customization will be overwrited "
-"at the next update or upgrade to a future version of Odoo."
+"at the next update or upgrade to a future version of Prescrypto."
 msgstr ""
 "Cuando personalice un flujo, asegúrese que no modifica un nodo o flecha "
 "existente, sino que añade nuevos. Si es imprescindible modificar un nudo o "
 "flecha, puede cambiar sólo campos que estén vacíos o en el valor por "
 "defecto. Si no hace eso, su personalización será sobrescrita en la próxima "
-"actualización o migración a una versión futura de Odoo."
+"actualización o migración a una versión futura de Prescrypto."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_act_server_sequence
@@ -4860,10 +4860,10 @@ msgstr "No puede registrar dos tipos de letra con el mismo nombre"
 #, python-format
 msgid ""
 "You can not remove the admin user as it is used internally for resources "
-"created by Odoo (updates, module installation, ...)"
+"created by Prescrypto (updates, module installation, ...)"
 msgstr ""
 "No puede eliminar el usuario admin, ya que es usado internamente por los "
-"recursos creados por Odoo (actualizaciones, instalación de módulos, ...)"
+"recursos creados por Prescrypto (actualizaciones, instalación de módulos, ...)"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_country_address_format
@@ -4946,7 +4946,7 @@ msgid ""
 "instead.If SSL is needed, an upgrade to Python 2.6 on the server-side should "
 "do the trick."
 msgstr ""
-"Su servidor Odoo no soporta SMTP bajo SSL. Puede usar STARTTLS en su lugar. "
+"Su servidor Prescrypto no soporta SMTP bajo SSL. Puede usar STARTTLS en su lugar. "
 "Si se requiere SSL, una actualización a Python 2.6 en el servidor puede "
 "funcionar."
 

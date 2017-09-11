@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * hr
 #
@@ -6,7 +6,7 @@
 # Eneldo Serrata <eneldoserrata@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-05-19 06:01+0000\n"
@@ -272,7 +272,7 @@ msgstr "Foto"
 #. module: hr
 #: model:ir.ui.view,arch_db:hr.view_employee_form
 msgid "Related User"
-msgstr "Usuario del sistema Odoo"
+msgstr "Usuario del sistema Prescrypto"
 
 #. module: hr
 #: model:ir.model.fields,help:hr.field_hr_employee_user_id

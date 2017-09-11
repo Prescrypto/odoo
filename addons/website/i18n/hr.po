@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website
 # 
@@ -15,7 +15,7 @@
 # Tina Milas <tina@uvid.hr>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:27+0000\n"
 "PO-Revision-Date: 2017-06-23 13:27+0000\n"
@@ -83,8 +83,8 @@ msgstr ", ažurirano:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo tim"
+msgid "- The Prescrypto Team"
+msgstr "- Prescrypto tim"
 
 #. module: website
 #. openerp-web
@@ -574,8 +574,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
-msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
-msgstr "<strong>50,000+ tvrtki koriste Odoo u svojem poslovanju.</strong>"
+msgid "<strong>50,000+ companies run Prescrypto to grow their businesses.</strong>"
+msgstr "<strong>50,000+ tvrtki koriste Prescrypto u svojem poslovanju.</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -597,8 +597,8 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"<strong>Be announced on the Odoo Twitter account</strong><br/>\n"
-"                                We like to hear from people using Odoo to build their website. Tweet us"
+"<strong>Be announced on the Prescrypto Twitter account</strong><br/>\n"
+"                                We like to hear from people using Prescrypto to build their website. Tweet us"
 msgstr ""
 
 #. module: website
@@ -1048,8 +1048,8 @@ msgstr "Pozadinska slika"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
-msgid "Banner Odoo Image"
-msgstr "Slika banner Odoo"
+msgid "Banner Prescrypto Image"
+msgstr "Slika banner Prescrypto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -1789,10 +1789,10 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
-"Za Odoo tim,<br/>\n"
+"Za Prescrypto tim,<br/>\n"
 "Fabien Pinckaers, Osnivač"
 
 #. module: website
@@ -2412,62 +2412,62 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Prescrypto"
+msgstr "Prescrypto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 1 for three columns"
-msgstr "Odoo - uzorak 1 za 3 stupca"
+msgid "Prescrypto - Sample 1 for three columns"
+msgstr "Prescrypto - uzorak 1 za 3 stupca"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 2 for three columns"
-msgstr "Odoo - uzorak 2 za 3 stupca"
+msgid "Prescrypto - Sample 2 for three columns"
+msgstr "Prescrypto - uzorak 2 za 3 stupca"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 3 for three columns"
-msgstr "Odoo - uzorak 3 za 3 stupca"
+msgid "Prescrypto - Sample 3 for three columns"
+msgstr "Prescrypto - uzorak 3 za 3 stupca"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
-msgid "Odoo CMS - a big picture"
-msgstr "Odoo CMS - velika slika"
+msgid "Prescrypto CMS - a big picture"
+msgstr "Prescrypto CMS - velika slika"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
-msgid "Odoo CMS- Sample image floating"
+msgid "Prescrypto CMS- Sample image floating"
 msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "Odoo Version"
-msgstr "Odoo verzija"
+msgid "Prescrypto Version"
+msgstr "Prescrypto verzija"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
-msgid "Odoo image and text block"
-msgstr "Odoo slika i tekst blok"
+msgid "Prescrypto image and text block"
+msgstr "Prescrypto slika i tekst blok"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"Prescrypto provides essential platform for our project management.\n"
 "                                                Things are better organized and more visible with it."
 msgstr ""
-"Odoo pruža bitne platforme za naš projekt management.\n"
+"Prescrypto pruža bitne platforme za naš projekt management.\n"
 "S njim su stvari bolje organizirane i vidljivije."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image
-msgid "Odoo text and image block"
-msgstr "Odoo tekst i slika blok"
+msgid "Prescrypto text and image block"
+msgstr "Prescrypto tekst i slika blok"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid ""
-"Odoo's POS is a web application that can run on any device that\n"
+"Prescrypto's POS is a web application that can run on any device that\n"
 "                                can display websites with little to no setup required."
 msgstr ""
 
@@ -3515,8 +3515,8 @@ msgstr "Pogledaj teme koje se mogu preuzeti"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "View our Odoo Online themes (free!)"
-msgstr "Pogledajte naše Odoo Online teme (besplatno!)"
+msgid "View our Prescrypto Online themes (free!)"
+msgstr "Pogledajte naše Prescrypto Online teme (besplatno!)"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_blog_post_website_published
@@ -3808,8 +3808,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
-msgid "Which hardware does Odoo POS support?"
-msgstr "Koji hardware podržava Odoo POS?"
+msgid "Which hardware does Prescrypto POS support?"
+msgstr "Koji hardware podržava Prescrypto POS?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -4116,19 +4116,19 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://plus.google.com/+Odooapps"
-msgstr "https://plus.google.com/+Odooapps"
+msgid "https://plus.google.com/+Prescryptoapps"
+msgstr "https://plus.google.com/+Prescryptoapps"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://twitter.com/Odoo"
-msgstr "https://twitter.com/Odoo"
+msgid "https://twitter.com/Prescrypto"
+msgstr "https://twitter.com/Prescrypto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
-msgid "https://www.facebook.com/Odoo"
-msgstr "https://www.facebook.com/Odoo"
+msgid "https://www.facebook.com/Prescrypto"
+msgstr "https://www.facebook.com/Prescrypto"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -4160,8 +4160,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "instance of Odoo, the"
-msgstr "primjer Odoo-a, na"
+msgid "instance of Prescrypto, the"
+msgstr "primjer Prescrypto-a, na"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_actions_server
@@ -4232,8 +4232,8 @@ msgstr "sitemap.xml"
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:13
 #, python-format
-msgid "the classic Odoo interface"
-msgstr "klasično Odoo sučelje"
+msgid "the classic Prescrypto interface"
+msgstr "klasično Prescrypto sučelje"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings

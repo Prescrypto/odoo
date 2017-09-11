@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -6,7 +6,7 @@
 # Güven YILMAZ <guvenyilmaz@outlook.com.tr>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-22 14:03+0000\n"
 "PO-Revision-Date: 2016-11-22 14:03+0000\n"
@@ -120,8 +120,8 @@ msgstr "muhasebe veya satın alma yüklüyse"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo Ekibi"
+msgid "- The Prescrypto Team"
+msgstr "- Prescrypto Ekibi"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -465,8 +465,8 @@ msgstr "<strong>Varış </strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
-msgstr "<strong>Odoo ile Stoklarınızı yönetmenin keyfini çıkarın!</strong>"
+msgid "<strong>Enjoy your Inventory management with Prescrypto!</strong>"
+msgstr "<strong>Prescrypto ile Stoklarınızı yönetmenin keyfini çıkarın!</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -1104,18 +1104,18 @@ msgstr "Seri Numaraları ile"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
+"Prescrypto will not automatically generate a back order."
 msgstr ""
-"Burada miktarı değiştirerek, yeni miktarı tam olarak kabul ediyorsunuz: Odoo"
+"Burada miktarı değiştirerek, yeni miktarı tam olarak kabul ediyorsunuz: Prescrypto"
 " kendiliğinden bir Sipariş Bakiyesi oluşturmayacaktır."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, Prescrypto measures products by 'units', which are generic and "
 "represent just about anything"
 msgstr ""
-"Varsayılan olarak, Odoo ürünleri 'Birimler' tarafından ölçer ve bunlar "
+"Varsayılan olarak, Prescrypto ürünleri 'Birimler' tarafından ölçer ve bunlar "
 "geneldir ve hemen hemen her şeyi temsil eder."
 
 #. module: stock
@@ -1930,14 +1930,14 @@ msgstr ""
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"            organization. Odoo is able to manage physical locations\n"
+"            organization. Prescrypto is able to manage physical locations\n"
 "            (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "            vendors) and virtual locations which are the counterpart of\n"
 "            the stock operations like the manufacturing orders\n"
 "            consumptions, inventories, etc."
 msgstr ""
 "Deponuzu yapısını ve düzeninin yansıtacak konumları\n"
-"                tanımlayın. Odoo fiziksel konumları (depolar, raflar,\n"
+"                tanımlayın. Prescrypto fiziksel konumları (depolar, raflar,\n"
 "                kutular, vb.), iş ortağı konumları (müşteriler, tedarikçiler)\n"
 "                ve stok işlemlerinin benzeri olan üretim emirleri\n"
 "                harcamaları, sayımlar vb. gibi sanal konumları\n"
@@ -2268,15 +2268,15 @@ msgstr "Avrupalı Müşteriler"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in Prescrypto moves the products from one\n"
 "            location to another one.  For instance, if you receive products\n"
-"            from a vendor, Odoo will move products from the Vendor\n"
+"            from a vendor, Prescrypto will move products from the Vendor\n"
 "            location to the Stock location. Each report can be performed on\n"
 "            physical, partner or virtual locations."
 msgstr ""
-"Odoo da her stok işlemi ürünleri bir konumdan diğerine\n"
+"Prescrypto da her stok işlemi ürünleri bir konumdan diğerine\n"
 "                taşır.  Örneğin, eğer bir tedarikçiden ürün alırsanız\n"
-"                Odoo ürünleri Tedarikçi konumundan Stok konumuna\n"
+"                Prescrypto ürünleri Tedarikçi konumundan Stok konumuna\n"
 "                taşıyacaktır. Her rapor fiziksel, iş ortağı ya da sanal\n"
 "                konumlarda yapılabilir."
 
@@ -2367,10 +2367,10 @@ msgstr "Her ürün kategorisi için sabitlenmiş konumlar"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
-"Odoo Takımı için,<br/>\n"
+"Prescrypto Takımı için,<br/>\n"
 "                            Fabien Pinckaers, Kurucu"
 
 #. module: stock
@@ -2822,12 +2822,12 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, Prescrypto automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
 msgstr ""
-"Otomatik Tedarik yapılandırdıysanız, Odoo satınalma siparişleri otomatik olarak oluşturur.\n"
+"Otomatik Tedarik yapılandırdıysanız, Prescrypto satınalma siparişleri otomatik olarak oluşturur.\n"
 "                       Genellikle onlar hakkında endişelenmenize gerek yok, \n"
 "                       ama bazen sistem genellikle bir yapılandırma sorunu nedeniyle\n"
 "                       karşılık gelen bir belge oluşturmadan bloke kalabilir."
@@ -2886,12 +2886,12 @@ msgstr "Sol üstteki tuşu kullanarak içe aktarın"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In Prescrypto, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        Prescrypto will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
 msgstr ""
-"Odoo'da, ürünlerinizi tedarik etmek için <strong>İhtiyaç Kuralları </strong> kullanılır.\n"
-"                        Odoo, ürünlerinizin stokları tükenmeye başladıkça yeni ürünler satın almak için otomatik olarak bir\n"
+"Prescrypto'da, ürünlerinizi tedarik etmek için <strong>İhtiyaç Kuralları </strong> kullanılır.\n"
+"                        Prescrypto, ürünlerinizin stokları tükenmeye başladıkça yeni ürünler satın almak için otomatik olarak bir\n"
 "                        satınalma önerecektir."
 
 #. module: stock
@@ -3264,10 +3264,10 @@ msgstr "Hurda Konumumu?"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
+"                        If you want to do that, contact your Prescrypto project manager."
 msgstr ""
 "İlk envanterinizi bir Excel veya CSV dosyasından içe aktarmak da mümkündür.\n"
-"                        Bunu yapmak istiyorsanız, Odoo proje yöneticinize başvurun."
+"                        Bunu yapmak istiyorsanız, Prescrypto proje yöneticinize başvurun."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -3465,10 +3465,10 @@ msgstr "Bu konum şirketler arasında paylaşılmış ise bu alanı boş bırak"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, Prescrypto inventory management is\n"
 "                        fully integrated with the purchase app."
 msgstr ""
-"Satış akışında olduğu gibi Odoo stok yönetimi de\n"
+"Satış akışında olduğu gibi Prescrypto stok yönetimi de\n"
 "                        Tamamen satın alma uygulamasıyla entegre."
 
 #. module: stock
@@ -3888,7 +3888,7 @@ msgstr "Daha Fazla Bilgi"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by Prescrypto according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
 msgstr ""
@@ -4167,43 +4167,43 @@ msgstr "Tamam"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"Prescrypto handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
 msgstr ""
-"Odoo<strong> gelişmiş itme / çekme rota yapılandırması </strong>, örneğin:"
+"Prescrypto<strong> gelişmiş itme / çekme rota yapılandırması </strong>, örneğin:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
-msgstr "Odoo, sizin için<strong>bir depoyu</strong> önceden yapılandırdı."
+msgid "Prescrypto has preconfigured <strong>one Warehouse</strong> for you."
+msgstr "Prescrypto, sizin için<strong>bir depoyu</strong> önceden yapılandırdı."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"Prescrypto inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
 msgstr ""
-"Odoo stok yönetimi ile satış ve faturalama işlemleri tamamen entegredir.\n"
+"Prescrypto stok yönetimi ile satış ve faturalama işlemleri tamamen entegredir.\n"
 "                        Her şey teslimat ve son faturalama için ilk tekliften itibaren otomatikleştirilmiştir."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"Prescrypto is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
 msgstr ""
-"Odoo, Ürün Lotları ve Seri'yi kullanarak gelişmiş izlenebilirlik sağlayabiliyor\n"
+"Prescrypto, Ürün Lotları ve Seri'yi kullanarak gelişmiş izlenebilirlik sağlayabiliyor\n"
 "                        Sayılar, genellikle ürünler üzerinde barkodlarla tanımlanır."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that Prescrypto is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
 msgstr ""
-"Elbette kendi çekincelerinizi ekleyebilirsiniz. Odoo'nun aynı kategorideki "
+"Elbette kendi çekincelerinizi ekleyebilirsiniz. Prescrypto'nun aynı kategorideki "
 "birimleri, örneğin litreler hacim kategorisinde galonlara dönüştürebildiğini"
 " lütfen unutmayın"
 
@@ -6570,10 +6570,10 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with Prescrypto Inventory.\n"
 "                        Once you are done, you will benefit from:"
 msgstr ""
-"Bu kılavuz, Odoo Envanterine başlamanıza yardımcı olur.\n"
+"Bu kılavuz, Prescrypto Envanterine başlamanıza yardımcı olur.\n"
 "                        İşiniz bittiğinde, aşağıdakilerden yararlanacaksınız:"
 
 #. module: stock
@@ -7295,29 +7295,29 @@ msgstr "Uyarı!"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr ""
-"Bütün içe aktarma işleminizi sizin yerinize halledebiliriz: Odoo proje "
+"Bütün içe aktarma işleminizi sizin yerinize halledebiliriz: Prescrypto proje "
 "yöneticinize tüm verilerinizi içeren bir CSV dosyası göndermeniz yeterlidir."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr ""
-"Bütün içe aktarma işleminizi sizin yerinize halledebiliriz: Odoo proje "
+"Bütün içe aktarma işleminizi sizin yerinize halledebiliriz: Prescrypto proje "
 "yöneticinize tüm ürünlerinizi içeren bir CSV dosyası göndermeniz yeterlidir."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
+msgid "We hope this guide helped you implement Prescrypto Inventory."
 msgstr ""
-"Bu rehberin Odoo Stok Yönetimi uygulamasında size yardımcı olmasını "
+"Bu rehberin Prescrypto Stok Yönetimi uygulamasında size yardımcı olmasını "
 "umuyoruz."
 
 #. module: stock
@@ -7378,7 +7378,7 @@ msgstr ""
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" Prescrypto generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
 "Kullanılabilir (Öngörülen) stok miktarı Minimum Miktar'ın altına düştüğünde "
@@ -7387,7 +7387,7 @@ msgstr ""
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Prescrypto generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
@@ -7444,21 +7444,21 @@ msgstr ""
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that Prescrypto will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, Prescrypto will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
 msgstr ""
-"Minimum stok miktarını belirleyin, böylece Odoo stok durumunu takip eder ve "
+"Minimum stok miktarını belirleyin, böylece Prescrypto stok durumunu takip eder ve "
 "otomatik olarak taslak üretim emri veya satın alma talebi oluşturur. "
 "Öngörülen Miktar (= eldeki stok miktarı - tüm onaylı satış siparişleri ve "
 "stok rezervasyonları) minimum miktarın altına düştüğünde ihtiyaç planlama "
 "tetiklenir. Stok ihtiyaç planlama kuralında maksimum stok miktarı "
-"belirlediyseniz Odoo stok miktarını maksimum stok miktarına tamamlayacak "
+"belirlediyseniz Prescrypto stok miktarını maksimum stok miktarına tamamlayacak "
 "şekilde ihtiyaç hesaplayacaktır. Ürün kartı üzerinde \"Teklif Toplama\" "
-"seçili ise, Odoo stok ihtiyaç hesaplaması sonucunda satın alma teklif talebi"
+"seçili ise, Prescrypto stok ihtiyaç hesaplaması sonucunda satın alma teklif talebi"
 " yerine otomatik \"Teklif Toplama\" oluşturur. İhtiyaç planlamasının "
 "hesaplanması sürekli ve anlık olarak otomatik yapılabildiği gibi, "
 "\"Planlayıcıları Çalıştır\" butonu tıklanarak manuel olarak da "
@@ -7659,10 +7659,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed (<i>done</i>) quantities. Click <i>apply</i> and\n"
-"                        Odoo will process all quantities to do."
+"                        Prescrypto will process all quantities to do."
 msgstr ""
 "İşlenmiş (<i> biten</i>) miktar ayarlamadınız. <I> uygula </i> 'yı tıklayın ve\n"
-"                        Odoo, yapılması gereken her şeyi işleyecektir."
+"                        Prescrypto, yapılması gereken her şeyi işleyecektir."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_picking_return.py:43
@@ -7784,20 +7784,20 @@ msgstr "örn. PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
+"Prescrypto do it automatically while validating"
 msgstr ""
-"Ya ürün satırlarındaki miktarı manuel olarak güncelleyin ya da Odoo'nun "
+"Ya ürün satırlarındaki miktarı manuel olarak güncelleyin ya da Prescrypto'nun "
 "doğrulama sırasında otomatik olarak yapmasını sağlayın"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the Prescrypto Barcode app, or let Prescrypto do it automatically while "
 "validating"
 msgstr ""
-"Ya ürün satırlarındaki miktarı manuel olarak güncelleyerek ya da Odoo Barkod"
-" uygulaması ile tarayarak ya da Odoo'nun doğrulama sırasında otomatik olarak"
+"Ya ürün satırlarındaki miktarı manuel olarak güncelleyerek ya da Prescrypto Barkod"
+" uygulaması ile tarayarak ya da Prescrypto'nun doğrulama sırasında otomatik olarak"
 " yapmasını sağlayın"
 
 #. module: stock

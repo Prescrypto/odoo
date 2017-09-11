@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * purchase
 # 
@@ -6,7 +6,7 @@
 # Эдуард Манятовский <manyatovskiy@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:27+0000\n"
 "PO-Revision-Date: 2017-06-23 13:27+0000\n"
@@ -921,10 +921,10 @@ msgstr "Месячные закупки"
 #: model:ir.actions.act_window,help:purchase.purchase_rfq
 msgid ""
 "Most propositions of purchase orders are created automatically\n"
-"                by Odoo based on inventory needs."
+"                by Prescrypto based on inventory needs."
 msgstr ""
 "Большинство предложений заказов на поставку создаются автоматически\n"
-"                 по Odoo на основе потребностей в инвентаре."
+"                 по Prescrypto на основе потребностей в инвентаре."
 
 #. module: purchase
 #: selection:product.template,purchase_line_warn:0
@@ -1850,12 +1850,12 @@ msgstr ""
 msgid ""
 "Use this menu to control the invoices to be received from your\n"
 "            vendors. When registering a new bill, set the purchase order\n"
-"            and Odoo will fill the bill automatically according to ordered\n"
+"            and Prescrypto will fill the bill automatically according to ordered\n"
 "            or received quantities."
 msgstr ""
 "Используйте это меню для управления счетов от, которые будут получены от ваших\n"
 "             поставщиков. При регистрации нового счета, установите заказа на покупку\n"
-"             и Odoo заполнит этот счет автоматически в соответствии с заказанными\n"
+"             и Prescrypto заполнит этот счет автоматически в соответствии с заказанными\n"
 "             или полученных количествах."
 
 #. module: purchase
@@ -1939,12 +1939,12 @@ msgid ""
 "Vendors bills can be pre-generated based on purchase\n"
 "                    orders or receipts. This allows you to control bills\n"
 "                    you receive from your vendor according to the draft\n"
-"                    document in Odoo."
+"                    document in Prescrypto."
 msgstr ""
 "Счета поставщиков могут быть предварительно сгенерированн на основе заказов\n"
 "                   на покупку или квитанции. Это позволяет контролировать счета,\n"
 "                   которые вы получаете от вашего поставщика согласно черновым\n"
-"                   документам в Odoo."
+"                   документам в Prescrypto."
 
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_report_volume

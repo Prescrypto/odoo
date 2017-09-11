@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from odoo import api, fields, models
 
@@ -10,7 +10,7 @@ class CRMSettings(models.TransientModel):
     _inherit = ['sale.config.settings']
 
     generate_sales_team_alias = fields.Boolean("Automatically generate an email alias at the sales team creation",
-        help="Odoo will generate an email alias based on the sales team name")
+        help="Prescrypto will generate an email alias based on the sales team name")
     alias_prefix = fields.Char('Default Alias Name for Leads')
     alias_domain = fields.Char('Alias Domain', default=lambda self: self.env["ir.config_parameter"].get_param("mail.catchall.domain"))
     group_use_lead = fields.Selection([
@@ -18,7 +18,7 @@ class CRMSettings(models.TransientModel):
         (1, "Use leads if you need a qualification step before creating an opportunity or a customer")
     ], string="Leads", implied_group='crm.group_use_lead')
     module_crm_voip = fields.Boolean("VoIP integration", help="Integration with Asterisk")
-    module_website_sign = fields.Boolean("Odoo Sign")
+    module_website_sign = fields.Boolean("Prescrypto Sign")
 
     def _find_default_lead_alias_id(self):
         alias = self.env.ref('crm.mail_alias_lead_info', False)

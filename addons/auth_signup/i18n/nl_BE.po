@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * auth_signup
 #
@@ -6,7 +6,7 @@
 # P B <transifex@peter.nootje.be>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-01-26 12:25+0000\n"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. module: auth_signup
 #: model:mail.template,subject:auth_signup.set_password_email
-msgid "${object.company_id.name} invitation to connect on Odoo"
-msgstr "${object.company_id.name} Uitnodigen om te verbinden op Odoo"
+msgid "${object.company_id.name} invitation to connect on Prescrypto"
+msgstr "${object.company_id.name} Uitnodigen om te verbinden op Prescrypto"
 
 #. module: auth_signup
 #: model:ir.ui.view,arch_db:auth_signup.res_users_form_view

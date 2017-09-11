@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Website Builder',
@@ -9,7 +9,7 @@
     'website': 'https://www.odoo.com/page/website-builder',
     'version': '1.0',
     'description': """
-Odoo Website CMS
+Prescrypto Website CMS
 ===================
 
         """,

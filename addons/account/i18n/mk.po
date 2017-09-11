@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * account
 #
@@ -6,7 +6,7 @@
 # Aleksandar Vangelovski <aleksandarv@hbee.eu>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:53+0000\n"
 "PO-Revision-Date: 2016-05-19 13:55+0000\n"
@@ -245,7 +245,7 @@ msgid ""
 "                      <tr>\n"
 "                        <td align=\"center\">\n"
 "                            Powered by <a href=\"https://www.odoo.com"
-"\">Odoo</a>.\n"
+"\">Prescrypto</a>.\n"
 "                        </td>\n"
 "                      </tr>\n"
 "                    </tbody>\n"
@@ -513,8 +513,8 @@ msgstr "<span>Приказ</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>-Odoo тимот</strong>"
+msgid "<strong>-The Prescrypto Team</strong>"
+msgstr "<strong>-Prescrypto тимот</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -615,10 +615,10 @@ msgstr ""
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>Create the bill in Odoo</strong><br/> with a proper due date, and "
+"<strong>Create the bill in Prescrypto</strong><br/> with a proper due date, and "
 "create the vendor if it doesnt' exist yet."
 msgstr ""
-"<strong>Креирај ја сметката во Odoo</strong><br/> со правилен краен рок на "
+"<strong>Креирај ја сметката во Prescrypto</strong><br/> со правилен краен рок на "
 "датум, и додади добавувач доколку нема."
 
 #. module: account
@@ -763,12 +763,12 @@ msgstr "<strong>Порамни извод од банка</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Reconcile with existing transaction</strong><br/>\n"
-"                                        In this case, Odoo should "
+"                                        In this case, Prescrypto should "
 "automatically match the bank statement with the previously recorded check "
 "transaction."
 msgstr ""
 "<strong>Порамни со постоечка трансакција</strong><br/>\n"
-"Во овој случај, Odoo би требал автоматски да го поврзи банкарскиот извод со "
+"Во овој случај, Prescrypto би требал автоматски да го поврзи банкарскиот извод со "
 "претходната постоечка трансакција."
 
 #. module: account
@@ -866,16 +866,16 @@ msgstr "<strong>Целни движења:</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Test the following three scenarios in order to assist you in "
-"familiarizing yourself with Odoo:</strong>"
+"familiarizing yourself with Prescrypto:</strong>"
 msgstr ""
 "<strong>Тестирајте ги трите сценарија со цел да се запознаете повеќе со "
-"користењето на Odoo:</strong>"
+"користењето на Prescrypto:</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>There are three different levels of access rights in Odoo:</strong>"
-msgstr "<strong>Има три нивоа на различна пристапност во Odoo :</strong>"
+"<strong>There are three different levels of access rights in Prescrypto:</strong>"
+msgstr "<strong>Има три нивоа на различна пристапност во Prescrypto :</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_overdue_document
@@ -974,12 +974,12 @@ msgstr "Листа на познати даноци и нивните проце
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"A product in Odoo is something you sell or buy \n"
+"A product in Prescrypto is something you sell or buy \n"
 "                        whether or not it is goods, consumables, or "
 "services.\n"
 "                        Choose how you want to create your products:"
 msgstr ""
-"Производ во Odoo е нешто што го продавате или купувате,\n"
+"Производ во Prescrypto е нешто што го продавате или купувате,\n"
 "тоа се: добра, потрошен материјал или услуги.\n"
 "Изберете како сакате да ги креирате вашите производи:"
 
@@ -4002,8 +4002,8 @@ msgstr ""
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Enjoy your Odoo experience,"
-msgstr "Уживајте во вашето Odoo искуство,"
+msgid "Enjoy your Prescrypto experience,"
+msgstr "Уживајте во вашето Prescrypto искуство,"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_move_line_form
@@ -4326,10 +4326,10 @@ msgstr "За процент внесете сооднос помеѓу 0-100."
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
-"За Odoo тимот,<br/>\n"
+"За Prescrypto тимот,<br/>\n"
 "Fabien Pinckaers, основач"
 
 #. module: account
@@ -4434,7 +4434,7 @@ msgstr "Започни"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_bank_statement_import_csv
 msgid ""
-"Get your bank statements from your bank and import them in Odoo in the .CSV "
+"Get your bank statements from your bank and import them in Prescrypto in the .CSV "
 "format.\n"
 "-This installs the module account_bank_statement_import_csv."
 msgstr ""
@@ -4804,14 +4804,14 @@ msgstr ""
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "If you want to be able to send customer statements from Odoo, you must:"
-msgstr "Ако сакате да испраќате клиентски изводи од Odoo, морате:"
+msgid "If you want to be able to send customer statements from Prescrypto, you must:"
+msgstr "Ако сакате да испраќате клиентски изводи од Prescrypto, морате:"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "If you want to be able to send your customers their statements \n"
-"                        from Odoo, you first need to record all outstanding "
+"                        from Prescrypto, you first need to record all outstanding "
 "transactions \n"
 "                        in the payable and receivable accounts. These would "
 "be invoices \n"
@@ -4819,7 +4819,7 @@ msgid ""
 "been reconciled."
 msgstr ""
 "Доколку сакате да ги испраќате вашите изводи кон вашите клиенти преку "
-"Odoo, \n"
+"Prescrypto, \n"
 "прво треба да ги запишете сите неподмирени трансакции \n"
 "во задолжувачките и побарувачките сметки. Ова би биле фактури кои\n"
 " што сеуште не ви се платени или плаќања кои што не ви биле порамнети."
@@ -4865,8 +4865,8 @@ msgstr ""
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "In Odoo,"
-msgstr "Во Odoo,"
+msgid "In Prescrypto,"
+msgstr "Во Prescrypto,"
 
 #. module: account
 #: code:addons/account/models/account_bank_statement.py:406
@@ -5329,7 +5329,7 @@ msgid ""
 "have less \n"
 "                            data to import and balances to set. If you plan "
 "to do so, \n"
-"                            we recommend you start using Odoo for invoicing "
+"                            we recommend you start using Prescrypto for invoicing "
 "and payments \n"
 "                            now, and then move all other accounting "
 "transactions at a later time."
@@ -5338,7 +5338,7 @@ msgstr ""
 "на крајот на фискална година. Ова ви овозможува да имате помалку \n"
 "дата за импортирање и биланси за обработување. Доколку се одлучите да го "
 "направите тоа, \n"
-"ви предлагаме да започнете со користење на Odoo за фактурирање и плаќање "
+"ви предлагаме да започнете со користење на Prescrypto за фактурирање и плаќање "
 "сега, \n"
 "а подоцна можете да ги префрлите сите други останати сметководствени "
 "трансакции."
@@ -6029,22 +6029,22 @@ msgstr "Мај"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Начини на плаќање за собирање на парични средства. Odoo модулите нудат "
+"Начини на плаќање за собирање на парични средства. Prescrypto модулите нудат "
 "разновидни плаќачко раководни опции, но секогаш можете да го користите "
 "'рачниот' плаќачки метод со цел да управувате со плаќања надвор од софтверот."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Начини на плаќање за собирање на парични средства. Odoo модулите нудат "
+"Начини на плаќање за собирање на парични средства. Prescrypto модулите нудат "
 "разновидни плаќачко раководни опции, но секогаш можете да го користите "
 "'рачниот' плаќачки метод со цел да управувате со плаќања надвор од софтверот."
 
@@ -6402,37 +6402,37 @@ msgstr "Октомври"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Odoo Accounting has many free extra-features:"
-msgstr "Сметководството на Odoo има многу бесплатни екстра-функции:"
+msgid "Prescrypto Accounting has many free extra-features:"
+msgstr "Сметководството на Prescrypto има многу бесплатни екстра-функции:"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_bank_statement_line
 msgid ""
-"Odoo allows you to reconcile a statement line directly with\n"
+"Prescrypto allows you to reconcile a statement line directly with\n"
 "                the related sale or puchase invoice(s)."
 msgstr ""
-"Odoo ви овозможува да порамнете ставка од извод директно со \n"
+"Prescrypto ви овозможува да порамнете ставка од извод директно со \n"
 "соодветната излезна или влезна фактура/и.()"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_bank_statement_tree
 msgid ""
-"Odoo allows you to reconcile a statement line directly with\n"
+"Prescrypto allows you to reconcile a statement line directly with\n"
 "                the related sale or puchase invoices."
 msgstr ""
-"Odoo ви овозможува да порамнете ставка од извод директно со \n"
+"Prescrypto ви овозможува да порамнете ставка од извод директно со \n"
 "соодветната излезна или влезна фактура/и."
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_move_journal_line
 msgid ""
-"Odoo automatically creates one journal entry per accounting\n"
+"Prescrypto automatically creates one journal entry per accounting\n"
 "                document: invoice, refund, vendor payment, bank statements,\n"
 "                etc. So, you should record journal entries manually only/"
 "mainly\n"
 "                for miscellaneous operations."
 msgstr ""
-"Odoo автоматски креира еден внес во дневникот по сметководствен\n"
+"Prescrypto автоматски креира еден внес во дневникот по сметководствен\n"
 "                документ: фактура, поврат на ф-ра, плаќања на добавувачи, "
 "изводи од банка,\n"
 "                итн. Според тоа, рачно ги бележите внесовите во дневникот "
@@ -6442,29 +6442,29 @@ msgstr ""
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo can manage multiple companies, but we suggest to setup everything for "
+"Prescrypto can manage multiple companies, but we suggest to setup everything for "
 "your first company before configuring the other ones."
 msgstr ""
-"Odoo може да менаџира повеќе компании, но ви предлагаме најпрвин да ја "
+"Prescrypto може да менаџира повеќе компании, но ви предлагаме најпрвин да ја "
 "подесите вашата прва компанија пред да ги конфигурирате другите."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo has already preconfigured a few taxes according to your country.<br/"
+"Prescrypto has already preconfigured a few taxes according to your country.<br/"
 ">Simply review them and check if you need more."
 msgstr ""
-"Odoo веќе има конфигурирано неколку даноци според вашата земја. <br/> "
+"Prescrypto веќе има конфигурирано неколку даноци според вашата земја. <br/> "
 "Едноставно прегледајте ги ако ви требаат други."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo should do most of the reconciliation work automatically, so you'll only "
+"Prescrypto should do most of the reconciliation work automatically, so you'll only "
 "need to review a few of them when a <strong>'Reconcile Items'</strong> "
 "button appears on your Vendor Bills dash."
 msgstr ""
-"Odoo би требало да ја изработува целата работа со порамнување автоматски, "
+"Prescrypto би требало да ја изработува целата работа со порамнување автоматски, "
 "така што вие ќе треба само некои од нив да ги прегледувате кога "
 "<strong>'Порамни ставки'</strong> копчето ќе ви се појави во вашата табла на "
 "добавувачки сметки."
@@ -6472,12 +6472,12 @@ msgstr ""
 #. module: account
 #: model:ir.actions.act_window,help:account.action_invoice_tree1
 msgid ""
-"Odoo's electronic invoicing allows to ease and fasten the\n"
+"Prescrypto's electronic invoicing allows to ease and fasten the\n"
 "                collection of customer payments. Your customer receives the\n"
 "                invoice by email and he can pay online and/or import it\n"
 "                in his own system."
 msgstr ""
-"Електронското фактурирање на Odoo ви овозможува да го олесните и\n"
+"Електронското фактурирање на Prescrypto ви овозможува да го олесните и\n"
 "                забрзате собирањето на уплати од клиентите. Вашиот клиент "
 "добива\n"
 "                фактури по е-маил и меже да ги плати преку интернет и/или да "
@@ -7699,10 +7699,10 @@ msgstr "Регистрирај плаќања на мултипни фактур
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "Registering outstanding invoices and payments can be a huge undertaking, \n"
-"                        but you can start using Odoo without it by:"
+"                        but you can start using Prescrypto without it by:"
 msgstr ""
 "Регистрирање на неподмирени фактури и плаќања може да биде голем подфат, \n"
-"но можете да го користите Odoo и без тоа, така што:"
+"но можете да го користите Prescrypto и без тоа, така што:"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -9204,10 +9204,10 @@ msgstr ""
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"This guide will help you get started with Odoo Accounting.\n"
+"This guide will help you get started with Prescrypto Accounting.\n"
 "                        Once you're done, you'll benefit from:"
 msgstr ""
-"Овој прирачник ќе ви помогне во Odoo сметководството.\n"
+"Овој прирачник ќе ви помогне во Prescrypto сметководството.\n"
 "Откако ќе завршите, ќе бенефитирате од:"
 
 #. module: account
@@ -9372,11 +9372,11 @@ msgstr "Да се плати"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"To manage the tax applied when invoicing a Company, Odoo uses the concept of "
+"To manage the tax applied when invoicing a Company, Prescrypto uses the concept of "
 "Fiscal Position: they serve to automatically set the right tax and/or "
 "account according to the customer country and state."
 msgstr ""
-"За да се менаџира данокот аплициран при фактурирање на компанија, Odoo го "
+"За да се менаџира данокот аплициран при фактурирање на компанија, Prescrypto го "
 "користи концептот на фискално позиционирање: тие служат за автоматско "
 "подесување на правилниот данок/или сметка согласно со државата на клиентот."
 
@@ -9943,7 +9943,7 @@ msgstr "Предупредување!"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"
@@ -9951,13 +9951,13 @@ msgid ""
 msgstr ""
 "Можеме да се справиме со целосниот имортирачки процес \n"
 "за вас: едноставно испратете CSV датотека \n"
-"што ја содржи цела ваша дата кон Odoo проектен менаџер."
+"што ја содржи цела ваша дата кон Prescrypto проектен менаџер."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"
@@ -9965,7 +9965,7 @@ msgid ""
 msgstr ""
 "Можеме да се справиме со целосниот имортирачки процес \n"
 "за вас: едноставно испратете CSV датотека \n"
-"што ја содржи цела ваша дата кон Odoo проектен менаџер."
+"што ја содржи цела ваша дата кон Prescrypto проектен менаџер."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner

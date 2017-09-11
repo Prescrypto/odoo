@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from odoo import api, fields, models
 
@@ -27,7 +27,7 @@ class ProjectConfiguration(models.TransientModel):
         (0, "Do not create an email alias automatically"),
         (1, "Automatically generate an email alias at the project creation")
         ], string="Project Alias",
-        help="Odoo will generate an email alias at the project creation from project name.")
+        help="Prescrypto will generate an email alias at the project creation from project name.")
     module_project_forecast = fields.Boolean(string="Forecasts, planning and Gantt charts")
 
     @api.multi

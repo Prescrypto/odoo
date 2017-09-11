@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -19,7 +19,7 @@
 # Bülent Tiknas <btiknas@googlemail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-10-10 08:44+0000\n"
@@ -236,8 +236,8 @@ msgstr "Ein Token muss eindeutig sein!"
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "Zu Ihrem Gebrauch von Odoo"
+msgid "About your Prescrypto usage"
+msgstr "Zu Ihrem Gebrauch von Prescrypto"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_active
@@ -314,8 +314,8 @@ msgstr "Archiviert"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "Nutzen Sie Odoo täglich?"
+msgid "Are you using Prescrypto on a daily basis?"
+msgstr "Nutzen Sie Prescrypto täglich?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -686,8 +686,8 @@ msgstr "Gruppiert nach..."
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
-msgstr "Wie tragen Sie aktuell und zukünftig zu  Odoo bei ?"
+msgid "How do you contribute or plan to contribute to Prescrypto?"
+msgstr "Wie tragen Sie aktuell und zukünftig zu  Prescrypto bei ?"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_2_6
@@ -721,8 +721,8 @@ msgstr "Ich beteilige mich in Diskussionen und Foren"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
-msgstr "Ich benutze Github, wie alle offiziellen Odoo-Projekte"
+msgid "I use Github, like all official Prescrypto projects"
+msgstr "Ich benutze Github, wie alle offiziellen Prescrypto-Projekte"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_2
@@ -731,8 +731,8 @@ msgstr "Ich benutze ein anderes Repository-System (SourceFroge...)"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
-msgstr "Ich benutze die kontextbezogene Hilfe in Odoo"
+msgid "I use the contextual help in Prescrypto"
+msgstr "Ich benutze die kontextbezogene Hilfe in Prescrypto"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_5
@@ -797,9 +797,9 @@ msgstr "Wenn anders, bitte spezifizieren:"
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
+msgid "If you do not contribute or develop in Prescrypto, skip this page."
 msgstr ""
-"Wenn Sie kein Odoo-Entwickler sind, überspringen Sie bitte diese Seite."
+"Wenn Sie kein Prescrypto-Entwickler sind, überspringen Sie bitte diese Seite."
 
 #. module: survey
 #: model:ir.ui.view,arch_db:survey.sfinished
@@ -1749,11 +1749,11 @@ msgstr "Es gibt zu viel Menüs. Die Struktur ist zu komplex."
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of Prescrypto. Try to remind your firsts days on Prescrypto and\n"
 "what have been your difficulties."
 msgstr ""
-"Die Fragen betreffen die Ergonomie und die Benutzerfreundlichkeit von Odoo. "
-"Versuchen Sie sich an Ihre ersten Tage mit Odoo zu erinnern und was für "
+"Die Fragen betreffen die Ergonomie und die Benutzerfreundlichkeit von Prescrypto. "
+"Versuchen Sie sich an Ihre ersten Tage mit Prescrypto zu erinnern und was für "
 "Schwierigkeiten Sie hatten."
 
 #. module: survey
@@ -1768,8 +1768,8 @@ msgstr "Sie sind hilfreich im täglichen Einsatz"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
-msgstr "Sie sind hilfreich für neue Odoo Benutzer"
+msgid "They help new users to understand Prescrypto"
+msgstr "Sie sind hilfreich für neue Prescrypto Benutzer"
 
 #. module: survey
 #: code:addons/survey/models/survey.py:546
@@ -2005,9 +2005,9 @@ msgstr "Was denken Sie über die Anwendergruppen ?"
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of Prescrypto, available in the web "
 "client ?"
-msgstr "Was denken Sie über die Prozessansichten im Odoo Web-Client ?"
+msgstr "Was denken Sie über die Prozessansichten im Prescrypto Web-Client ?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_4
@@ -2051,8 +2051,8 @@ msgstr "Ja, ich benutze 7.0 auf einer lokalen Instanz"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "Ja, ich benutze Odoo Online"
+msgid "Yes, I use the online version of Prescrypto"
+msgstr "Ja, ich benutze Prescrypto Online"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

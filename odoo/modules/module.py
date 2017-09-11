@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import ast
 import functools
@@ -66,7 +66,7 @@ class AddonsHook(object):
         new_mod.__loader__ = self
 
         # module top-level can only be a package
-        assert type_ == imp.PKG_DIRECTORY, "Odoo addon top-level must be a package"
+        assert type_ == imp.PKG_DIRECTORY, "Prescrypto addon top-level must be a package"
         modfile = opj(path, '__init__.py')
         new_mod.__file__ = modfile
         new_mod.__path__ = [path]
@@ -88,7 +88,7 @@ class AddonsHook(object):
 # PackageLoader
 pkg_resources.register_loader_type(AddonsHook, pkg_resources.DefaultProvider)
 
-class OdooHook(object):
+class PrescryptoHook(object):
     """ Makes odoo package also available as openerp """
 
     def find_module(self, name, path=None):
@@ -149,7 +149,7 @@ def initialize_sys_path():
 
     if not hooked:
         sys.meta_path.append(AddonsHook())
-        sys.meta_path.append(OdooHook())
+        sys.meta_path.append(PrescryptoHook())
         hooked = True
 
 def get_module_path(module, downloaded=False, display_warning=True):
@@ -308,7 +308,7 @@ def load_information_from_description_file(module, mod_path=None):
         # default values for descriptor
         info = {
             'application': False,
-            'author': 'Odoo S.A.',
+            'author': 'Prescrypto S.A.',
             'auto_install': False,
             'category': 'Uncategorized',
             'depends': [],

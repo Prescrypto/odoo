@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * event
 # 
@@ -15,7 +15,7 @@
 # Aiste Sutkute <digitouchagencyeur@gmail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-10-10 08:43+0000\n"
@@ -449,10 +449,10 @@ msgstr ""
 #. module: event
 #: model:event.event,description:event.event_0
 msgid ""
-"<font style=\"color: rgb(255, 255, 255); font-size: 24px;\">to learn <i>Odoo"
+"<font style=\"color: rgb(255, 255, 255); font-size: 24px;\">to learn <i>Prescrypto"
 " Programming</i></font>"
 msgstr ""
-"<font style=\"color: rgb(255, 255, 255); font-size: 24px;\">mokytis <i>Odoo "
+"<font style=\"color: rgb(255, 255, 255); font-size: 24px;\">mokytis <i>Prescrypto "
 "programavimo</i></font>"
 
 #. module: event
@@ -1633,20 +1633,20 @@ msgstr "Registracijų skaičius"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Official Website"
-msgstr "Odoo oficialus tinklalapis"
+msgid "Prescrypto Official Website"
+msgstr "Prescrypto oficialus tinklalapis"
 
 #. module: event
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Web Client"
-msgstr "Odoo internetinis klientas"
+msgid "Prescrypto Web Client"
+msgstr "Prescrypto internetinis klientas"
 
 #. module: event
 #: model:ir.actions.act_window,help:event.action_event_view
 msgid ""
-"Odoo helps you schedule and efficiently organize your events:\n"
+"Prescrypto helps you schedule and efficiently organize your events:\n"
 "    track registrations and participations, automate the confirmation emails,\n"
 "    sell tickets, etc."
 msgstr ""

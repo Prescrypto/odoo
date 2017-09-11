@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_forum
 # 
@@ -8,7 +8,7 @@
 # gezza <geza.nagy@oregional.hu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-10-10 08:44+0000\n"
@@ -2587,10 +2587,10 @@ msgstr "A megjelölt forrás üres."
 #: model:forum.forum,faq:website_forum.forum_help
 msgid ""
 "The goal of this site is create a relevant knowledge base that would answer\n"
-"    questions related to Odoo."
+"    questions related to Prescrypto."
 msgstr ""
 "Ennek az oldalnak a célja lényeges ismeret forrás létrehozása, melyekből válaszokat kaphatnak\n"
-"    az Odoo rendszerrel kapcsolatos kérdésekre."
+"    az Prescrypto rendszerrel kapcsolatos kérdésekre."
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.moderation_queue
@@ -3149,9 +3149,9 @@ msgstr "itt"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to configure or customize Odoo to specific business needs,"
+msgid "how to configure or customize Prescrypto to specific business needs,"
 msgstr ""
-"hogyan állítsa vagy szabja személyre az Odoo rendszert a sajátos üzleti "
+"hogyan állítsa vagy szabja személyre az Prescrypto rendszert a sajátos üzleti "
 "követelményekhez,"
 
 #. module: website_forum
@@ -3161,8 +3161,8 @@ msgstr "hogyan fejlesszen a szükségleteihez modulokat,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to install Odoo on a specific infrastructure,"
-msgstr "hogyan telepítse az Odoo rendszert egy sajátos infrastruktúrához,"
+msgid "how to install Prescrypto on a specific infrastructure,"
+msgstr "hogyan telepítse az Prescrypto rendszert egy sajátos infrastruktúrához,"
 
 #. module: website_forum
 #. openerp-web
@@ -3278,8 +3278,8 @@ msgstr "levélszemét vagy hirdetés"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "specific questions about Odoo service offers, etc."
-msgstr "sajátos kérdés az Odoo rendszer szolgáltatás ajánlatairól, stb."
+msgid "specific questions about Prescrypto service offers, etc."
+msgstr "sajátos kérdés az Prescrypto rendszer szolgáltatás ajánlatairól, stb."
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3356,9 +3356,9 @@ msgstr "weboldal"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "what's the best way to use Odoo for a specific business need,"
+msgid "what's the best way to use Prescrypto for a specific business need,"
 msgstr ""
-"mi a legjobb módja az Odoo rendszer felhasználásának egy sajátos üzleti "
+"mi a legjobb módja az Prescrypto rendszer felhasználásának egy sajátos üzleti "
 "igényben,"
 
 #. module: website_forum

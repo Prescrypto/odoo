@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import os
 import re
@@ -84,7 +84,7 @@ class report_rml(report_int):
 
         rml = self.create_rml(cr, xml, uid, context)
         reports = env['ir.actions.report.xml'].search([('report_name', '=', self.name[7:])])
-        self.title = reports[0].name if reports else 'Odoo Report'
+        self.title = reports[0].name if reports else 'Prescrypto Report'
         create_doc = self.generators[report_type]
         pdf = create_doc(rml, title=self.title)
         return pdf, report_type

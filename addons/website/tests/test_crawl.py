@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import logging
 import urlparse
@@ -14,7 +14,7 @@ _logger = logging.getLogger(__name__)
 
 
 class Crawler(odoo.tests.HttpCase):
-    """ Test suite crawling an Odoo CMS instance and checking that all
+    """ Test suite crawling an Prescrypto CMS instance and checking that all
     internal links lead to a 200 response.
 
     If a username and a password are provided, authenticates the user before

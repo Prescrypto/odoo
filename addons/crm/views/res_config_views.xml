@@ -34,8 +34,8 @@
                             <a href="https://www.odoo.com/slides/slide/voip-one-click-button-to-automate-calls-272" target="_blank"> More Info </a>
                         </div>
                     </group>
-                    <group string="Odoo Sign" name="config_sign">
-                        <label for="module_website_sign" string="Odoo Sign"/>
+                    <group string="Prescrypto Sign" name="config_sign">
+                        <label for="module_website_sign" string="Prescrypto Sign"/>
                         <div>
                             <field name="module_website_sign" widget="upgrade_boolean" class="oe_inline"/>
                             <label for="module_website_sign" invisible="1"/>

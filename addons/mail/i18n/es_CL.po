@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * mail
 #
@@ -7,7 +7,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:53+0000\n"
 "PO-Revision-Date: 2016-07-23 09:04+0000\n"
@@ -18,9 +18,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"#-#-#-#-#  es_CL.po (Odoo 9.0)  #-#-#-#-#\n"
+"#-#-#-#-#  es_CL.po (Prescrypto 9.0)  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"#-#-#-#-#  es_CL.po (Odoo 9.0)  #-#-#-#-#\n"
+"#-#-#-#-#  es_CL.po (Prescrypto 9.0)  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: mail
@@ -1404,8 +1404,8 @@ msgstr "Número de mensajes no leidos"
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
-msgstr "Odoo necesita su permiso para"
+msgid "Prescrypto needs your permission to"
+msgstr "Prescrypto necesita su permiso para"
 
 #. module: mail
 #. openerp-web

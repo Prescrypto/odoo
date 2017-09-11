@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * crm
 #
@@ -18,7 +18,7 @@
 # Sergio Hevia <sah@talleresbernesga.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-14 13:41+0000\n"
 "PO-Revision-Date: 2016-03-14 03:09+0000\n"
@@ -394,18 +394,18 @@ msgstr "<strong>Eventos</strong>"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"<strong>Every business is different.</strong> Odoo allows to\n"
+"<strong>Every business is different.</strong> Prescrypto allows to\n"
 "                        customize every application and it's usually a good\n"
 "                        advice to customize screens to fit your sales "
 "process.\n"
-"                        <strong>Customizations are done by Odoo experts.</"
+"                        <strong>Customizations are done by Prescrypto experts.</"
 "strong>"
 msgstr ""
-"<strong>Cada negocio es diferente.</strong> Odoo permite personalizar cada "
+"<strong>Cada negocio es diferente.</strong> Prescrypto permite personalizar cada "
 "aplicación y usualmente es una buena práctica ajustar cada pantalla a su "
 "proceso de ventas.\n"
 "                        <strong>Las personalizaciones son hechas por "
-"expertos en Odoo.</strong>"
+"expertos en Prescrypto.</strong>"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -618,12 +618,12 @@ msgid ""
 "<strong>Trainings</strong><br/>\n"
 "                                To build a strong sales training program, "
 "you can use the following\n"
-"                                apps of Odoo:"
+"                                apps of Prescrypto:"
 msgstr ""
 "<strong>Capacitaciones</strong><br/>\n"
 "                                Para desarrollar un programa fuerte en "
 "entrenamiento de ventas, usted puede usar las siquientes aplicaciones de "
-"Odoo:"
+"Prescrypto:"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -673,12 +673,12 @@ msgstr "Un buen canal de trabajo tiene entre 5 y 7 etapas"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"A product in Odoo is something you sell or buy. It could\n"
+"A product in Prescrypto is something you sell or buy. It could\n"
 "                    be a goods, consumable or services. Choose how you want "
 "to\n"
 "                    create your products:"
 msgstr ""
-"Un producto en Odoo es algo que usted vende o compra. Puede ser un bien, un "
+"Un producto en Prescrypto es algo que usted vende o compra. Puede ser un bien, un "
 "consumible o un servicio. Escoja cómo quiere crear sus productos:"
 
 #. module: crm
@@ -1754,10 +1754,10 @@ msgstr ""
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                          Fabien Pinckaers, Founder"
 msgstr ""
-"Para el Equipo Odoo,<br/>\n"
+"Para el Equipo Prescrypto,<br/>\n"
 "                          Fabien Pinckaers, Fundador"
 
 #. module: crm
@@ -1833,8 +1833,8 @@ msgstr "Manejar el enlace o generación de asociados en los asistentes CRM. "
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Happy Selling!<br/>- The Odoo Team"
-msgstr "Feliz Venta!<br/>- El Equipo Odoo"
+msgid "Happy Selling!<br/>- The Prescrypto Team"
+msgstr "Feliz Venta!<br/>- El Equipo Prescrypto"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -2618,52 +2618,52 @@ msgstr ""
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Odoo Default"
-msgstr "Odoo Predeterminado"
+msgid "Prescrypto Default"
+msgstr "Prescrypto Predeterminado"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_sale_config_settings_module_website_sign
 #: model:ir.ui.view,arch_db:crm.view_sale_config_settings
-msgid "Odoo Sign"
-msgstr "Odoo Sign"
+msgid "Prescrypto Sign"
+msgstr "Prescrypto Sign"
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_opportunity
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities_tree_view
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"Prescrypto helps you keep track of your sales pipeline to follow\n"
 "                    up potential sales and better forecast your future "
 "revenues."
 msgstr ""
-"Odoo le ayuda a mantener el seguimiento de su canal de ventas para seguir "
+"Prescrypto le ayuda a mantener el seguimiento de su canal de ventas para seguir "
 "ventas potenciales y proyectar mejor sus ingresos futuros."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo is the world's only software to have a full integration of Marketing "
+"Prescrypto is the world's only software to have a full integration of Marketing "
 "Apps for your sales channel: insight sales, point of sale, ecommerce."
 msgstr ""
-"Odoo es el único software en el mundo que tiene una integración completa de "
+"Prescrypto es el único software en el mundo que tiene una integración completa de "
 "Aplicaciones de Marketing para sus canales de venta: perspectiva de ventas, "
 "punto de venta, comercio electrónico "
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_sale_config_settings_generate_sales_team_alias
-msgid "Odoo will generate an email alias based on the sales team name"
+msgid "Prescrypto will generate an email alias based on the sales team name"
 msgstr ""
-"Odoo generará un alias de correo basado en el nombre del equipo de ventas"
+"Prescrypto generará un alias de correo basado en el nombre del equipo de ventas"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo will help you create polished, professional quotations and contracts in "
+"Prescrypto will help you create polished, professional quotations and contracts in "
 "minutes.\n"
 "                        Tell us how you sell and we will tell you what\n"
 "                        configuration will best fit your quotation process."
 msgstr ""
-"Odoo le ayudará a crear cotizaciones y contratos profesionales y pulidos en "
+"Prescrypto le ayudará a crear cotizaciones y contratos profesionales y pulidos en "
 "cuestión de minutos. Dígamos cómo vende usted y nosotros le diremos qué "
 "configuración se ajustará mejor a su proceso de cotización."
 
@@ -3214,13 +3214,13 @@ msgid ""
 "Select the list of fields used to search for\n"
 "                            duplicated records. If you select several "
 "fields,\n"
-"                            Odoo will propose you to merge only those "
+"                            Prescrypto will propose you to merge only those "
 "having\n"
 "                            all these fields in common. (not one of the "
 "fields)."
 msgstr ""
 "Seleccione la lista de campos usada para buscar registros duplicados, Si "
-"usted selecciona varios campos, Odoo le propondrá combinar sólo aquellos "
+"usted selecciona varios campos, Prescrypto le propondrá combinar sólo aquellos "
 "registros que tengan todos esos campos en común (no sólo uno de los campos)."
 
 #. module: crm
@@ -3291,11 +3291,11 @@ msgid ""
 "Setting up your sales funnel is just the first step. To achieve a\n"
 "                      significant boost, we will help you get the most out "
 "of\n"
-"                      Odoo CRM to transform how your salespeople work.\n"
+"                      Prescrypto CRM to transform how your salespeople work.\n"
 "                      That's the purpose of this guide."
 msgstr ""
 "Configurar su canal de ventas es sólo el primer paso. Para lograr una mejora "
-"significativa, nosotros le ayudaremos a sacar lo mejor del CRM de Odoo para "
+"significativa, nosotros le ayudaremos a sacar lo mejor del CRM de Prescrypto para "
 "transformar la forma de trabajo de sus vendedores. Ese es el propósito de "
 "esta guía."
 
@@ -3491,9 +3491,9 @@ msgstr "Plantillas de correo"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Templates of quotations (use Odoo Online Proposals for this)"
+msgid "Templates of quotations (use Prescrypto Online Proposals for this)"
 msgstr ""
-"Plantillas de cotizaciones (usar Propuestas en Línea de Odoo para esto)"
+"Plantillas de cotizaciones (usar Propuestas en Línea de Prescrypto para esto)"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team_alias_id
@@ -3523,11 +3523,11 @@ msgstr "La primera etapa es generalmente \"Nueva\" y la última es \"Ganada\""
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming "
+"The model (Prescrypto Document Kind) to which this alias corresponds. Any incoming "
 "email that does not reply to an existing record will cause the creation of a "
 "new record of this model (e.g. a Project Task)"
 msgstr ""
-"El modelo (Tipo de Documento de Odoo) al que corresponde este alias. "
+"El modelo (Tipo de Documento de Prescrypto) al que corresponde este alias. "
 "Cualquier correo entrante que no sea respuesta a un registro existente, "
 "causará la creación de un nuevo registro de este modelo (ej. una Tarea de "
 "Proyecto)"
@@ -3876,14 +3876,14 @@ msgstr "Podemos automatizar pasos en su workflow, por ejemplo:"
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"
 "                                        data."
 msgstr ""
 "Nosotros podemos realizar todo el proceso de importación por usted:\n"
-"simplemente mande un archivo CSV con todos sus datos a su asesor de Odoo."
+"simplemente mande un archivo CSV con todos sus datos a su asesor de Prescrypto."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -3897,14 +3897,14 @@ msgstr ""
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"We designed Odoo to help you grow your business. Odoo CRM\n"
+"We designed Prescrypto to help you grow your business. Prescrypto CRM\n"
 "                      is not just a tool, we want it to have a major impact "
 "on your\n"
 "                      sales performance. That's our mission, and we are "
 "serious about it."
 msgstr ""
-"Nosotros diseñamos Odoo para ayudarlo a hacer crecer su negocio. El CRM de "
-"Odoo no es sólo una herramienta, nosotros queremos que tenga un gran impacto "
+"Nosotros diseñamos Prescrypto para ayudarlo a hacer crecer su negocio. El CRM de "
+"Prescrypto no es sólo una herramienta, nosotros queremos que tenga un gran impacto "
 "en su rendimiento de ventas. Esa es nuestra misión, y somos serios a "
 "respecto."
 

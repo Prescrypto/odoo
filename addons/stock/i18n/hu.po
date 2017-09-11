@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -12,7 +12,7 @@
 # Krisztián Juhász <juhasz.krisztian@josafar.hu>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-22 14:03+0000\n"
 "PO-Revision-Date: 2016-11-22 14:03+0000\n"
@@ -111,8 +111,8 @@ msgstr ", ha a könyvelés vagy a beszerzés telepítve van"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Az Odoo csapata"
+msgid "- The Prescrypto Team"
+msgstr "- Az Prescrypto csapata"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -454,9 +454,9 @@ msgstr "<strong>Cél</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
+msgid "<strong>Enjoy your Inventory management with Prescrypto!</strong>"
 msgstr ""
-"<strong>Élvezze a raktárkészlet szervezését az Odoo rendszrrel!</strong>"
+"<strong>Élvezze a raktárkészlet szervezését az Prescrypto rendszrrel!</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -1095,18 +1095,18 @@ msgstr "Egyedi széria szám szerint"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
+"Prescrypto will not automatically generate a back order."
 msgstr ""
 "Ha itt megváltoztatja ezt a mennyiséget, akkor azzal elfogadja az új "
-"mennyiséget: Odoo rendszer automatikusan nem hoz létre újrarendelést."
+"mennyiséget: Prescrypto rendszer automatikusan nem hoz létre újrarendelést."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, Prescrypto measures products by 'units', which are generic and "
 "represent just about anything"
 msgstr ""
-"Alapértelmezésben, Odoo rendszer a termékeket 'egységekben' méri, mely "
+"Alapértelmezésben, Prescrypto rendszer a termékeket 'egységekben' méri, mely "
 "általános és jelképez majdnem mindent"
 
 #. module: stock
@@ -1921,7 +1921,7 @@ msgstr ""
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"            organization. Odoo is able to manage physical locations\n"
+"            organization. Prescrypto is able to manage physical locations\n"
 "            (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "            vendors) and virtual locations which are the counterpart of\n"
 "            the stock operations like the manufacturing orders\n"
@@ -2256,9 +2256,9 @@ msgstr "Európai ügyfelek"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in Prescrypto moves the products from one\n"
 "            location to another one.  For instance, if you receive products\n"
-"            from a vendor, Odoo will move products from the Vendor\n"
+"            from a vendor, Prescrypto will move products from the Vendor\n"
 "            location to the Stock location. Each report can be performed on\n"
 "            physical, partner or virtual locations."
 msgstr ""
@@ -2350,7 +2350,7 @@ msgstr "Fix helyek termék kategóriánként"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
 "Az Oddo rendszer csapatának,<br/>\n"
@@ -2805,12 +2805,12 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, Prescrypto automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
 msgstr ""
-"Ha automatikus beszerzést állított be, Odoo rendszer automatikusan létrehozza a\n"
+"Ha automatikus beszerzést állított be, Prescrypto rendszer automatikusan létrehozza a\n"
 "                        Beszerzési Megrendeléseket. Általában nem kell aggódnia ezzel, de\n"
 "                        néha a rendszer az idevonatkozó dokumentum létrehozása nélkül \n"
 "                        blokkolva lehet, általában beállítási hiba miatt."
@@ -2869,12 +2869,12 @@ msgstr "Importálja be a bal felső gomb használatával"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In Prescrypto, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        Prescrypto will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
 msgstr ""
-"Az Odoo rendszerben, <strong>Újrarendelési szabályok</strong> a termékeik újratöltésére használja.\n"
-"                        Odoo rendszer automatikusan felajánl egy beszerzést az új termékek vételére \n"
+"Az Prescrypto rendszerben, <strong>Újrarendelési szabályok</strong> a termékeik újratöltésére használja.\n"
+"                        Prescrypto rendszer automatikusan felajánl egy beszerzést az új termékek vételére \n"
 "                        ha kifogyna a készletekből."
 
 #. module: stock
@@ -3248,10 +3248,10 @@ msgstr "Ez a selejt helye?"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
+"                        If you want to do that, contact your Prescrypto project manager."
 msgstr ""
 "A kezdeti leltárkészlet importálása is lehetséges egy Excel vagy CSV fájlból.\n"
-"                        Ha ezt akarja tenni, lépjen kapcsolatba az Odoo rendszer projekt irányítóval."
+"                        Ha ezt akarja tenni, lépjen kapcsolatba az Prescrypto rendszer projekt irányítóval."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -3453,10 +3453,10 @@ msgstr "Hagyja üresen ezt a mezőt, ha ez a hely vállalatok közt megosztott"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, Prescrypto inventory management is\n"
 "                        fully integrated with the purchase app."
 msgstr ""
-"Mint az értékesítési folyamat, Odoo rendszer leltárkészlet kezelése \n"
+"Mint az értékesítési folyamat, Prescrypto rendszer leltárkészlet kezelése \n"
 "                        teljesen integrált  a beszerzési alkalmazással."
 
 #. module: stock
@@ -3878,11 +3878,11 @@ msgstr "További információ"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by Prescrypto according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
 msgstr ""
-"A legtöbb művelet automatikusan előkészített az Odoo rendszer\n"
+"A legtöbb művelet automatikusan előkészített az Prescrypto rendszer\n"
 "                 által az előre beállított logisztika szabályoknak megfelelően, de rögzíteni tud  \n"
 "                kézzel további raktár mozgásokat."
 
@@ -4160,46 +4160,46 @@ msgstr "Ok"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"Prescrypto handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
 msgstr ""
-"Odoo rendszer kezeli a <strong>haladó betevési/kivételi útvonalak "
+"Prescrypto rendszer kezeli a <strong>haladó betevési/kivételi útvonalak "
 "beállítását</strong>, például:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
-msgstr "Odoo rendszer előre beállított <strong>egy Raktárat</strong> Önnek."
+msgid "Prescrypto has preconfigured <strong>one Warehouse</strong> for you."
+msgstr "Prescrypto rendszer előre beállított <strong>egy Raktárat</strong> Önnek."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"Prescrypto inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
 msgstr ""
-"Odoo leltár kezelés teljesen integrált az értékesítések és \n"
+"Prescrypto leltár kezelés teljesen integrált az értékesítések és \n"
 "                        számlázási műveletekkel. Minden automatizált az elsődleges \n"
 "                        árajánlattól a szállításig és a végső számláig."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"Prescrypto is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
 msgstr ""
-"Odoo rendszer képes a haladó kimutatások futtatására Termék szettenként és Széria\n"
+"Prescrypto rendszer képes a haladó kimutatások futtatására Termék szettenként és Széria\n"
 "                        számonként, általában a termékeken lévő vonalkódokkal."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that Prescrypto is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
 msgstr ""
 "Természetesen, szabadon adja hozzá a sajátját. Kérem vegye figyelembe, hogy "
-"az Odoo rendszer át tudja váltani az ugyanabban a kategóriában lévő "
+"az Prescrypto rendszer át tudja váltani az ugyanabban a kategóriában lévő "
 "mértékegységeket, például, litert gallonra az űrmérték kategóriában"
 
 #. module: stock
@@ -6566,10 +6566,10 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with Prescrypto Inventory.\n"
 "                        Once you are done, you will benefit from:"
 msgstr ""
-"Ez az útmutató segít az Odoo rendszer leltárkészlet elkezdésében.\n"
+"Ez az útmutató segít az Prescrypto rendszer leltárkészlet elkezdésében.\n"
 "                        Ha végzett, ezekből profitál:"
 
 #. module: stock
@@ -7284,12 +7284,12 @@ msgstr "Figyelem!"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr ""
 "Kezelni tudjuk a teljes import műveletet az Ön\n"
-"                                        részére: egyszerűen csak küldje el az Odoo\n"
+"                                        részére: egyszerűen csak küldje el az Prescrypto\n"
 "                                        projekt  kezelőjének a CSV fájlt az összes \n"
 "                                        adatával."
 
@@ -7297,20 +7297,20 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr ""
 "Kezelni tudjuk a teljes import műveletet az Ön\n"
-"                                        részére: egyszerűen csak küldje el az Odoo\n"
+"                                        részére: egyszerűen csak küldje el az Prescrypto\n"
 "                                        projekt  kezelőjének a CSV fájlt az összes \n"
 "                                        termékével."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
+msgid "We hope this guide helped you implement Prescrypto Inventory."
 msgstr ""
-"Reméljük ez az útmutató segítséget nyújtott az Odoo rendszer leltár "
+"Reméljük ez az útmutató segítséget nyújtott az Prescrypto rendszer leltár "
 "készletének  kivitelezéséhez."
 
 #. module: stock
@@ -7371,21 +7371,21 @@ msgstr "Ha mód rögzített, ezt a helyet használja a termékek raktározásáh
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" Prescrypto generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
 "Ha a virtuális raktár készlet az ebben a mezőben megadott Min mennyiség alá "
-"megy, Odoo rendszer beszerzést fog létrehozni, hogy az előrejelzett "
+"megy, Prescrypto rendszer beszerzést fog létrehozni, hogy az előrejelzett "
 "menyiséget A Max mennyiségre vigye."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Prescrypto generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
-"Ha a virtuális raktár készlet Min mennyiség alá megy, Odoo rendszer "
+"Ha a virtuális raktár készlet Min mennyiség alá megy, Prescrypto rendszer "
 "beszerzést fog létrehozni, hogy az előrejelzett mennyiséget a Max "
 "mennyiségre meghatározott mennyiségre vigye."
 
@@ -7436,18 +7436,18 @@ msgstr ""
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that Prescrypto will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, Prescrypto will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
 msgstr ""
-"Meghatározhatja a minimum raktárkészlet szabályokat, így az Odoo rendszer "
+"Meghatározhatja a minimum raktárkészlet szabályokat, így az Prescrypto rendszer "
 "automatikusan létrehoz sablon gyártási megrendeléseket vagy árajánlat "
 "kéréseket a raktárkészlet szinteknek megfelelően. Ha a termék virtuális "
 "raktárkészlete (= tényleges raktárkészlet mínusz minden visszaigazolt "
-"megrendelés és foglalás) értéke a minimum mennyiség alá ér, Odoo rendszer "
+"megrendelés és foglalás) értéke a minimum mennyiség alá ér, Prescrypto rendszer "
 "elindít beszerzési igényt a raktárkészlet növeléséhez egészen a maximum "
 "mennyiségig. "
 
@@ -7639,7 +7639,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed (<i>done</i>) quantities. Click <i>apply</i> and\n"
-"                        Odoo will process all quantities to do."
+"                        Prescrypto will process all quantities to do."
 msgstr ""
 
 #. module: stock
@@ -7763,20 +7763,20 @@ msgstr "pl. PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
+"Prescrypto do it automatically while validating"
 msgstr ""
 "vagy az Elvégzett mennyiség kézi frissítésével a termék tételsorain, vagy "
-"hagyja az Odoo automatikus műveletének elvégzését a jóváhagyáskor"
+"hagyja az Prescrypto automatikus műveletének elvégzését a jóváhagyáskor"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the Prescrypto Barcode app, or let Prescrypto do it automatically while "
 "validating"
 msgstr ""
 "vagy az Elvégzett mennyiség kézi frissítésével a termék tételsorain, vagy "
-"olvassa be az Odoo vonalkód beolvasó alkalmazással, vagy hagyja az Odoo "
+"olvassa be az Prescrypto vonalkód beolvasó alkalmazással, vagy hagyja az Prescrypto "
 "automatikus műveletének elvégzését a jóváhagyáskor"
 
 #. module: stock

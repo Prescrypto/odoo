@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * base
 #
@@ -7,7 +7,7 @@
 # Martin Trigaux, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:54+0000\n"
 "PO-Revision-Date: 2015-12-10 15:43+0000\n"
@@ -310,7 +310,7 @@ msgid ""
 "\n"
 "Invoicing & Payments\n"
 "====================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep "
+"The specific and easy-to-use Invoicing system in Prescrypto allows you to keep "
 "track of your accounting, even when you are not an accountant. It provides "
 "an easy way to follow up on your vendors and customers.\n"
 "\n"
@@ -323,7 +323,7 @@ msgstr ""
 "\n"
 "Invoicing & Payments\n"
 "====================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep "
+"The specific and easy-to-use Invoicing system in Prescrypto allows you to keep "
 "track of your accounting, even when you are not an accountant. It provides "
 "an easy way to follow up on your suppliers and customers.\n"
 "\n"
@@ -481,7 +481,7 @@ msgid ""
 "old description:\n"
 "Invoicing & Payments by Accounting Voucher & Receipts\n"
 "=====================================================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep "
+"The specific and easy-to-use Invoicing system in Prescrypto allows you to keep "
 "track of your accounting, even when you are not an accountant. It provides "
 "an easy way to follow up on your vendors and customers. \n"
 "\n"
@@ -506,7 +506,7 @@ msgstr ""
 "old description:\n"
 "Invoicing & Payments by Accounting Voucher & Receipts\n"
 "=====================================================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep "
+"The specific and easy-to-use Invoicing system in Prescrypto allows you to keep "
 "track of your accounting, even when you are not an accountant. It provides "
 "an easy way to follow up on your suppliers and customers. \n"
 "\n"
@@ -2486,13 +2486,13 @@ msgstr "Localisation"
 #. module: base
 #: model:ir.actions.act_window,help:base.grant_menu_access
 msgid ""
-"Manage and customize the items available and displayed in your Odoo system "
+"Manage and customize the items available and displayed in your Prescrypto system "
 "menu. You can delete an item by clicking on the box at the beginning of each "
 "line and then delete it through the button that appeared. Items can be "
 "assigned to specific groups in order to make them accessible to some users "
 "within the system."
 msgstr ""
-"Manage and customise the items available and displayed in your Odoo system "
+"Manage and customise the items available and displayed in your Prescrypto system "
 "menu. You can delete an item by clicking on the box at the beginning of each "
 "line and then delete it through the button that appeared. Items can be "
 "assigned to specific groups in order to make them accessible to some users "
@@ -2546,10 +2546,10 @@ msgstr "Miscellaneous"
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_sequence_padding
 msgid ""
-"Odoo will automatically adds some '0' on the left of the 'Next Number' to "
+"Prescrypto will automatically adds some '0' on the left of the 'Next Number' to "
 "get the required padding size."
 msgstr ""
-"Odoo will automatically adds some '0' on the left of the 'Next Number' to "
+"Prescrypto will automatically adds some '0' on the left of the 'Next Number' to "
 "get the required padding size."
 
 #. module: base
@@ -2590,11 +2590,11 @@ msgstr "Planner"
 msgid ""
 "Public users have specific access rights (such as record rules and "
 "restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
+"                They usually do not belong to the usual Prescrypto groups."
 msgstr ""
 "Public users have specific access rights (such as record rules and "
 "restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
+"                They usually do not belong to the usual Prescrypto groups."
 
 #. module: base
 #: model:ir.module.module,summary:base.module_purchase
@@ -2756,10 +2756,10 @@ msgstr "View"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_ui_view
 msgid ""
-"Views allows you to personalize each view of Odoo. You can add new fields, "
+"Views allows you to personalize each view of Prescrypto. You can add new fields, "
 "move fields, rename them or delete the ones that you do not need."
 msgstr ""
-"Views allows you to personalise each view of Odoo. You can add new fields, "
+"Views allows you to personalise each view of Prescrypto. You can add new fields, "
 "move fields, rename them or delete the ones that you do not need."
 
 #. module: base
@@ -2775,13 +2775,13 @@ msgid ""
 "arrow, but rather add new nodes or arrows. If you absolutly need to modify a "
 "node or arrow, you can only change fields that are empty or set to the "
 "default value. If you don't do that, your customization will be overwrited "
-"at the next update or upgrade to a future version of Odoo."
+"at the next update or upgrade to a future version of Prescrypto."
 msgstr ""
 "When customising a workflow, be sure you do not modify an existing node or "
 "arrow, but rather add new nodes or arrows. If you absolutly need to modify a "
 "node or arrow, you can only change fields that are empty or set to the "
 "default value. If you don't do that, your customisation will be overwritten "
-"at the next update or upgrade to a future version of Odoo."
+"at the next update or upgrade to a future version of Prescrypto."
 
 #. module: base
 #: sql_constraint:res.users:0

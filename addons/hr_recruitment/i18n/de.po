@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * hr_recruitment
 # 
@@ -20,7 +20,7 @@
 # Thomas Neu <t.neu@runbox.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:56+0000\n"
 "PO-Revision-Date: 2016-09-07 08:56+0000\n"
@@ -1086,19 +1086,19 @@ msgstr "Anzahl Tage für Beendigung"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_applications
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"Prescrypto helps you track applicants in the recruitment\n"
 "                process and follow up all operations: meetings, interviews, etc."
 msgstr ""
-"Odoo hilft bei der Verfolgung Ihres Einstellungsprozess, \n"
+"Prescrypto hilft bei der Verfolgung Ihres Einstellungsprozess, \n"
 "insbesondere bei den Vorgängen: Bewerbergespräch, Interview, etc."
 
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.crm_case_categ0_act_job
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"Prescrypto helps you track applicants in the recruitment\n"
 "            process and follow up all operations: meetings, interviews, etc."
 msgstr ""
-"Odoo hilft bei der Verfolgung Ihres Einstellungsprozess, \n"
+"Prescrypto hilft bei der Verfolgung Ihres Einstellungsprozess, \n"
 "insbesondere bei den Vorgängen: Bewerbergespräch, Interview, etc."
 
 #. module: hr_recruitment
@@ -1470,11 +1470,11 @@ msgstr "Möglicher Arbeitsbeginn des Bewerbers"
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Prescrypto Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"Das Odoo Datenmodell auf das sich der Alias bezieht. Jeglicher E-Mail "
+"Das Prescrypto Datenmodell auf das sich der Alias bezieht. Jeglicher E-Mail "
 "Posteingang ohne Bezug zu einer bereits vorhandenen E-Mail  führt "
 "üblicherweise zur Erstellung eines neuen Datensatz (z.B. Projektaufgabe)."
 
@@ -1554,7 +1554,7 @@ msgstr ""
 #: model:ir.actions.act_window,help:hr_recruitment.hr_applicant_resumes
 msgid ""
 "This menu helps you search through resumes and motivation\n"
-"                letters. Odoo automatically indexes .PDF, .DOC, DOCX, .TXT\n"
+"                letters. Prescrypto automatically indexes .PDF, .DOC, DOCX, .TXT\n"
 "                files so that you can search keywords from the content of these\n"
 "                files."
 msgstr ""
@@ -1648,11 +1648,11 @@ msgstr ""
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_no_employee
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Prescrypto employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr ""
-"Mit einem kurzen Blick auf die Mitarbeiterseite in Odoo, können\n"
+"Mit einem kurzen Blick auf die Mitarbeiterseite in Prescrypto, können\n"
 "Sie einfach alle Informationen zu allen Personen, mit Ihren Kontaktdaten,\n"
 "Stellenbezeichnungen, Verfügbarkeiten, Ausbildung etc. einsehen."
 

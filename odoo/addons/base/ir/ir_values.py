@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from ast import literal_eval
 
@@ -76,7 +76,7 @@ class IrValues(models.Model):
        .. rubric:: Usage: action bindings
 
        Business applications will usually bind their actions during
-       installation, and Odoo UI clients will apply them as defined,
+       installation, and Prescrypto UI clients will apply them as defined,
        based on the list of actions included in the result of
        :meth:`~odoo.models.Model.fields_view_get`,
        or directly returned by explicit calls to :meth:`~.get_actions`.

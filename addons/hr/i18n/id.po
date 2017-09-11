@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -14,7 +14,7 @@
 # Ngalim Siregar <ngalim.siregar@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-10-10 08:43+0000\n"
@@ -348,8 +348,8 @@ msgstr "Tentukan jadwal sumber daya"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Memberikan Odoo generik yang fungsional pelatihan"
+msgid "Deliver generic Prescrypto functional training sessions"
+msgstr "Memberikan Prescrypto generik yang fungsional pelatihan"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -926,11 +926,11 @@ msgstr "Jumlah Karyawan baru yang Anda mengharapkan untuk merekrut."
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Prescrypto's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
 msgstr ""
-"Odoo's Departemen struktur digunakan untuk mengelola semua dokumen yang "
+"Prescrypto's Departemen struktur digunakan untuk mengelola semua dokumen yang "
 "berhubungan dengan karyawan oleh Departemen: biaya, timesheets, daun dan "
 "hari libur, perekrutan, dll."
 
@@ -1368,11 +1368,11 @@ msgstr "Akan melaporkan kepada kepala layanan profesional"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Prescrypto employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr ""
-"Dengan hanya sekilas pada layar karyawan Odoo, Anda dapat dengan mudah menemukan semua informasi yang Anda butuhkan untuk setiap orang;\n"
+"Dengan hanya sekilas pada layar karyawan Prescrypto, Anda dapat dengan mudah menemukan semua informasi yang Anda butuhkan untuk setiap orang;\n"
 "                data kontak, lowongan kerja, ketersediaan, dll."
 
 #. module: hr

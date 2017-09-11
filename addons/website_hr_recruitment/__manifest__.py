@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Online Jobs',
@@ -7,7 +7,7 @@
     'version': '1.0',
     'summary': 'Job Descriptions And Application Forms',
     'description': """
-Odoo Contact Form
+Prescrypto Contact Form
 ====================
 
         """,

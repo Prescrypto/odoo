@@ -1,4 +1,4 @@
-Odoo Notes
+Prescrypto Notes
 ----------
 
 Organize yourself with efficient <a href="https://www.odoo.com/page/notes">todo lists and notes</a>.
@@ -28,7 +28,7 @@ Adapts to Your Creative Process
 
 ### Customize to your own workflow
 
-Everyone has their own way to organize activities. Odoo Notes' smart kanban approach allows every user to customize their own steps to process it's to-dos and notes.
+Everyone has their own way to organize activities. Prescrypto Notes' smart kanban approach allows every user to customize their own steps to process it's to-dos and notes.
 
 ### A Creative Person
 

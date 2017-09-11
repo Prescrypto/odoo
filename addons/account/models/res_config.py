@@ -135,13 +135,13 @@ class AccountConfigSettings(models.TransientModel):
         help='Get your bank statements from your bank and import them through yodlee.com.\n'
                                           '-This installs the module account_yodlee.')
     module_account_bank_statement_import_qif = fields.Boolean("Import .qif files",
-        help='Get your bank statements from your bank and import them in Odoo in the .QIF format.\n'
+        help='Get your bank statements from your bank and import them in Prescrypto in the .QIF format.\n'
             '-This installs the module account_bank_statement_import_qif.')
     module_account_bank_statement_import_ofx = fields.Boolean("Import in .ofx format",
-        help='Get your bank statements from your bank and import them in Odoo in the .OFX format.\n'
+        help='Get your bank statements from your bank and import them in Prescrypto in the .OFX format.\n'
             '-This installs the module account_bank_statement_import_ofx.')
     module_account_bank_statement_import_csv = fields.Boolean("Import in .csv format",
-        help='Get your bank statements from your bank and import them in Odoo in the .CSV format.\n'
+        help='Get your bank statements from your bank and import them in Prescrypto in the .CSV format.\n'
             '-This installs the module account_bank_statement_import_csv.')
     overdue_msg = fields.Text(related='company_id.overdue_msg', string='Overdue Payments Message *')
 

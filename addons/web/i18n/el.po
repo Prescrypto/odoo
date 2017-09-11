@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * web
 # 
@@ -8,7 +8,7 @@
 # Sophia Anastasopoulos <sophiaanast1@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:28+0000\n"
 "PO-Revision-Date: 2017-06-23 13:28+0000\n"
@@ -208,8 +208,8 @@ msgstr "<span class=\"oe_logo_edit\">Επεξεργασία δεδομένων �
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.menu_secondary
-msgid "<span>Odoo</span>"
-msgstr "<span>Odoo</span>"
+msgid "<span>Prescrypto</span>"
+msgstr "<span>Prescrypto</span>"
 
 #. module: web
 #. openerp-web
@@ -1053,9 +1053,9 @@ msgstr "Φόρμα"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1280
 #, python-format
-msgid "Get this feature and much more with Odoo Enterprise!"
+msgid "Get this feature and much more with Prescrypto Enterprise!"
 msgstr ""
-"Αποκτήστε αυτό το χαρακτηριστικό και πολύ περισσότερα με Odoo Enterprise!"
+"Αποκτήστε αυτό το χαρακτηριστικό και πολύ περισσότερα με Prescrypto Enterprise!"
 
 #. module: web
 #. openerp-web
@@ -1363,8 +1363,8 @@ msgstr "Μετακίνηση Επάνω"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1272
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Ο Odoo.com λογαριασμός μου"
+msgid "My Prescrypto.com account"
+msgstr "Ο Prescrypto.com λογαριασμός μου"
 
 #. module: web
 #. openerp-web
@@ -1505,27 +1505,27 @@ msgstr "Αντικείμενο:"
 #. openerp-web
 #: code:addons/web/static/src/js/framework/dialog.js:37
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Prescrypto"
+msgstr "Prescrypto"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:195
 #, python-format
-msgid "Odoo Apps will be available soon"
-msgstr "Οι Εφαρμογές Odoo θα είναι σύντομα διαθέσιμες"
+msgid "Prescrypto Apps will be available soon"
+msgstr "Οι Εφαρμογές Prescrypto θα είναι σύντομα διαθέσιμες"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/views/form_upgrade_widgets.js:53
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgid "Prescrypto Enterprise"
+msgstr "Prescrypto Enterprise"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
-msgstr "Odoo Web Τεστ"
+msgid "Prescrypto Web Tests"
+msgstr "Prescrypto Web Τεστ"
 
 #. module: web
 #. openerp-web
@@ -1692,8 +1692,8 @@ msgstr "Δημιουργήθηκε με "
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Δημιουργήθηκε με <span>Odoo</span>"
+msgid "Powered by <span>Prescrypto</span>"
+msgstr "Δημιουργήθηκε με <span>Prescrypto</span>"
 
 #. module: web
 #. openerp-web
@@ -2143,10 +2143,10 @@ msgstr ""
 #, python-format
 msgid ""
 "Timezone Mismatch : The timezone of your browser doesn't match the selected "
-"one. The time in Odoo is displayed according to your field timezone."
+"one. The time in Prescrypto is displayed according to your field timezone."
 msgstr ""
 "Ασυμφωνία Ζώνης ώρας : Η ζώνη ώρας του προγράμματος περιήγησης σας δεν "
-"ταιριάζει με την επιλεγμένη. Ο χρόνος στο Odoo εμφανίζεται σύμφωνα με τη "
+"ταιριάζει με την επιλεγμένη. Ο χρόνος στο Prescrypto εμφανίζεται σύμφωνα με τη "
 "ζώνη ώρας σας."
 
 #. module: web
@@ -2484,9 +2484,9 @@ msgstr "Πρέπει να επιλέξετε τουλάχιστον μία εγ�
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:58
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
+msgid "Your Prescrypto session expired. Please refresh the current web page."
 msgstr ""
-"Έληξε η Odoo συνεδρία σας. Παρακαλούμε ανανεώστε την τρέχουσα ιστοσελίδα."
+"Έληξε η Prescrypto συνεδρία σας. Παρακαλούμε ανανεώστε την τρέχουσα ιστοσελίδα."
 
 #. module: web
 #. openerp-web

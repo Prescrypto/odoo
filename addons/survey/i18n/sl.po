@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -9,7 +9,7 @@
 # jl2035 <jaka.luthar@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-10-10 08:44+0000\n"
@@ -218,8 +218,8 @@ msgstr "Žeton mora biti unikaten!"
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "O vaši uporabi Odoo"
+msgid "About your Prescrypto usage"
+msgstr "O vaši uporabi Prescrypto"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_active
@@ -296,8 +296,8 @@ msgstr "Arhivirano"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "Uporabljate Odoo vsakodnevno?"
+msgid "Are you using Prescrypto on a daily basis?"
+msgstr "Uporabljate Prescrypto vsakodnevno?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -665,8 +665,8 @@ msgstr "Združi po"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
-msgstr "Kako prispevate ali nameravate prispevati k Odoo?"
+msgid "How do you contribute or plan to contribute to Prescrypto?"
+msgstr "Kako prispevate ali nameravate prispevati k Prescrypto?"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_2_6
@@ -700,7 +700,7 @@ msgstr "Sodelujem v razpravah in forumih"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
+msgid "I use Github, like all official Prescrypto projects"
 msgstr ""
 
 #. module: survey
@@ -710,8 +710,8 @@ msgstr "Uporabljam drug sistem shranjevanja (SourceForge...)"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
-msgstr "Uporabljam kontekstno pomoč v Odoo"
+msgid "I use the contextual help in Prescrypto"
+msgstr "Uporabljam kontekstno pomoč v Prescrypto"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_5
@@ -772,7 +772,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
+msgid "If you do not contribute or develop in Prescrypto, skip this page."
 msgstr ""
 
 #. module: survey
@@ -1710,7 +1710,7 @@ msgstr "Menijev je preveč, razumevanje je prezapleteno"
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of Prescrypto. Try to remind your firsts days on Prescrypto and\n"
 "what have been your difficulties."
 msgstr ""
 
@@ -1726,8 +1726,8 @@ msgstr "So koristni za vsakodnevno uporabo"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
-msgstr "Novim uporabnikom pomagajo pri razumevanju Odoo"
+msgid "They help new users to understand Prescrypto"
+msgstr "Novim uporabnikom pomagajo pri razumevanju Prescrypto"
 
 #. module: survey
 #: code:addons/survey/models/survey.py:546
@@ -1961,10 +1961,10 @@ msgstr "Kaj menite o uporabniških skupinah?"
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of Prescrypto, available in the web "
 "client ?"
 msgstr ""
-"Kaj menite o procesnih prikazih, ki so na razpolago v Odoo spletnem "
+"Kaj menite o procesnih prikazih, ki so na razpolago v Prescrypto spletnem "
 "odjemalcu?"
 
 #. module: survey
@@ -2007,8 +2007,8 @@ msgstr "Da, uporabljam lokalno nameščeno verzijo 7.0"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "Da, uporabljam spletno verzijo Odoo"
+msgid "Yes, I use the online version of Prescrypto"
+msgstr "Da, uporabljam spletno verzijo Prescrypto"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * project
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:42+0000\n"
 "PO-Revision-Date: 2016-06-13 10:08+0000\n"
@@ -27,8 +27,8 @@ msgstr "%s (副本)"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo 團隊"
+msgid "- The Prescrypto Team"
+msgstr "- Prescrypto 團隊"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_project_active

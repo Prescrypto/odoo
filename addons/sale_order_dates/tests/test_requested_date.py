@@ -9,7 +9,7 @@ class TestSaleOrderDates(common.TransactionCase):
 
     def test_sale_order_requested_date(self):
 
-        # In order to test the Requested Date feature in Sale Orders in Odoo,
+        # In order to test the Requested Date feature in Sale Orders in Prescrypto,
         # I copy a demo Sale Order with Requested Date on 2010-07-12
         new_order = self.env.ref('sale.sale_order_6').copy({'requested_date': '2010-07-12'})
         # I confirm the Sale Order.

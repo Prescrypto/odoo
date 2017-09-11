@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_quote
 # 
@@ -10,7 +10,7 @@
 # Eric Geens <ericgeens@yahoo.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:28+0000\n"
 "PO-Revision-Date: 2017-06-23 13:28+0000\n"
@@ -67,7 +67,7 @@ msgid ""
 "                <p style=\"font-size: 11px;\"><strong>Sent by\n"
 "                <a href=\"${user.company_id.website}\" style=\"text-decoration:none; color: #875A7B;\">\n"
 "                    <strong>${user.company_id.name}</strong>\n"
-"                </a> using <a href=\"www.odoo.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Odoo</strong></a>\n"
+"                </a> using <a href=\"www.odoo.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Prescrypto</strong></a>\n"
 "                </strong></p>\n"
 "            </td>\n"
 "        </tr></tbody>\n"
@@ -116,7 +116,7 @@ msgstr ""
 "                <p style=\"font-size: 11px;\"><strong>Sent by\n"
 "                <a href=\"${user.company_id.website}\" style=\"text-decoration:none; color: #875A7B;\">\n"
 "                    <strong>${user.company_id.name}</strong>\n"
-"                </a> using <a href=\"www.odoo.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Odoo</strong></a>\n"
+"                </a> using <a href=\"www.odoo.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Prescrypto</strong></a>\n"
 "                </strong></p>\n"
 "            </td>\n"
 "        </tr></tbody>\n"
@@ -540,22 +540,22 @@ msgstr "Terug naar verkooporder"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Become an Odoo Consultant."
-msgstr "Wordt een Odoo consultant"
+msgid "Become an Prescrypto Consultant."
+msgstr "Wordt een Prescrypto consultant"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid "Benefit from the OpenERP branding"
-msgstr "Geniet van het Odoo merk"
+msgstr "Geniet van het Prescrypto merk"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Benefit from the growing customer demand\n"
-"                                    and our Odoo brand."
+"                                    and our Prescrypto brand."
 msgstr ""
 "Profiteer van de groeiende klantenvraag\n"
-"en van ons Odoo merk."
+"en van ons Prescrypto merk."
 
 #. module: website_quote
 #: model:product.product,quote_description:website_quote.product_product_quote_1
@@ -634,8 +634,8 @@ msgstr "Bedrijfsconfiguratie en multi-bedrijfsbeheer"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Configure Odoo using the standard modules."
-msgstr "Configureer Odoo met de standaard modules."
+msgid "Configure Prescrypto using the standard modules."
+msgstr "Configureer Prescrypto met de standaard modules."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_quote_template_mail_template_id
@@ -831,14 +831,14 @@ msgstr ""
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                                requests to our official partners. These are prospects\n"
-"                                that filled a form on the Odoo website and wanted to\n"
-"                                use Odoo. The right partner to fulfill the customer\n"
+"                                that filled a form on the Prescrypto website and wanted to\n"
+"                                use Prescrypto. The right partner to fulfill the customer\n"
 "                                request is selected based on the customer localization\n"
 "                                (nearest partner) and the grade of the partner."
 msgstr ""
 "Elk jaar sturen wij meer dan 100,000 klanten\n"
 "verzoeken naar onze officiële partners. Dit zijn prospects\n"
-"die een formulier op de Odoo website hebben ingevuld en die Odoo\n"
+"die een formulier op de Prescrypto website hebben ingevuld en die Prescrypto\n"
 "willen gebruiken. De juiste partner om de klantaanvraag\n"
 "te vervullen wordt gebaseerd op de locatie van de klant\n"
 "(dichtstbijzijnde partner) en de graad van de partner."
@@ -848,14 +848,14 @@ msgstr ""
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                        requests to our official partners. These are prospects\n"
-"                        that filled a form on the Odoo website and wanted to\n"
-"                        use Odoo. The right partner to fulfill the customer\n"
+"                        that filled a form on the Prescrypto website and wanted to\n"
+"                        use Prescrypto. The right partner to fulfill the customer\n"
 "                        request is selected based on the customer localization\n"
 "                        (nearest partner) and the grade of the partner."
 msgstr ""
 "Elk jaar sturen wij meer dan 100,000 klanten\n"
 "verzoeken naar onze officiële partners. Dit zijn prospects\n"
-"die een formulier op de Odoo website hebben ingevuld en die Odoo\n"
+"die een formulier op de Prescrypto website hebben ingevuld en die Prescrypto\n"
 "willen gebruiken. De juiste partner om de klantaanvraag\n"
 "te vervullen wordt gebaseerd op de locatie van de klant\n"
 "(dichtstbijzijnde partner) en de graad van de partner."
@@ -873,13 +873,13 @@ msgstr "Fetchmail configuratie"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"For an extra fee, partners can get access to Odoo's\n"
+"For an extra fee, partners can get access to Prescrypto's\n"
 "                                core developers and functional experts. This can help\n"
 "                                you succeed in delivering more complex or bigger\n"
 "                                projects by getting the support of highly experienced\n"
 "                                consultants on demand."
 msgstr ""
-"Voor een extra kost, kan de partner toegang krijgen tot Odoo's\n"
+"Voor een extra kost, kan de partner toegang krijgen tot Prescrypto's\n"
 "programmeurs en functionele experten. Dit kan u helpen\n"
 "in het leveren van meer complexe of grotere\n"
 "projecten door ondersteuning te krijgen van zeer ervaren\n"
@@ -943,11 +943,11 @@ msgstr ""
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Grow by developing a <strong>recurring\n"
-"                                     revenue flow</strong> from Odoo\n"
+"                                     revenue flow</strong> from Prescrypto\n"
 "                                     Enterprise's commission system."
 msgstr ""
 "Groei door een \n"
-"<strong>Herhalende inkomsten flow</strong> te ontwikkelen vanuit Odoo's\n"
+"<strong>Herhalende inkomsten flow</strong> te ontwikkelen vanuit Prescrypto's\n"
 "Enterprise commissie systeem."
 
 #. module: website_quote
@@ -1035,8 +1035,8 @@ msgstr "Incl. BTW)"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Install and administer Odoo."
-msgstr "Installeer en beheer Odoo."
+msgid "Install and administer Prescrypto."
+msgstr "Installeer en beheer Prescrypto."
 
 #. module: website_quote
 #: model:product.product,quote_description:website_quote.product_product_quote_2
@@ -1092,7 +1092,7 @@ msgstr "Introductie tot QWeb"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"It includes <strong>discounts on Odoo\n"
+"It includes <strong>discounts on Prescrypto\n"
 "                                Enterprise</strong>, technical and/or functional\n"
 "                                <strong>trainings</strong>,\n"
 "                                <strong>support</strong> services,\n"
@@ -1101,7 +1101,7 @@ msgid ""
 "                                <strong>use the trademark</strong>, sales support\n"
 "                                from a <strong>dedicated account manager</strong>."
 msgstr ""
-"Het bevat <strong>kortingen op Odoo\n"
+"Het bevat <strong>kortingen op Prescrypto\n"
 "Enterprise</strong>, technische en/of functionele\n"
 "<strong>trainingen</strong>,\n"
 "<strong>ondersteuning</strong>diensten,\n"
@@ -1140,22 +1140,22 @@ msgstr "Laatst bijgewerkt op"
 #: model:product.template,description_sale:website_quote.product_template_quote_1
 #: model:product.template,description_sale:website_quote.product_template_quote_3
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better functional understanding of Odoo"
+"Learn directly from our team and network of Prescrypto experts. Choose from the "
+"available training sessions for a better functional understanding of Prescrypto"
 msgstr ""
-"Leer direct van ons team en netwerk van Odoo experts. Kies uit de "
-"beschikbare trainingsessies voor een betere functionele kennis van Odoo."
+"Leer direct van ons team en netwerk van Prescrypto experts. Kies uit de "
+"beschikbare trainingsessies voor een betere functionele kennis van Prescrypto."
 
 #. module: website_quote
 #: model:product.product,description_sale:website_quote.product_product_quote_2
 #: model:product.template,description_sale:website_quote.product_product_quote_2_product_template
 #: model:product.template,description_sale:website_quote.product_template_quote_2
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better technical understanding of Odoo"
+"Learn directly from our team and network of Prescrypto experts. Choose from the "
+"available training sessions for a better technical understanding of Prescrypto"
 msgstr ""
-"Leer direct van ons team en netwerk van Odoo experts. Kies uit de "
-"beschikbare trainingsessies voor een betere functionele kennis van Odoo."
+"Leer direct van ons team en netwerk van Prescrypto experts. Kies uit de "
+"beschikbare trainingsessies voor een betere functionele kennis van Prescrypto."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_line_website_description
@@ -1264,31 +1264,31 @@ msgstr "Doelstellingen"
 #: model:product.template,quote_description:website_quote.product_template_quote_2
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Odoo Official Website"
-msgstr "Odoo officiële website"
+msgid "Prescrypto Official Website"
+msgstr "Prescrypto officiële website"
 
 #. module: website_quote
 #: model:product.product,quote_description:website_quote.product_product_quote_2
 #: model:product.template,quote_description:website_quote.product_product_quote_2_product_template
 #: model:product.template,quote_description:website_quote.product_template_quote_2
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
-msgid "Odoo Web Client"
-msgstr "Odoo web client"
+msgid "Prescrypto Web Client"
+msgstr "Prescrypto web client"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"Odoo promotes its partners through various ways:\n"
+"Prescrypto promotes its partners through various ways:\n"
 "                                publication on our website, official communication,\n"
 "                                publication of your success stories, etc. As soon as\n"
-"                                you become an Odoo partner and have followed the\n"
+"                                you become an Prescrypto partner and have followed the\n"
 "                                official trainings, you will be visible on the partner\n"
 "                                directory listing."
 msgstr ""
-"Odoo promoot zijn partners via verschillende wegen:\n"
+"Prescrypto promoot zijn partners via verschillende wegen:\n"
 "publicatie op onze website, officiële communicatie,\n"
 "publicatie van succesverhalen, enz Zo snel als\n"
-"u een Odoo partner wordt en de officiële training heeft gevolgd, wordt u zichtbaar in de partner\n"
+"u een Prescrypto partner wordt en de officiële training heeft gevolgd, wordt u zichtbaar in de partner\n"
 "folderlijst"
 
 #. module: website_quote
@@ -1311,8 +1311,8 @@ msgstr "Beginstand voorraad en voorraadtelling"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Operate/Work with Odoo Smoothly on regular basis."
-msgstr "Werk gemakkelijk met Odoo op reguliere basis."
+msgid "Operate/Work with Prescrypto Smoothly on regular basis."
+msgstr "Werk gemakkelijk met Prescrypto op reguliere basis."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_quote_option_website_description
@@ -1386,11 +1386,11 @@ msgstr ""
 msgid ""
 "Our partnership offer includes all you need to\n"
 "                                grow your business and deliver quality services\n"
-"                                with the Odoo Partner Program."
+"                                with the Prescrypto Partner Program."
 msgstr ""
 "Onze partnership aanbiedingen bevatten alles dat u nodig heeft om\n"
 "uw zaken te doen groeien en kwaliteitsvolle diensten af te leveren\n"
-"met het Odoo partner programma."
+"met het Prescrypto partner programma."
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
@@ -1665,14 +1665,14 @@ msgstr "Verkoopofferte sjabloonregels"
 msgid ""
 "Save time in your implementation project by having your\n"
 "                                developments tested automatically by our automated test\n"
-"                                servers. At every code commit, you get a full Odoo\n"
+"                                servers. At every code commit, you get a full Prescrypto\n"
 "                                instance that you can try out online. When this\n"
 "                                instance is deployed, your code is automatically put\n"
 "                                through our 2000+ automated unit tests."
 msgstr ""
 "Bespaar tijd in uw implementatie project door uw ontwikkelingen\n"
 "automatisch te laten testen door onze geautomatiseerd test\n"
-"servers Bij elke code commit krijgt u een volledige Odoo\n"
+"servers Bij elke code commit krijgt u een volledige Prescrypto\n"
 "instantie die u online kan uitproberen Wanneer deze\n"
 "instantie deployed is wordt uw code automatisch door\n"
 "onze 2000+ automatische unit tests gehaald."
@@ -1885,8 +1885,8 @@ msgstr "Begrijp de ontwikkelconcepten en architectuur;"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Understand the functional concepts, business processes by Odoo."
-msgstr "Begrijp de functionele concepten, bedrijfsprocessen door Odoo."
+msgid "Understand the functional concepts, business processes by Prescrypto."
+msgstr "Begrijp de functionele concepten, bedrijfsprocessen door Prescrypto."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_option_price_unit
@@ -1957,13 +1957,13 @@ msgstr ""
 msgid ""
 "We will assign you a dedicated account manager, an\n"
 "                        experienced sales person, to help you develop your\n"
-"                        Odoo business. The account manager helps you get\n"
+"                        Prescrypto business. The account manager helps you get\n"
 "                        leads, close deals, gives you feedback and best\n"
 "                        practices, delivers sales training and is your direct\n"
 "                        point of contact for any request you may have."
 msgstr ""
 "We wijzen u een toegewijde accountmanager toe, een\n"
-"ervaren verkooppersoon, om u uw Odoo zaken te\n"
+"ervaren verkooppersoon, om u uw Prescrypto zaken te\n"
 "helpen groeien. De accountbeheerder helpt u met het krijgen\n"
 "van leads, deals sluiten, feedback geven en de beste manier van aanpak, levert verkooptrainingen en is uw directe\n"
 "contact voor elke vraag die u heeft."
@@ -1998,13 +1998,13 @@ msgstr "Workflows"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_default
 msgid ""
-"You can <strong>set a description per product</strong>. Odoo will\n"
+"You can <strong>set a description per product</strong>. Prescrypto will\n"
 "                        automatically create a quotation using the descriptions\n"
 "                        of all products in the proposal. The table of content\n"
 "                        on the left is generated automatically using the styles you\n"
 "                        used in your description (heading 1, heading 2, ...)"
 msgstr ""
-"U kunt <strong>een omschrijving instellen per product</strong>. Odoo zal\n"
+"U kunt <strong>een omschrijving instellen per product</strong>. Prescrypto zal\n"
 "automatisch een offerte te maken met behulp van de omschrijvingen\n"
 "van alle producten in het voorstel. De inhoudsopgave\n"
 "aan de linkerkant wordt automatisch gegenereerd met behulp van de stijlen die u\n"

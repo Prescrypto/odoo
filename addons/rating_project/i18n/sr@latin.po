@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * rating_project
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:54+0000\n"
 "PO-Revision-Date: 2015-09-08 07:43+0000\n"
@@ -110,7 +110,7 @@ msgid ""
 "                % endif\n"
 "                <p>Email automatically sent by <a href=\"https://www.odoo."
 "com/page/project-management\" style=\"color:#875A7B;text-decoration:none;"
-"\">Odoo Project</a> for <a href=\"${object.project_id.company_id.website}\" "
+"\">Prescrypto Project</a> for <a href=\"${object.project_id.company_id.website}\" "
 "style=\"color:#875A7B;text-decoration:none;\">${object.project_id.company_id."
 "name}</a></p>\n"
 "            </td></tr>\n"

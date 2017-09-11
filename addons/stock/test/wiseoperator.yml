@@ -93,7 +93,7 @@
     self.action_confirm()
     self.action_assign()
 - 
-  The operator is a wise guy and decides to do the opposite of what Odoo proposes.  He uses the products reserved on picking 1 on picking 2 and vice versa
+  The operator is a wise guy and decides to do the opposite of what Prescrypto proposes.  He uses the products reserved on picking 1 on picking 2 and vice versa
 - 
   !python {model: stock.picking, id: False}: |
     stock_pack = self.env['stock.pack.operation']

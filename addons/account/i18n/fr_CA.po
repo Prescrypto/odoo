@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * account
 #
@@ -7,7 +7,7 @@
 # Jason Ouellet, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:53+0000\n"
 "PO-Revision-Date: 2016-07-19 02:26+0000\n"
@@ -369,8 +369,8 @@ msgstr "<span>Vues</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>-L'équipe Odoo</strong>"
+msgid "<strong>-The Prescrypto Team</strong>"
+msgstr "<strong>-L'équipe Prescrypto</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -467,10 +467,10 @@ msgstr ""
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>Create the bill in Odoo</strong><br/> with a proper due date, and "
+"<strong>Create the bill in Prescrypto</strong><br/> with a proper due date, and "
 "create the vendor if it doesnt' exist yet."
 msgstr ""
-"<strong>Créer une facture dans Odoo</strong><br/> avec une date d'échéance "
+"<strong>Créer une facture dans Prescrypto</strong><br/> avec une date d'échéance "
 "appropriée, et créer le vendeur s'il n'existe pas déjà."
 
 #. module: account
@@ -618,12 +618,12 @@ msgstr "<strong>Concilier le relevé bancaire</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Reconcile with existing transaction</strong><br/>\n"
-"                                        In this case, Odoo should "
+"                                        In this case, Prescrypto should "
 "automatically match the bank statement with the previously recorded check "
 "transaction."
 msgstr ""
 "<strong>Concilier avec un transaction existante</strong><br/>\n"
-"                                       Dans ce cas, Odoo devra "
+"                                       Dans ce cas, Prescrypto devra "
 "automatiquement faire correspondre le relevé bancaire avec la dernière "
 "transaction enregistrée."
 
@@ -720,16 +720,16 @@ msgstr "<strong>Mouvements cibles:</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Test the following three scenarios in order to assist you in "
-"familiarizing yourself with Odoo:</strong>"
+"familiarizing yourself with Prescrypto:</strong>"
 msgstr ""
-"<strong>Essayez ces trois scénarios afin de vous familiariser avec Odoo.</"
+"<strong>Essayez ces trois scénarios afin de vous familiariser avec Prescrypto.</"
 "strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>There are three different levels of access rights in Odoo:</strong>"
-msgstr "<strong>Il existe trois niveaux d'accès différents dans Odoo</strong>"
+"<strong>There are three different levels of access rights in Prescrypto:</strong>"
+msgstr "<strong>Il existe trois niveaux d'accès différents dans Prescrypto</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_overdue_document
@@ -828,12 +828,12 @@ msgstr "Une liste des taxes courantes et leurs taux."
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"A product in Odoo is something you sell or buy \n"
+"A product in Prescrypto is something you sell or buy \n"
 "                        whether or not it is goods, consumables, or "
 "services.\n"
 "                        Choose how you want to create your products:"
 msgstr ""
-"Un produit dans Odoo est quelque chose que vous vendez ou achetez\n"
+"Un produit dans Prescrypto est quelque chose que vous vendez ou achetez\n"
 "qu'il soit un bien, un article de consommation ou un service.\n"
 "Choisissez la façon de créer vos produits:"
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Online Proposals',
     'category': 'Website',
@@ -7,7 +7,7 @@
     'website': 'https://www.odoo.com/page/quote-builder',
     'version': '1.0',
     'description': """
-Odoo Sale Quote Roller
+Prescrypto Sale Quote Roller
 =========================
 
         """,

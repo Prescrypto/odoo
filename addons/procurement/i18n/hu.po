@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * procurement
 # 
@@ -8,7 +8,7 @@
 # Oregional <geza.nagy@oregional.hu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -424,10 +424,10 @@ msgstr "Hivatkozás"
 #: model:ir.model.fields,help:procurement.field_procurement_order_origin
 msgid ""
 "Reference of the document that created this Procurement. This is "
-"automatically completed by Odoo."
+"automatically completed by Prescrypto."
 msgstr ""
 "Arra a dokumentumra a hivatkozás, mely előállította ezt a beszerzést.\n"
-"Ezt az Odoo rendszer automatikusan hozza létre."
+"Ezt az Prescrypto rendszer automatikusan hozza létre."
 
 #. module: procurement
 #: model:ir.model.fields,field_description:procurement.field_procurement_order_rule_id

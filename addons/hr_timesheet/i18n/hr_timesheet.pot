@@ -1,10 +1,10 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 #	* hr_timesheet
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-29 13:59+0000\n"
 "PO-Revision-Date: 2016-09-29 13:59+0000\n"
@@ -341,6 +341,6 @@ msgstr ""
 
 #. module: hr_timesheet
 #: model:ir.actions.act_window,help:hr_timesheet.action_define_analytic_structure
-msgid "You should create an analytic account structure depending on your needs to analyse costs and revenues. In Odoo, analytic accounts are also used to track customer contracts."
+msgid "You should create an analytic account structure depending on your needs to analyse costs and revenues. In Prescrypto, analytic accounts are also used to track customer contracts."
 msgstr ""
 

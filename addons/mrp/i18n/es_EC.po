@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * mrp
 #
@@ -15,7 +15,7 @@
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:42+0000\n"
 "PO-Revision-Date: 2016-07-06 22:16+0000\n"
@@ -865,10 +865,10 @@ msgstr "Notas"
 #. module: mrp
 #: model:ir.actions.act_window,help:mrp.mrp_bom_form_action
 msgid ""
-"Odoo uses these BoMs to automatically propose manufacturing\n"
+"Prescrypto uses these BoMs to automatically propose manufacturing\n"
 "                orders according to procurement needs."
 msgstr ""
-"Odoo utilizará estas Listas de Materiales para crear automáticamente ordenes "
+"Prescrypto utilizará estas Listas de Materiales para crear automáticamente ordenes "
 "de fabricación de acuerdo a las necesidades de abastecimiento."
 
 #. module: mrp

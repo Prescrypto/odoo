@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * project
 # 
@@ -12,7 +12,7 @@
 # Tugsbiligt Lamjav <tugsbiligt@icloud.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:26+0000\n"
 "PO-Revision-Date: 2017-06-23 13:26+0000\n"
@@ -47,7 +47,7 @@ msgid ""
 "                    <tr>\n"
 "                        <td style=\"padding:15px 10px;font-size:20px\">\n"
 "                            <p dir=\"ltr\" style=\"font-size:15px;margin-top:0pt;margin-bottom:0pt;\">\n"
-"                                <span>Your Odoo Project application is up and running</span></p><br>\n"
+"                                <span>Your Prescrypto Project application is up and running</span></p><br>\n"
 "                            <p dir=\"ltr\" style=\"margin-top:0pt;margin-bottom:8pt;\">\n"
 "                                <span style=\"font-size:13px;font-weight:bold;\">What’s next?</span></p>\n"
 "                            <ul style=\"margin-top:0pt;margin-bottom:0pt;font-size:13px;list-style-type:disc;\">\n"
@@ -111,7 +111,7 @@ msgid ""
 "                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\">\n"
 "                                <span>We would be delighted to assist you along the way. Contact us through our\n"
 "                                <a href=\"https://www.odoo.com/help\">support form</a> if you have any question.\n"
-"                                You can also discover how to get the best out of Odoo Project with our </span>\n"
+"                                You can also discover how to get the best out of Prescrypto Project with our </span>\n"
 "                                <a href=\"https://www.odoo.com/documentation/user/10.0/project.html\">\n"
 "                                <span style=\"text-decoration:underline;\">User Documentation</span></a>\n"
 "                                </span><span> or with our </span>\n"
@@ -119,13 +119,13 @@ msgid ""
 "                                <span style=\"text-decoration:underline;\">API Documentation</span></a>\n"
 "                            </p>\n"
 "                            <br>\n"
-"                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\"><span>Enjoy your Odoo experience,</span></p>\n"
+"                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\"><span>Enjoy your Prescrypto experience,</span></p>\n"
 "                        </td>\n"
 "                    </tr>\n"
 "                </tbody>\n"
 "            </table>\n"
 "            <div dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;color:grey\">\n"
-"                <span><br/>-- <br/>The Odoo Team<br/>PS: People love Odoo, check </span><a href=\"https://twitter.com/odoo/favorites\"><span style=\"text-decoration:underline;\">what they say about it.</span></a></span>\n"
+"                <span><br/>-- <br/>The Prescrypto Team<br/>PS: People love Prescrypto, check </span><a href=\"https://twitter.com/odoo/favorites\"><span style=\"text-decoration:underline;\">what they say about it.</span></a></span>\n"
 "            </div>\n"
 "        </div>"
 msgstr ""
@@ -149,7 +149,7 @@ msgstr ""
 "                    <tr>\n"
 "                        <td style=\"padding:15px 10px;font-size:20px\">\n"
 "                            <p dir=\"ltr\" style=\"font-size:15px;margin-top:0pt;margin-bottom:0pt;\">\n"
-"                                <span>Таны Odoo Төсөл апп асуудалгүй ажиллаж байна</span></p><br>\n"
+"                                <span>Таны Prescrypto Төсөл апп асуудалгүй ажиллаж байна</span></p><br>\n"
 "                            <p dir=\"ltr\" style=\"margin-top:0pt;margin-bottom:8pt;\">\n"
 "                                <span style=\"font-size:13px;font-weight:bold;\">Дараа нь яах вэ?</span></p>\n"
 "                            <ul style=\"margin-top:0pt;margin-bottom:0pt;font-size:13px;list-style-type:disc;\">\n"
@@ -213,7 +213,7 @@ msgstr ""
 "                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\">\n"
 "                                <span>Бид танд туслах болно. Хэрэв танд асуулт байгаа бол манай\n"
 "                                <a href=\"https://www.odoo.com/help\">дэмжлэгийн формоор</a> бидэнтэй холбогдоорой.\n"
-"                                Мөн та Odoo Төслийг хэрхэн тултал нь ашиглахыг манай </span>\n"
+"                                Мөн та Prescrypto Төслийг хэрхэн тултал нь ашиглахыг манай </span>\n"
 "                                <a href=\"https://www.odoo.com/documentation/user/10.0/project.html\">\n"
 "                                <span style=\"text-decoration:underline;\">Хэрэглэгчийн Баримтжуулалт</span></a>\n"
 "                                </span><span> эсвэл </span>\n"
@@ -221,13 +221,13 @@ msgstr ""
 "                                <span style=\"text-decoration:underline;\">API Баримтжуулалт</span></a>-аас мэдэх боломжтой.\n"
 "                            </p>\n"
 "                            <br>\n"
-"                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\"><span>Odoo-г таатайгаар туршаарай,</span></p>\n"
+"                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\"><span>Prescrypto-г таатайгаар туршаарай,</span></p>\n"
 "                        </td>\n"
 "                    </tr>\n"
 "                </tbody>\n"
 "            </table>\n"
 "            <div dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;color:grey\">\n"
-"                <span><br/>-- <br/>Odoo Баг<br/>Жич: Хүмүүс Odoo-д дуртай байдаг, </span><a href=\"https://twitter.com/odoo/favorites\"><span style=\"text-decoration:underline;\">тэдний юу гэснийг сонирхоорой.</span></a></span>\n"
+"                <span><br/>-- <br/>Prescrypto Баг<br/>Жич: Хүмүүс Prescrypto-д дуртай байдаг, </span><a href=\"https://twitter.com/odoo/favorites\"><span style=\"text-decoration:underline;\">тэдний юу гэснийг сонирхоорой.</span></a></span>\n"
 "            </div>\n"
 "        </div>"
 
@@ -295,8 +295,8 @@ msgstr ""
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo баг"
+msgid "- The Prescrypto Team"
+msgstr "- Prescrypto баг"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -502,12 +502,12 @@ msgstr ""
 msgid ""
 "<span class=\"panel-title\">\n"
 "                                            <span class=\"fa fa-tasks\"/>\n"
-"                                            <strong> Directly in Odoo</strong>\n"
+"                                            <strong> Directly in Prescrypto</strong>\n"
 "                                        </span>"
 msgstr ""
 "<span class=\"panel-title\">\n"
 "                                            <span class=\"fa fa-tasks\"/>\n"
-"                                            <strong> Шууд Odoo дотор</strong>\n"
+"                                            <strong> Шууд Prescrypto дотор</strong>\n"
 "                                        </span>"
 
 #. module: project
@@ -678,10 +678,10 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"<strong>A great feature in Odoo is the integration of a Collaborative Notepad called Etherpad.</strong><br/>\n"
+"<strong>A great feature in Prescrypto is the integration of a Collaborative Notepad called Etherpad.</strong><br/>\n"
 "                            It replaces the standard Description area in Tasks and Issues and is extremely useful for several cases."
 msgstr ""
-"<strong>Odoo-н нэгэн давуу тал бол Etherpad гэдэг Хамтарсан Тэмдэглэлийн дэвтэр юм.</strong><br/>\n"
+"<strong>Prescrypto-н нэгэн давуу тал бол Etherpad гэдэг Хамтарсан Тэмдэглэлийн дэвтэр юм.</strong><br/>\n"
 "Энэ нь Даалгавар ба Асуудлууд дээрх стандарт Тайлбарын хэсгийн оронд байрлах бөгөөд хэд хэдэн маш хэрэгтэй чанаруудтай."
 
 #. module: project
@@ -739,10 +739,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Be careful about the messages you send</strong><br/>\n"
-"                                    Sending a message through Odoo will automatically send an email containing your message to all the followers including internal employees, external users or customers."
+"                                    Sending a message through Prescrypto will automatically send an email containing your message to all the followers including internal employees, external users or customers."
 msgstr ""
 "<strong>Илгээж буй мэссежүүддээ анхааралтай хандаарай</strong><br/>\n"
-"Odoo-гоор мэссеж илгээх нь дотоод ажилчид, гадаад хэрэглэгчид эсвэл захиалагчид зэрэг бүх дагагчидад таны мэссежийг хадгалсан имэйлийг автоматаар илгээх болно."
+"Prescrypto-гоор мэссеж илгээх нь дотоод ажилчид, гадаад хэрэглэгчид эсвэл захиалагчид зэрэг бүх дагагчидад таны мэссежийг хадгалсан имэйлийг автоматаар илгээх болно."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -776,10 +776,10 @@ msgstr "<strong>Бидэнтэй одоо холбогдох:</strong><br/>"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Create tasks and issues by email</strong><br/>\n"
-"                                In Odoo, every project has an email alias. If you send an email to this alias, it will automatically create a task or issue in the first stage of the project, with all the email recipients as its default followers."
+"                                In Prescrypto, every project has an email alias. If you send an email to this alias, it will automatically create a task or issue in the first stage of the project, with all the email recipients as its default followers."
 msgstr ""
 "<strong>Даалгавар ба асуудлуудыг имэйлээр үүсгэх</strong><br/>\n"
-"Odoo дотор төсөл бүр имэйл зохиомол нэртэй байдаг. Хэрэв та энэ зохиомол нэр рүү имэйл илгээвэл энэ нь төслийн эхний шатанд даалгавар эсвэл асуудлыг автоматаар үүсгэдэг бөгөөд имэйлийн бүх хүлээн авагчдыг үндсэн дагагчидаар нь нэмдэг."
+"Prescrypto дотор төсөл бүр имэйл зохиомол нэртэй байдаг. Хэрэв та энэ зохиомол нэр рүү имэйл илгээвэл энэ нь төслийн эхний шатанд даалгавар эсвэл асуудлыг автоматаар үүсгэдэг бөгөөд имэйлийн бүх хүлээн авагчдыг үндсэн дагагчидаар нь нэмдэг."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -956,10 +956,10 @@ msgstr "<strong>Санал болгосон үйлдлүүд:</strong>"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Rely on the chatter</strong><br/>\n"
-"                                    Below every Task and Issue (or more generally, below every Document in Odoo) is an area called Chatter."
+"                                    Below every Task and Issue (or more generally, below every Document in Prescrypto) is an area called Chatter."
 msgstr ""
 "<strong>Чаттерд найд</strong><br/>\n"
-"Даалгавар ба Асуудал бүрийн доор (ерөнхийдөө, Odoo доторх Баримт бүрийн доор) Чаттер гэдэг хэсэг бий."
+"Даалгавар ба Асуудал бүрийн доор (ерөнхийдөө, Prescrypto доторх Баримт бүрийн доор) Чаттер гэдэг хэсэг бий."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -1032,9 +1032,9 @@ msgstr "Та <strong>ямар үйл ажиллагаануудыг</strong> у�
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "<strong>What do you expect</strong> from using Odoo Project?"
+msgid "<strong>What do you expect</strong> from using Prescrypto Project?"
 msgstr ""
-"Odoo Төслийг хэрэглэснээр <strong>та ямар үр дүнг хүлээж байгаа вэ?</strong>"
+"Prescrypto Төслийг хэрэглэснээр <strong>та ямар үр дүнг хүлээж байгаа вэ?</strong>"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -1087,10 +1087,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "A project usually involves many stakeholders, be it the project's sponsor, resources, customers or external contractors. But the most important person in a project is usually the Project Manager.<br/>\n"
-"                    In Odoo, the Project Managers have the responsibility of managing the Kanban view: they ensure smooth progression of the projects, minimal downtime between stages and optimal work distribution between resources."
+"                    In Prescrypto, the Project Managers have the responsibility of managing the Kanban view: they ensure smooth progression of the projects, minimal downtime between stages and optimal work distribution between resources."
 msgstr ""
 "Төсөлд ивээн тэтгэгч, нөөц, захиалагч эсвэл гадаад гэрээлэгчид зэрэг олон оролцогч талууд ихэвчлэн хамрагддаг. Гэхдээ төслийн хамгийн чухал хүн бол Төслийн Менежер байдаг.<br/>\n"
-"Odoo -д Төслийн Менежерүүд нь Канбан харагдацыг удирдах үүрэгтэй: төслийг тогтмол ахицтай байлгах, үе шатуудын хооронд идэвхигүй хугацааг хамгийн бага байлгах, нөөц хооронд ажлыг хамгийн оновчтойгоор хуваарилах."
+"Prescrypto -д Төслийн Менежерүүд нь Канбан харагдацыг удирдах үүрэгтэй: төслийг тогтмол ахицтай байлгах, үе шатуудын хооронд идэвхигүй хугацааг хамгийн бага байлгах, нөөц хооронд ажлыг хамгийн оновчтойгоор хуваарилах."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_task_kanban_state
@@ -1395,11 +1395,11 @@ msgstr "Хоригдсон"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "But because change is never easy, we've created this Planner to guide you.<br/>\n"
-"                        For example, you'll understand why you shouldn’t use Odoo to plan but instead to\n"
+"                        For example, you'll understand why you shouldn’t use Prescrypto to plan but instead to\n"
 "                        collaborate, or why organizing your projects by role is wrong."
 msgstr ""
 "Өөрчлөлт хийхэд амаргүй байдаг болохоор бид танд хөтчилөхийн тулд энэхүү Төлөвлөгчийг гаргасан юм.<br/>\n"
-"Тухайлбал, та яагаад Odoo -г төлөвлөхөд бус хамтран ажиллахад ашиглах хэрэгтэй байдгийг, эсвэл яагаад төслүүдээ үүргээр нь зохион байгуулах буруу гэдгийг ойлгож авах болно."
+"Тухайлбал, та яагаад Prescrypto -г төлөвлөхөд бус хамтран ажиллахад ашиглах хэрэгтэй байдгийг, эсвэл яагаад төслүүдээ үүргээр нь зохион байгуулах буруу гэдгийг ойлгож авах болно."
 
 #. module: project
 #: model:project.task,legend_done:project.project_task_10
@@ -1571,10 +1571,10 @@ msgstr "Төслийг Тохируулах"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Congratulations on choosing Odoo Project to help running your company more "
+"Congratulations on choosing Prescrypto Project to help running your company more "
 "efficiently!"
 msgstr ""
-"Компаниа илүү үр ашигтайгаар удирдахад Odoo Төслийг сонгосон танд баяр "
+"Компаниа илүү үр ашигтайгаар удирдахад Prescrypto Төслийг сонгосон танд баяр "
 "хүргэе!"
 
 #. module: project
@@ -1681,10 +1681,10 @@ msgstr "Үүсгэсэн"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Creating Tasks and/or Issues is the next step in managing your Projects.<br/>\n"
-"                        In Odoo, it is pretty straightforward, but here are some explanations you may find useful."
+"                        In Prescrypto, it is pretty straightforward, but here are some explanations you may find useful."
 msgstr ""
 "Даалгаврууд ба/эсвэл Асуудлууд үүсгэх нь Төслүүдээ удирдах явцын дараагийн шат юм.<br/>\n"
-" Odoo дотор энэ нь нилээн шулуухан байдаг ч дараах хэдэн тайлбарууд танд тус болж магадгүй юм."
+" Prescrypto дотор энэ нь нилээн шулуухан байдаг ч дараах хэдэн тайлбарууд танд тус болж магадгүй юм."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.view_task_project_user_search
@@ -1811,10 +1811,10 @@ msgstr "Устгах"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Depending on what you need and how you want to operate, there are several "
-"ways to work with Odoo. First, decide if you want to think in terms of tasks"
+"ways to work with Prescrypto. First, decide if you want to think in terms of tasks"
 " or issues. Then, activate the Timesheets app if you need it."
 msgstr ""
-"Танд юу хэрэгтэй болон та хэрхэн ажиллахыг хүсч байгаа дээр үндэслэн, Odoo "
+"Танд юу хэрэгтэй болон та хэрхэн ажиллахыг хүсч байгаа дээр үндэслэн, Prescrypto "
 "дээр ажиллах хэд хэдэн аргууд байдаг. Эхлээд та даалгавар эсвэл асуудлаар "
 "ажиллахыг хүсч байгаа эсэхээ шийдэх хэрэгтэй. Дараа нь шаардлагатай бол "
 "Цагийн хуудсууд аппликешныг идэвхижүүлээрэй."
@@ -2015,20 +2015,20 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Even if there is no specific field in Odoo, it's important to define a person responsible for each stage of your Project.<br/>\n"
+"Even if there is no specific field in Prescrypto, it's important to define a person responsible for each stage of your Project.<br/>\n"
 "                        This person will have the responsibility for validating each stage and ensuring that the requirements to move to the next stage are met."
 msgstr ""
-"Odoo дотор тодорхой талбар байхгүй байсан ч, Төслийн шат бүрийг хариуцсан хүнийг тодорхойлох нь чухал.<br/>\n"
+"Prescrypto дотор тодорхой талбар байхгүй байсан ч, Төслийн шат бүрийг хариуцсан хүнийг тодорхойлох нь чухал.<br/>\n"
 "Энэ хүн нь шат бүрийг баталгаажуулах болон дараагийн шат хүрэхэд шаардагдах нөхцөл хангагдсан эсэхийг хариуцна."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Every business is different.<br/>\n"
-"                    Odoo allows you to customize every application and it's usually a good idea to customize screens to fit your project needs."
+"                    Prescrypto allows you to customize every application and it's usually a good idea to customize screens to fit your project needs."
 msgstr ""
 "Бизнес болгон адилгүй.<br/>\n"
-"Odoo аппликэшн бүрийг өөрчлөх боломжоор хангадаг бөгөөд төслийн хэрэгцээнд тохируулан дэлгэцүүдийг өөрчлөх нь зүйтэй юм."
+"Prescrypto аппликэшн бүрийг өөрчлөх боломжоор хангадаг бөгөөд төслийн хэрэгцээнд тохируулан дэлгэцүүдийг өөрчлөх нь зүйтэй юм."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2121,10 +2121,10 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
-"Odoo-н багт<br/>\n"
+"Prescrypto-н багт<br/>\n"
 "Fabien Pinckaers, Үүсгэн байгуулагч"
 
 #. module: project
@@ -2158,8 +2158,8 @@ msgstr "Захиалагчийн нэхэмжлэл дээр хавсаргах 
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Get full synchronization with Odoo"
-msgstr "Odoo - гоор бүрэн синхрончлоорой"
+msgid "Get full synchronization with Prescrypto"
+msgstr "Prescrypto - гоор бүрэн синхрончлоорой"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2423,9 +2423,9 @@ msgstr ""
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Internal notes are messages that will appear in the Chatter but will not be "
-"notified in Odoo's Inbox."
+"notified in Prescrypto's Inbox."
 msgstr ""
-"Дотоод тэмдэглэлүүд нь Чаттер дээр харагдах боловч Odoo -н Inbox -д "
+"Дотоод тэмдэглэлүүд нь Чаттер дээр харагдах боловч Prescrypto -н Inbox -д "
 "мэдэгдэхгүй."
 
 #. module: project
@@ -2480,19 +2480,19 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"It is time to think about how you will transform your activities into real projects in Odoo.<br/>\n"
+"It is time to think about how you will transform your activities into real projects in Prescrypto.<br/>\n"
 "                        For that, the most important part is defining the stages of your projects. Stages are the different steps a task or an issue can go through, from its creation to its ending. They will appear in what we call the 'Kanban' view of your projects."
 msgstr ""
-"Odoo дотор үйл ажиллагаануудаа хэрхэн бодит төсөл болгох талаар бодох цаг иржээ.<br/>\n"
+"Prescrypto дотор үйл ажиллагаануудаа хэрхэн бодит төсөл болгох талаар бодох цаг иржээ.<br/>\n"
 "Ингэхийн тулд хамгийн чухал нь төслийнхөө үе шатуудыг тодорхойлох юм. Үе шатууд нь даалгавар эсвэл асуудлын үүслээс төгсгөл хүртэл туулж өнгөрөх ялгаатай алхамууд юм. Энэ нь төслүүдийн бидний хэлдэгээр 'Канбан' харагдац дээр гарах болно."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"It's essential to be clear about why you want to use Odoo Project and what your goals are.\n"
+"It's essential to be clear about why you want to use Prescrypto Project and what your goals are.\n"
 "                        Indeed, there are many ways to manage a project, to find the best one for you, you need to know exactly what you want to achieve. And later on, we will hopefully transform your objectives into real improvements for your company."
 msgstr ""
-"Odoo Төслийг ашиглах болсон шалтгаан ба зорилгуудаа тодорхой болгох зайлшгүй шаардлагатай.\n"
+"Prescrypto Төслийг ашиглах болсон шалтгаан ба зорилгуудаа тодорхой болгох зайлшгүй шаардлагатай.\n"
 "Төслийг удирдах олон арга байдгаас өөрт яг тохирохыг нь олохын тулд та яг юунд хүрмээр байгаагаа мэдэх хэрэгтэй. Дараа нь, бид таны зорилтуудыг бодит сайжруулалт болгон хувиргах болно."
 
 #. module: project
@@ -2671,13 +2671,13 @@ msgid ""
 "Managing notifications is essential: too few and you risk missing critical "
 "information, too many and you will be  overloaded with unnecessary "
 "information. The trick is to find the right balance between the projects, "
-"stages and tasks you want to be informed about. Fortunately, Odoo Project "
+"stages and tasks you want to be informed about. Fortunately, Prescrypto Project "
 "has many levels of notifications and messages you can choose from."
 msgstr ""
 "Мэдэгдлүүдийг удирдах нь чухал: хэт цөөн бол чухал мэдээллээс хоцрох, хэт "
 "олон бол хэрэггүй мэдээллээр дүүрэх болно. Үүнийг аргалах арга нь мэдэхийг "
 "хүссэн төсөл, шат, даалгавруудын хоорондох зөв тэнцвэрийг олох юм. Аз "
-"болоход Odoo Төсөлд таны сонгох боломжтой мэдэгдэл, мэссежийн олон түвшин "
+"болоход Prescrypto Төсөлд таны сонгох боломжтой мэдэгдэл, мэссежийн олон түвшин "
 "байдаг."
 
 #. module: project
@@ -2818,30 +2818,30 @@ msgstr "Хавсрагдсан баримтын тоо"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Odoo Project is a super fast and easy way to make your activities and tasks visible to\n"
+"Prescrypto Project is a super fast and easy way to make your activities and tasks visible to\n"
 "                        everyone in your company. Follow how things progress, see when things are stuck, know\n"
 "                        who's in charge, all in one place."
 msgstr ""
-"Odoo Төсөл нь үйл ажиллагаа болон даалгавруудаа компаний бүх хүмүүст \n"
+"Prescrypto Төсөл нь үйл ажиллагаа болон даалгавруудаа компаний бүх хүмүүст \n"
 "харагддаг болгох маш хурдан бас хялбар арга юм. Зүйлс хэрхэн урагшилж \n"
 "байгааг дагаж, гацах үед нь анзаарч, хэн хариуцаж байгааг бүгдийг нэг дороос."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_config_settings_generate_project_alias
 msgid ""
-"Odoo will generate an email alias at the project creation from project name."
+"Prescrypto will generate an email alias at the project creation from project name."
 msgstr ""
-"Төслийг үүсгэх явцад Odoo нь төслийн нэрээс автоматаар имэйл давхар нэр "
+"Төслийг үүсгэх явцад Prescrypto нь төслийн нэрээс автоматаар имэйл давхар нэр "
 "үүсгэнэ."
 
 #. module: project
 #: model:ir.actions.act_window,help:project.action_view_task
 msgid ""
-"Odoo's project management allows you to manage the pipeline of your tasks "
+"Prescrypto's project management allows you to manage the pipeline of your tasks "
 "efficiently. You can track progress, discuss on tasks, attach documents, "
 "etc."
 msgstr ""
-"Odoo - н төслийн удирдлага нь даалгаврын сувгийг үр ашигтайгаар удирдахад "
+"Prescrypto - н төслийн удирдлага нь даалгаврын сувгийг үр ашигтайгаар удирдахад "
 "тусладаг. Та явцыг хянах, даалгавар дээр хэлэлцэх, баримт хавсаргах, г.м. "
 "боломжтой."
 
@@ -3273,8 +3273,8 @@ msgstr "Үүрэг хариуцлага"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Runs outside Odoo, always available"
-msgstr "Odoo - с гадуур ажилладаг, үргэлж боломжтой"
+msgid "Runs outside Prescrypto, always available"
+msgstr "Prescrypto - с гадуур ажилладаг, үргэлж боломжтой"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -3615,9 +3615,9 @@ msgstr "Даалгаврын шинжилгээ"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Tasks are the main mechanism in Odoo and are activated by default."
+msgid "Tasks are the main mechanism in Prescrypto and are activated by default."
 msgstr ""
-"Даалгаврууд нь Odoo дахь үндсэн механизм бөгөөд анхнаасаа идэвхижүүлэгдсэн "
+"Даалгаврууд нь Prescrypto дахь үндсэн механизм бөгөөд анхнаасаа идэвхижүүлэгдсэн "
 "байдаг."
 
 #. module: project
@@ -3649,7 +3649,7 @@ msgstr "Тестлэлт"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"The Odoo Project app can be used to manage many activities, from the "
+"The Prescrypto Project app can be used to manage many activities, from the "
 "development of a new product to the daily operations of a customer support. "
 "With some creativity, it can even be used to manage your marketing "
 "communications or personal projects. But just because it can be done doesn't"
@@ -3657,7 +3657,7 @@ msgid ""
 "can be a good project."
 msgstr ""
 "Шинэ бүтээгдэхүүний хөгжүүлэлтээс авахуулаад захиалагчийн дэмжлэгийн өдөр "
-"тутмын үйл ажиллагаанууд хүртэлх олон үйл ажиллагааг удирдахад Odoo Төсөл "
+"тутмын үйл ажиллагаанууд хүртэлх олон үйл ажиллагааг удирдахад Prescrypto Төсөл "
 "апп-г ашиглах боломжтой. Жаахан бүтээлч байдлаар хандаад үүнийг бүр "
 "маркетингийн харилцаа эсвэл хувийн төслүүдийг удирдахад ч ашигладаг болгох "
 "боломжтой. Гэхдээ хийх боломжтой гэдэг нь энэ үргэлж зөв санаа гэсэн үг биш "
@@ -3674,11 +3674,11 @@ msgstr ""
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Prescrypto Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"Хуурмаг нэрийн харгалзах модель (Odoo-н баримтын төрөл). Байгаа ямар нэг "
+"Хуурмаг нэрийн харгалзах модель (Prescrypto-н баримтын төрөл). Байгаа ямар нэг "
 "бичлэг рүү хариулж байгаа биш бүх эмэйл энэ моделийн шин бичлэгийг үүсгэнэ "
 "(Ж. Төслийн даалгавар)"
 
@@ -3807,11 +3807,11 @@ msgstr "Цагийн хуудсын Хэмжих Нэгж"
 msgid ""
 "Timesheets are often essential for running a company.<br/>\n"
 "                    They are also prone to human error, repetitive, annoying, and sometimes stressful to employees.<br/>\n"
-"                    Fortunately, Odoo has several solutions to make them as efficient and painless as possible!<br/>"
+"                    Fortunately, Prescrypto has several solutions to make them as efficient and painless as possible!<br/>"
 msgstr ""
 "Цагийн хуудас нь компанийг удирдахад голдуу маш чухал үүрэг гүйцэтгэдэг.<br/>\n"
 "Энэ нь хүний гаргасан алдаанд өртөмтгий, давтагдмал байдаг ба ажилчдад заримдаа ядаргаатай санагдах үе ч байдаг.<br/>\n"
-"Аз болоход Odoo үүнийг байж болох хамгийн үр ашигтай, зовлонгүй байлгах хэд хэдэн шийдлүүдийг санал болгодог!<br/>"
+"Аз болоход Prescrypto үүнийг байж болох хамгийн үр ашигтай, зовлонгүй байлгах хэд хэдэн шийдлүүдийг санал болгодог!<br/>"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -4194,8 +4194,8 @@ msgstr "Таны Зорилтууд"
 
 #. module: project
 #: model:mail.template,subject:project.mail_template_data_module_install_project
-msgid "Your Odoo Project application is up and running"
-msgstr "Таны Odoo Төслийн аппликэшн саадгүй ажиллаж байна"
+msgid "Your Prescrypto Project application is up and running"
+msgstr "Таны Prescrypto Төслийн аппликэшн саадгүй ажиллаж байна"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner

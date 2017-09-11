@@ -443,7 +443,7 @@ var PlannerDialog = Widget.extend({
             $content: $('<div>', {
                 html: message,
             }),
-            title: _t("Odoo Enterprise"),
+            title: _t("Prescrypto Enterprise"),
         }).open();
 
         // force dialog to be hover the planner

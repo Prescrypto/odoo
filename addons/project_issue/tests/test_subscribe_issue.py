@@ -7,7 +7,7 @@ from odoo.modules import module
 class TestSubscribeIssue(TestIssueUsers):
 
     def test_subscribe_issues(self):
-        # In Order to test process of Issue in Odoo, Customer send the issue by email.
+        # In Order to test process of Issue in Prescrypto, Customer send the issue by email.
         request_file = open(module.get_module_resource('project_issue', 'tests', 'issue.eml'), 'rb')
         request_message = request_file.read()
         self.env["mail.thread"].message_process('project.issue', request_message)

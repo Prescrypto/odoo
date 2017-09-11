@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
@@ -8,7 +8,7 @@
 # jl2035 <jaka.luthar@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -171,13 +171,13 @@ msgstr "Napaka! Ne morete ustvariti rekurzivne kategorije."
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure Odoo"
+msgid "Explain how to configure Prescrypto"
 msgstr ""
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
-msgstr "Razložite, kako implementirati v Odoo"
+msgid "Explain how to implement it in Prescrypto"
+msgstr "Razložite, kako implementirati v Prescrypto"
 
 #. module: website_forum_doc
 #: model:ir.model.fields,field_description:website_forum_doc.field_forum_documentation_toc_forum_id
@@ -388,8 +388,8 @@ msgstr "Naziv stopnje"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
-msgstr "Odgovor je razumljiv za nekoga, ki ne pozna Odoo"
+msgid "The answer is understandable for someone who does not know Prescrypto"
+msgstr "Odgovor je razumljiv za nekoga, ki ne pozna Prescrypto"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question

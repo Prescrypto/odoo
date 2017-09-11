@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_slides
 # 
@@ -7,7 +7,7 @@
 # Kostas Goutoudis <goutoudis@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:28+0000\n"
 "PO-Revision-Date: 2017-06-23 13:28+0000\n"
@@ -320,7 +320,7 @@ msgstr "Μόνο Επικυρωμένοι Χρήστες"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_5
-msgid "Awesome Timesheet by Odoo"
+msgid "Awesome Timesheet by Prescrypto"
 msgstr ""
 
 #. module: website_slides
@@ -438,7 +438,7 @@ msgstr ""
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_1
 msgid ""
-"Create a beautiful and professional eCommerce on your website with Odoo. \n"
+"Create a beautiful and professional eCommerce on your website with Prescrypto. \n"
 "\n"
 "Find out more at https://www.odoo.com/page/e-commerce"
 msgstr ""
@@ -552,7 +552,7 @@ msgstr "Λήψη"
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_5
 msgid ""
-"Download Awesome Timesheet by Odoo and discover how easy time tracking and employee management can be!\n"
+"Download Awesome Timesheet by Prescrypto and discover how easy time tracking and employee management can be!\n"
 "\n"
 "Chrome: http://bit.ly/2613LcY\n"
 "iOS: http://bit.ly/1ZUZsZD"
@@ -874,54 +874,54 @@ msgstr "Αριθμός Βίντεος"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_2
-msgid "Odoo All-in-One Software Demonstration"
+msgid "Prescrypto All-in-One Software Demonstration"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.category,name:website_slides.category_2
 #: model:slide.tag,name:website_slides.tag5
-msgid "Odoo Days"
-msgstr "Odoo Days"
+msgid "Prescrypto Days"
+msgstr "Prescrypto Days"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_0
-msgid "Odoo Explained"
-msgstr "Επεξήγηση Odoo"
+msgid "Prescrypto Explained"
+msgstr "Επεξήγηση Prescrypto"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_6
-msgid "Odoo Marketing - part 1: ATTRACT"
-msgstr "Odoo Marketing - Μέρος 1: ΠΡΟΣΕΛΚΥΣΗ"
+msgid "Prescrypto Marketing - part 1: ATTRACT"
+msgstr "Prescrypto Marketing - Μέρος 1: ΠΡΟΣΕΛΚΥΣΗ"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_7
-msgid "Odoo Marketing - part 1: ATTRACT_2"
-msgstr "Odoo Marketing - Μέρος 1: ΠΡΟΣΕΛΚΥΣΗ_2"
+msgid "Prescrypto Marketing - part 1: ATTRACT_2"
+msgstr "Prescrypto Marketing - Μέρος 1: ΠΡΟΣΕΛΚΥΣΗ_2"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_8
-msgid "Odoo Marketing - part 1: ATTRACT_3"
-msgstr "Odoo Marketing - Μέρος 1: ΠΡΟΣΕΛΚΥΣΗ_3"
+msgid "Prescrypto Marketing - part 1: ATTRACT_3"
+msgstr "Prescrypto Marketing - Μέρος 1: ΠΡΟΣΕΛΚΥΣΗ_3"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_10
-msgid "Odoo Roadmap & Strategy - Fabien Pinckaers"
-msgstr "Odoo πορεία και στρατηγική - Fabien Pinckaers"
+msgid "Prescrypto Roadmap & Strategy - Fabien Pinckaers"
+msgstr "Prescrypto πορεία και στρατηγική - Fabien Pinckaers"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_3
-msgid "Odoo Sign Demonstration"
+msgid "Prescrypto Sign Demonstration"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_1
-msgid "Odoo Website & E-commerce Demonstration"
+msgid "Prescrypto Website & E-commerce Demonstration"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_6
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and "
+"Prescrypto's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
 "www.odoo.com"
 msgstr ""
@@ -930,7 +930,7 @@ msgstr ""
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Prescrypto's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
@@ -1081,11 +1081,11 @@ msgstr ""
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_0
 msgid ""
-"Run your business with a comprehensive suite of business apps. Do it easily with Odoo! \n"
+"Run your business with a comprehensive suite of business apps. Do it easily with Prescrypto! \n"
 "\n"
 "http://odoo.com/start"
 msgstr ""
-"Λειτουργήστε την επιχείρησή σας με μια ολοκληρωμένη σουίτα εφαρμογών για επιχειρήσεις. Κάντε το εύκολα με Odoo! \n"
+"Λειτουργήστε την επιχείρησή σας με μια ολοκληρωμένη σουίτα εφαρμογών για επιχειρήσεις. Κάντε το εύκολα με Prescrypto! \n"
 "\n"
 "http://odoo.com/start"
 
@@ -1198,7 +1198,7 @@ msgstr "Συγνώμη, αλλά τίποτα δεν ταιριάζει με τ�
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_3
 msgid ""
-"Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
+"Stop doing manual printing and scanning. Move to electronic signature with Prescrypto Sign!\n"
 "\n"
 "Discover more at https://www.odoo.com/page/sign"
 msgstr ""

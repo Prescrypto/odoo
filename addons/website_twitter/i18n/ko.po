@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_twitter
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:58+0000\n"
 "PO-Revision-Date: 2016-01-25 08:56+0000\n"
@@ -29,12 +29,12 @@ msgstr ""
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "<strong>Description: </strong> Odoo Tweet Scroller"
+msgid "<strong>Description: </strong> Prescrypto Tweet Scroller"
 msgstr ""
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "<strong>Name: </strong> Odoo Tweet Scroller"
+msgid "<strong>Name: </strong> Prescrypto Tweet Scroller"
 msgstr ""
 
 #. module: website_twitter

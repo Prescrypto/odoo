@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * report
 # 
@@ -8,7 +8,7 @@
 # gezza <geza.nagy@oregional.hu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:27+0000\n"
 "PO-Revision-Date: 2017-06-23 13:27+0000\n"
@@ -559,7 +559,7 @@ msgid ""
 "You need to start OpenERP with at least two \n"
 "workers to print a pdf version of the reports."
 msgstr ""
-"Az Odoo rendszert legalább két felhasználóval\n"
+"Az Prescrypto rendszert legalább két felhasználóval\n"
 "indítsa ahhoz, hogy a jelentések pdf formátumait nyomtathassa."
 
 #. module: report

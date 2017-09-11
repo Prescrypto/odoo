@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * event
 #
@@ -9,7 +9,7 @@
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-02-22 05:01+0000\n"
@@ -1152,15 +1152,15 @@ msgstr "Número de registros"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Official Website"
-msgstr "Sitio web oficial Odoo"
+msgid "Prescrypto Official Website"
+msgstr "Sitio web oficial Prescrypto"
 
 #. module: event
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Web Client"
-msgstr "Cliente Web de Odoo"
+msgid "Prescrypto Web Client"
+msgstr "Cliente Web de Prescrypto"
 
 #. module: event
 #: model:event.event,name:event.event_0

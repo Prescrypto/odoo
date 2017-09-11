@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * account
 #
@@ -7,7 +7,7 @@
 # Tomas Diaz L. <von.carpentier@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:53+0000\n"
 "PO-Revision-Date: 2016-07-22 03:02+0000\n"
@@ -356,8 +356,8 @@ msgstr "<span>Ver</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>-El equipo de Odoo</strong>"
+msgid "<strong>-The Prescrypto Team</strong>"
+msgstr "<strong>-El equipo de Prescrypto</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -451,10 +451,10 @@ msgstr ""
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>Create the bill in Odoo</strong><br/> with a proper due date, and "
+"<strong>Create the bill in Prescrypto</strong><br/> with a proper due date, and "
 "create the vendor if it doesnt' exist yet."
 msgstr ""
-"<strong>Crear la factura en Odoo</strong><br/> con la fecha de vencimiento "
+"<strong>Crear la factura en Prescrypto</strong><br/> con la fecha de vencimiento "
 "adecuada y crear el proveedor si todav&#237;a no existe."
 
 #. module: account
@@ -599,12 +599,12 @@ msgstr "<strong>Conciliar la cuenta bancaria</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Reconcile with existing transaction</strong><br/>\n"
-"                                        In this case, Odoo should "
+"                                        In this case, Prescrypto should "
 "automatically match the bank statement with the previously recorded check "
 "transaction."
 msgstr ""
 "<strong>Conciliar con una transacci&#243;n existente</strong><br/>\n"
-"En este caso, Odoo deber&#237;a hacer coincidir autom&#225;ticamente el "
+"En este caso, Prescrypto deber&#237;a hacer coincidir autom&#225;ticamente el "
 "extracto bancario con la transacci&#243;n marcada, guardada con anterioridad."
 
 #. module: account
@@ -697,17 +697,17 @@ msgstr "<strong>Movimientos señalados:</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Test the following three scenarios in order to assist you in "
-"familiarizing yourself with Odoo:</strong>"
+"familiarizing yourself with Prescrypto:</strong>"
 msgstr ""
 "<strong>Examine los tres supuestos siguientes para poder familiarizarse con "
-"Odoo:</strong>"
+"Prescrypto:</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>There are three different levels of access rights in Odoo:</strong>"
+"<strong>There are three different levels of access rights in Prescrypto:</strong>"
 msgstr ""
-"<strong>Hay tres niveles de derechos de acceso diferentes en Odoo:</strong>"
+"<strong>Hay tres niveles de derechos de acceso diferentes en Prescrypto:</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_overdue_document
@@ -803,12 +803,12 @@ msgstr "Una lista de impuestos comunes y sus tarifas."
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"A product in Odoo is something you sell or buy \n"
+"A product in Prescrypto is something you sell or buy \n"
 "                        whether or not it is goods, consumables, or "
 "services.\n"
 "                        Choose how you want to create your products:"
 msgstr ""
-"Un producto en Odoo es algo que vendes o compras, sean cosas, consumibles o "
+"Un producto en Prescrypto es algo que vendes o compras, sean cosas, consumibles o "
 "servicios. Elija cómo quiere crear sus productos:"
 
 #. module: account
@@ -3627,8 +3627,8 @@ msgstr "Saldo final"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Enjoy your Odoo experience,"
-msgstr "Disfrute de su experiencia Odoo,"
+msgid "Enjoy your Prescrypto experience,"
+msgstr "Disfrute de su experiencia Prescrypto,"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_move_line_form
@@ -4993,22 +4993,22 @@ msgstr "Titulo 1 Principal (negrita, subrayado)"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Medios de pago para recolectar dinero. Los módulos de Odoo ofrecen varias "
+"Medios de pago para recolectar dinero. Los módulos de Prescrypto ofrecen varias "
 "facilidades de pago, pero usted siempre puede usar el método de pago "
 "'Manual' para gestionar pagos por fuera del software."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Medios de pago para enviar dinero. Los módulos de Odoo ofrecen varias "
+"Medios de pago para enviar dinero. Los módulos de Prescrypto ofrecen varias "
 "facilidades de pago, pero usted siempre puede usar el método de pago "
 "'Manual' para gestionar pagos por fuera del software."
 

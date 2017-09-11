@@ -1,7 +1,7 @@
 {
     'name': 'Base import',
     'description': """
-New extensible file import for Odoo
+New extensible file import for Prescrypto
 ======================================
 
 Re-implement openerp's file import system:
@@ -18,7 +18,7 @@ Re-implement openerp's file import system:
   files) which may be simpler to handle in their work flow or from
   their data production sources.
 
-* In a module, so that administrators and users of Odoo who do not
+* In a module, so that administrators and users of Prescrypto who do not
   need or want an online import can avoid it being available to users.
 """,
     'depends': ['web', 'web_kanban'],

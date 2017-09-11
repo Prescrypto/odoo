@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * delivery
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:56+0000\n"
 "PO-Revision-Date: 2016-02-11 10:34+0000\n"
@@ -62,7 +62,7 @@ msgstr "판매"
 #, python-format
 msgid ""
 "<p class=\"oe_view_nocontent\">\n"
-"                    Buy Odoo Enterprise now to get more providers.\n"
+"                    Buy Prescrypto Enterprise now to get more providers.\n"
 "                </p>"
 msgstr ""
 

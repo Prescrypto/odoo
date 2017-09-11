@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Productivity',
     'version': '1.0',
     'category': 'Tools',
     'description': """
-This module allows users to create their own notes inside Odoo
+This module allows users to create their own notes inside Prescrypto
 =================================================================
 
 Use notes to write meeting minutes, organize ideas, organize personal todo

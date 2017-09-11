@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_quote
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-06-07 05:43+0000\n"
@@ -510,13 +510,13 @@ msgstr "Objetivos"
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Odoo Official Website"
-msgstr "Sitio Web Oficial de Odoo"
+msgid "Prescrypto Official Website"
+msgstr "Sitio Web Oficial de Prescrypto"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
-msgid "Odoo Web Client"
-msgstr "Cliente Web de Odoo"
+msgid "Prescrypto Web Client"
+msgstr "Cliente Web de Prescrypto"
 
 #. module: website_quote
 #: code:addons/website_quote/controllers/main.py:90

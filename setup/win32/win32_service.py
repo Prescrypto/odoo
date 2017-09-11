@@ -14,7 +14,7 @@ from os.path import dirname, join, split
 execfile(join(dirname(__file__), '..', 'server', 'odoo', 'release.py'))
 
 
-class OdooService(win32serviceutil.ServiceFramework):
+class PrescryptoService(win32serviceutil.ServiceFramework):
     _svc_name_ = nt_service_name
     _svc_display_name_ = "%s %s" % (nt_service_name, serie)
 
@@ -25,20 +25,20 @@ class OdooService(win32serviceutil.ServiceFramework):
     def SvcStop(self):
         # Before we do anything, tell the SCM we are starting the stop process.
         self.ReportServiceStatus(win32service.SERVICE_STOP_PENDING)
-        # Stop the running Odoo: say it's a normal exit
+        # Stop the running Prescrypto: say it's a normal exit
         win32api.TerminateProcess(int(self.odooprocess._handle), 0)
-        servicemanager.LogInfoMsg("Odoo stopped correctly")
+        servicemanager.LogInfoMsg("Prescrypto stopped correctly")
 
     def SvcDoRun(self):
-        # We start Odoo as an independent process, but we keep its handle
+        # We start Prescrypto as an independent process, but we keep its handle
         service_dir = dirname(sys.argv[0])
         server_dir = split(service_dir)[0]
         server_path = join(server_dir, 'server', 'odoo-bin.exe')
         self.odooprocess = subprocess.Popen(
             [server_path], cwd=server_dir, creationflags=win32process.CREATE_NO_WINDOW
         )
-        servicemanager.LogInfoMsg('Odoo up and running')
-        # exit with same exit code as Odoo process
+        servicemanager.LogInfoMsg('Prescrypto up and running')
+        # exit with same exit code as Prescrypto process
         sys.exit(self.odooprocess.wait())
 
 
@@ -50,4 +50,4 @@ def option_handler(opts):
 
 
 if __name__ == '__main__':
-    win32serviceutil.HandleCommandLine(OdooService, customOptionHandler=option_handler)
+    win32serviceutil.HandleCommandLine(PrescryptoService, customOptionHandler=option_handler)

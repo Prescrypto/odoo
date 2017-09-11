@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_event_track
 # 
@@ -14,7 +14,7 @@
 # Bonny Useful <bonny.useful@gmail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -107,10 +107,10 @@ msgstr ""
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track7
 msgid ""
-"A technical explanation of Odoo as a CMS and a eCommerce platform for "
+"A technical explanation of Prescrypto as a CMS and a eCommerce platform for "
 "version 8."
 msgstr ""
-"Penjelasan teknis dari Odoo sebagai CMS dan e-commerce platform untuk versi "
+"Penjelasan teknis dari Prescrypto sebagai CMS dan e-commerce platform untuk versi "
 "8."
 
 #. module: website_event_track
@@ -125,8 +125,8 @@ msgstr "Aktif"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track19
-msgid "Advanced lead management with Odoo: tips and tricks from the fields"
-msgstr "Memimpin manajemen dengan Odoo lanjutan: tips dan trik dari bidang"
+msgid "Advanced lead management with Prescrypto: tips and tricks from the fields"
+msgstr "Memimpin manajemen dengan Prescrypto lanjutan: tips dan trik dari bidang"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track13
@@ -242,16 +242,16 @@ msgstr "Peta jalan rinci akuntansi modul baru dan perbaikan untuk versi 8."
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track8
 msgid ""
-"Discover Odoo CRM: How to optimize your sales, from leads to sales orders."
+"Discover Prescrypto CRM: How to optimize your sales, from leads to sales orders."
 msgstr ""
-"Temukan Odoo CRM: Cara mengoptimalkan penjualan Anda, dari mengarah order "
+"Temukan Prescrypto CRM: Cara mengoptimalkan penjualan Anda, dari mengarah order "
 "penjualan."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track11
-msgid "Discover Odoo Point-of-Sale: Your shop ready to use in 30 minutes."
+msgid "Discover Prescrypto Point-of-Sale: Your shop ready to use in 30 minutes."
 msgstr ""
-"Temukan Odoo Point-of-Sale: Toko Anda siap untuk digunakan dalam 30 menit."
+"Temukan Prescrypto Point-of-Sale: Toko Anda siap untuk digunakan dalam 30 menit."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_display_name
@@ -375,10 +375,10 @@ msgstr "Tertinggi"
 #: model:event.track,name:website_event_track.event_track18
 msgid ""
 "How to build your marketing strategy for the purpose of generating leads "
-"with Odoo."
+"with Prescrypto."
 msgstr ""
 "Bagaimana membangun strategi pemasaran Anda untuk menghasilkan memimpin "
-"dengan Odoo."
+"dengan Prescrypto."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track1
@@ -387,8 +387,8 @@ msgstr "Bagaimana mengembangkan situs module."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track4
-msgid "How to develop automated tests in the Odoo web client."
-msgstr "Bagaimana mengembangkan otomatis tes Odoo web klien."
+msgid "How to develop automated tests in the Prescrypto web client."
+msgstr "Bagaimana mengembangkan otomatis tes Prescrypto web klien."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track3
@@ -397,18 +397,18 @@ msgstr ""
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track2
-msgid "How to integrate hardware materials with the Odoo point of sale."
+msgid "How to integrate hardware materials with the Prescrypto point of sale."
 msgstr ""
-"Bagaimana untuk mengintegrasikan perangkat keras bahan dengan Odoo titik "
+"Bagaimana untuk mengintegrasikan perangkat keras bahan dengan Prescrypto titik "
 "penjualan."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track9
 msgid ""
-"How to use Odoo for your HR process: recruitment, leaves management, "
+"How to use Prescrypto for your HR process: recruitment, leaves management, "
 "appraisals, expenses, etc."
 msgstr ""
-"Bagaimana menggunakan Odoo untuk proses HR Anda: perekrutan, daun manajemen,"
+"Bagaimana menggunakan Prescrypto untuk proses HR Anda: perekrutan, daun manajemen,"
 " penilaian, biaya, dll."
 
 #. module: website_event_track
@@ -432,8 +432,8 @@ msgstr "Pengantar"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track23
-msgid "Key Success factors selling Odoo."
-msgstr "Faktor-faktor kunci sukses menjual Odoo."
+msgid "Key Success factors selling Prescrypto."
+msgstr "Faktor-faktor kunci sukses menjual Prescrypto."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor___last_update
@@ -489,8 +489,8 @@ msgstr "Mengelola Anda KPI (direkomendasikan kepada mitra openERP)."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track12
-msgid "Manage your events with Odoo, the new training modules."
-msgstr "Mengelola acara Anda dengan Odoo, modul pelatihan yang baru."
+msgid "Manage your events with Prescrypto, the new training modules."
+msgstr "Mengelola acara Anda dengan Prescrypto, modul pelatihan yang baru."
 
 #. module: website_event_track
 #: selection:event.track,priority:0
@@ -558,23 +558,23 @@ msgstr "Trek tidak ditemukan!"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track15
-msgid "Odoo Mobile for Notes, Meetings and Messages."
-msgstr "Odoo Mobile untuk catatan, pertemuan dan pesan."
+msgid "Prescrypto Mobile for Notes, Meetings and Messages."
+msgstr "Prescrypto Mobile untuk catatan, pertemuan dan pesan."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track28
-msgid "Odoo Status & Strategy 2014"
-msgstr "Odoo Status & strategi 2014"
+msgid "Prescrypto Status & Strategy 2014"
+msgstr "Prescrypto Status & strategi 2014"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track16
-msgid "Odoo as your Enterprise Social Network."
-msgstr "Odoo sebagai jaringan sosial perusahaan Anda."
+msgid "Prescrypto as your Enterprise Social Network."
+msgstr "Prescrypto sebagai jaringan sosial perusahaan Anda."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track27
-msgid "Odoo in 2014"
-msgstr "Odoo pada tahun 2014"
+msgid "Prescrypto in 2014"
+msgstr "Prescrypto pada tahun 2014"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_sponsor
@@ -649,8 +649,8 @@ msgstr "Meningkatkan qualitive wawasan dengan app survei"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track21
-msgid "Recruiting high skilled talents with Odoo HR apps"
-msgstr "Merekrut bakat terampil yang tinggi dengan aplikasi Odoo HR"
+msgid "Recruiting high skilled talents with Prescrypto HR apps"
+msgstr "Merekrut bakat terampil yang tinggi dengan aplikasi Prescrypto HR"
 
 #. module: website_event_track
 #: selection:event.track,state:0
@@ -800,8 +800,8 @@ msgstr "Terima kasih atas usulan Anda."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track17
-msgid "The Art of Making an Odoo Demo."
-msgstr "Seni membuat Demo Odoo."
+msgid "The Art of Making an Prescrypto Demo."
+msgstr "Seni membuat Demo Prescrypto."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track29
@@ -811,10 +811,10 @@ msgstr "Strategi pemasaran baru."
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track5
 msgid ""
-"The new way to promote your modules in the Apps platform and Odoo website."
+"The new way to promote your modules in the Apps platform and Prescrypto website."
 msgstr ""
 "Cara baru untuk mempromosikan Anda modul dalam platform aplikasi dan situs "
-"web Odoo."
+"web Prescrypto."
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_track_proposal

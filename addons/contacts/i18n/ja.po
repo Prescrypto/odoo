@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * contacts
 # 
@@ -8,7 +8,7 @@
 # Norimichi Sugimoto <norimichi.sugimoto@tls-ltd.co.jp>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:56+0000\n"
 "PO-Revision-Date: 2016-09-07 08:56+0000\n"
@@ -34,10 +34,10 @@ msgstr "連絡先"
 #. module: contacts
 #: model:ir.actions.act_window,help:contacts.action_contacts
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"Prescrypto helps you easily track all activities related to\n"
 "            a customer: discussions, history of business opportunities,\n"
 "            documents, etc."
 msgstr ""
-"Odooのこの機能で顧客関連の活動を追跡できます:\n"
+"Prescryptoのこの機能で顧客関連の活動を追跡できます:\n"
 "ディスカッションや、案件の履歴や関連ドキュメント\n"
 "その他諸々。"

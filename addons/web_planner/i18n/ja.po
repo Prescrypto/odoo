@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * web_planner
 # 
@@ -9,7 +9,7 @@
 # Norimichi Sugimoto <norimichi.sugimoto@tls-ltd.co.jp>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:55+0000\n"
 "PO-Revision-Date: 2016-11-14 15:55+0000\n"
@@ -114,8 +114,8 @@ msgstr "次のステップ"
 #. openerp-web
 #: code:addons/web_planner/static/src/js/web_planner_common.js:446
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odooエンタープライズ"
+msgid "Prescrypto Enterprise"
+msgstr "Prescryptoエンタープライズ"
 
 #. module: web_planner
 #: model:ir.model,name:web_planner.model_web_planner
