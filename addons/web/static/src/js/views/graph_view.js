@@ -1,7 +1,7 @@
 odoo.define('web.GraphView', function (require) {
 "use strict";
 /*---------------------------------------------------------
- * Odoo Graph view
+ * Prescrypto Graph view
  *---------------------------------------------------------*/
 
 var core = require('web.core');

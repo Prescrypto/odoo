@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import babel.dates
 
@@ -442,7 +442,7 @@ class TestResource(TestResourceCommon):
         resources = self.env.ref('resource.resource_analyst') + self.env.ref('resource.resource_designer') + self.env.ref('resource.resource_developer')
         resources.write({'calendar_id': self.ref('resource.timesheet_group1'), 'resource_type': 'user'})
 
-        # I had Project of Odoo Integration of 50 Hours with three human resource assigned on it. I have started project from this week start.
+        # I had Project of Prescrypto Integration of 50 Hours with three human resource assigned on it. I have started project from this week start.
         # I check per day work hour availability of the Resource based on Working Calendar Assigned to each resource, for first day of the week.
         now = datetime.now()
         dt = now - timedelta(days=now.weekday())

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from odoo import api, fields, models
 from odoo.tools.safe_eval import safe_eval
@@ -59,7 +59,7 @@ class Team(models.Model):
     as a member of one of the sales team.
 </p>"""
             if user_team_id:
-                action['help'] += "<p>As you don't belong to any sales team, Odoo opens the first one by default.</p>"
+                action['help'] += "<p>As you don't belong to any sales team, Prescrypto opens the first one by default.</p>"
 
         action_context = safe_eval(action['context'], {'uid': self.env.uid})
         if user_team_id:

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import babel.messages.pofile
 import base64
@@ -56,7 +56,7 @@ BUNDLE_MAXAGE = 60 * 60 * 24 * 7
 DBNAME_PATTERN = '^[a-zA-Z0-9][a-zA-Z0-9_.-]+$'
 
 #----------------------------------------------------------
-# Odoo Web helpers
+# Prescrypto Web helpers
 #----------------------------------------------------------
 
 db_list = http.db_list
@@ -73,7 +73,7 @@ def serialize_exception(f):
             se = _serialize_exception(e)
             error = {
                 'code': 200,
-                'message': "Odoo Server Error",
+                'message': "Prescrypto Server Error",
                 'data': se
             }
             return werkzeug.exceptions.InternalServerError(json.dumps(error))
@@ -343,7 +343,7 @@ def generate_views(action):
     action['views'] = [(view_id, view_modes[0])]
 
 def fix_view_modes(action):
-    """ For historical reasons, Odoo has weird dealings in relation to
+    """ For historical reasons, Prescrypto has weird dealings in relation to
     view_mode and the view_type attribute (on window actions):
 
     * one of the view modes is ``tree``, which stands for both list views
@@ -421,7 +421,7 @@ def binary_content(xmlid=None, model='ir.attachment', id=None, field='datas', un
         download=download, mimetype=mimetype, default_mimetype=default_mimetype, env=env)
 
 #----------------------------------------------------------
-# Odoo Web web Controllers
+# Prescrypto Web web Controllers
 #----------------------------------------------------------
 class Home(http.Controller):
 
@@ -1315,7 +1315,7 @@ class ExportFormat(object):
         raise NotImplementedError()
 
     def from_data(self, fields, rows):
-        """ Conversion method from Odoo's export data to whatever the
+        """ Conversion method from Prescrypto's export data to whatever the
         current export class outputs
 
         :params list fields: a list of fields to export

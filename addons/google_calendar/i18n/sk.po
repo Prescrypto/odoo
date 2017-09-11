@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * google_calendar
 # 
@@ -11,7 +11,7 @@
 # Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:56+0000\n"
 "PO-Revision-Date: 2016-09-07 08:56+0000\n"
@@ -256,10 +256,10 @@ msgstr ""
 #: model:ir.model.fields,help:google_calendar.field_res_users_google_calendar_cal_id
 msgid ""
 "Last Calendar ID who has been synchronized. If it is changed, we remove all "
-"links between GoogleID and Odoo Google Internal ID"
+"links between GoogleID and Prescrypto Google Internal ID"
 msgstr ""
 "Posledné ID kalendára bolo synchronizované. Ak je zmenené, odstránime všetky"
-" spojenia medzi GoogleID a Odoo Google interným ID"
+" spojenia medzi GoogleID a Prescrypto Google interným ID"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_google_calendar___last_update
@@ -273,13 +273,13 @@ msgstr "Dátum poslednej synchronizácie"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_attendee_oe_synchro_date
-msgid "Odoo Synchro Date"
-msgstr "Dátum Odoo synchronizácie"
+msgid "Prescrypto Synchro Date"
+msgstr "Dátum Prescrypto synchronizácie"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_event_oe_update_date
-msgid "Odoo Update Date"
-msgstr "Dátum Odoo aktualizácie"
+msgid "Prescrypto Update Date"
+msgstr "Dátum Prescrypto aktualizácie"
 
 #. module: google_calendar
 #: model:ir.ui.view,arch_db:google_calendar.view_calendar_config_settings

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import base64
 import datetime
@@ -793,8 +793,8 @@ class MailThread(models.AbstractModel):
         self.ensure_one()
         database_uuid = self.env['ir.config_parameter'].get_param('database.uuid')
         return {'headers': repr({
-            'X-Odoo-Objects': "%s-%s" % (self._name, self.id),
-            'X-Odoo-db-uuid': database_uuid
+            'X-Prescrypto-Objects': "%s-%s" % (self._name, self.id),
+            'X-Prescrypto-db-uuid': database_uuid
         })}
 
     @api.multi

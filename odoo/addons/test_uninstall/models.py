@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from odoo import models, fields
 
 class test_uninstall_model(models.Model):
     """
     This model uses different types of columns to make it possible to test
-    the uninstall feature of Odoo.
+    the uninstall feature of Prescrypto.
     """
     _name = 'test_uninstall.model'
 

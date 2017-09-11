@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -7,7 +7,7 @@
 # 老窦 北京 <2662059195@qq.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-10-10 08:43+0000\n"
@@ -326,8 +326,8 @@ msgstr "定义资源调度"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "提供通用的Odoo功能培训会议"
+msgid "Deliver generic Prescrypto functional training sessions"
+msgstr "提供通用的Prescrypto功能培训会议"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -895,10 +895,10 @@ msgstr "你计划招聘的新员工数。"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Prescrypto's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
-msgstr "Odoo的部门结构用来管理所有不同部门员工的文档：费用，工时表，休假和假期，招聘等等"
+msgstr "Prescrypto的部门结构用来管理所有不同部门员工的文档：费用，工时表，休假和假期，招聘等等"
 
 #. module: hr
 #: model:res.groups,name:hr.group_hr_user
@@ -1306,10 +1306,10 @@ msgstr "汇报给服务部主管"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Prescrypto employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "随着Odoo员工的屏幕上只是一个快速浏览，你可以很容易地找到你所需要的每个人的信息;联系人数据，工作岗位，可用性等。"
+msgstr "随着Prescrypto员工的屏幕上只是一个快速浏览，你可以很容易地找到你所需要的每个人的信息;联系人数据，工作岗位，可用性等。"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_ceo

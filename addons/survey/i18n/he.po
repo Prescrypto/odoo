@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -11,7 +11,7 @@
 # Moshe Flam <pashute@gmail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-10-10 08:44+0000\n"
@@ -220,7 +220,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
+msgid "About your Prescrypto usage"
 msgstr ""
 
 #. module: survey
@@ -296,7 +296,7 @@ msgstr "התווסף לארכיון"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
+msgid "Are you using Prescrypto on a daily basis?"
 msgstr ""
 
 #. module: survey
@@ -663,7 +663,7 @@ msgstr "קבץ לפי"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
+msgid "How do you contribute or plan to contribute to Prescrypto?"
 msgstr ""
 
 #. module: survey
@@ -698,7 +698,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
+msgid "I use Github, like all official Prescrypto projects"
 msgstr ""
 
 #. module: survey
@@ -708,7 +708,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
+msgid "I use the contextual help in Prescrypto"
 msgstr ""
 
 #. module: survey
@@ -770,7 +770,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
+msgid "If you do not contribute or develop in Prescrypto, skip this page."
 msgstr ""
 
 #. module: survey
@@ -1703,7 +1703,7 @@ msgstr ""
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of Prescrypto. Try to remind your firsts days on Prescrypto and\n"
 "what have been your difficulties."
 msgstr ""
 
@@ -1719,7 +1719,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
+msgid "They help new users to understand Prescrypto"
 msgstr ""
 
 #. module: survey
@@ -1952,7 +1952,7 @@ msgstr ""
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of Prescrypto, available in the web "
 "client ?"
 msgstr ""
 
@@ -1996,7 +1996,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
+msgid "Yes, I use the online version of Prescrypto"
 msgstr ""
 
 #. module: survey

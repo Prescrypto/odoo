@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * base_setup
 #
@@ -6,7 +6,7 @@
 # Aleksandar Vangelovski <aleksandarv@hbee.eu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-19 12:35+0000\n"
 "PO-Revision-Date: 2016-03-22 12:08+0000\n"
@@ -296,7 +296,7 @@ msgstr ""
 
 #. module: base_setup
 #: model:ir.model.fields,help:base_setup.field_base_config_settings_module_share
-msgid "Share or embed any screen of Odoo."
+msgid "Share or embed any screen of Prescrypto."
 msgstr ""
 
 #. module: base_setup

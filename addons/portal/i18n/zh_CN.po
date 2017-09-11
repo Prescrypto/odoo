@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * portal
 # 
@@ -6,7 +6,7 @@
 # Jeffery CHEN <jeffery9@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -247,5 +247,5 @@ msgstr "你的个人设置里必须要输入电子邮件地址才能发送邮件
 
 #. module: portal
 #: model:mail.template,subject:portal.mail_template_data_portal_welcome
-msgid "Your Odoo account at ${user.company_id.name}"
-msgstr "你在 ${user.company_id.name} 的Odoo账号"
+msgid "Your Prescrypto account at ${user.company_id.name}"
+msgstr "你在 ${user.company_id.name} 的Prescrypto账号"

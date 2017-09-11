@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -7,7 +7,7 @@
 # Yuan Xulei <hi@yxl.name>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-22 14:03+0000\n"
 "PO-Revision-Date: 2016-11-22 14:03+0000\n"
@@ -99,8 +99,8 @@ msgstr ", 假如会计或采购模块已安装"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo团队"
+msgid "- The Prescrypto Team"
+msgstr "- Prescrypto团队"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -410,8 +410,8 @@ msgstr "<strong>目的地</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
-msgstr "<strong>Odoo更好的帮你管理库存!</strong>"
+msgid "<strong>Enjoy your Inventory management with Prescrypto!</strong>"
+msgstr "<strong>Prescrypto更好的帮你管理库存!</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -1008,13 +1008,13 @@ msgstr "按唯一序列号"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
-msgstr "通过改变这里的数量，你确认新的完成数量: Odoo不会自动生成欠单。"
+"Prescrypto will not automatically generate a back order."
+msgstr "通过改变这里的数量，你确认新的完成数量: Prescrypto不会自动生成欠单。"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, Prescrypto measures products by 'units', which are generic and "
 "represent just about anything"
 msgstr "默认情况下，产品的通用单位是‘件’，所有的产品都可以用它来表示"
 
@@ -1811,7 +1811,7 @@ msgstr "在你的仓库根据业务需求定义路线，例如质量控制，售
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"            organization. Odoo is able to manage physical locations\n"
+"            organization. Prescrypto is able to manage physical locations\n"
 "            (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "            vendors) and virtual locations which are the counterpart of\n"
 "            the stock operations like the manufacturing orders\n"
@@ -2124,9 +2124,9 @@ msgstr "欧洲客户"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in Prescrypto moves the products from one\n"
 "            location to another one.  For instance, if you receive products\n"
-"            from a vendor, Odoo will move products from the Vendor\n"
+"            from a vendor, Prescrypto will move products from the Vendor\n"
 "            location to the Stock location. Each report can be performed on\n"
 "            physical, partner or virtual locations."
 msgstr ""
@@ -2218,7 +2218,7 @@ msgstr "每个产品类别固定位置"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
 
@@ -2633,12 +2633,12 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, Prescrypto automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
 msgstr ""
-"如果你配置了自动补货，Odoo可以自动产生补货单，通常你不需要担心，\n"
+"如果你配置了自动补货，Prescrypto可以自动产生补货单，通常你不需要担心，\n"
 "但是有时候会有异常出现，基本上是因为配置出现了问题"
 
 #. module: stock
@@ -2690,10 +2690,10 @@ msgstr "使用顶部的左键导入"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In Prescrypto, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        Prescrypto will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
-msgstr "在Odoo中，<strong>订货规则</strong>被用来补货，Odoo自动的创建补货单"
+msgstr "在Prescrypto中，<strong>订货规则</strong>被用来补货，Prescrypto自动的创建补货单"
 
 #. module: stock
 #: selection:stock.inventory,state:0
@@ -3052,7 +3052,7 @@ msgstr "是一个报废位置？"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
+"                        If you want to do that, contact your Prescrypto project manager."
 msgstr "你可以用excel或者CSV文件导入你的期初库存，如果想那么做的话，可以联系你的项目经理"
 
 #. module: stock
@@ -3068,7 +3068,7 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid "It is time to make your initial Inventory. In order to do so:"
-msgstr "是时候创建期初库存了,在Odoo中可以这样做："
+msgstr "是时候创建期初库存了,在Prescrypto中可以这样做："
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_move_product_packaging
@@ -3250,9 +3250,9 @@ msgstr "如果这个位置是公司间共享的，则此字段留空"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, Prescrypto inventory management is\n"
 "                        fully integrated with the purchase app."
-msgstr "就像和销售模块集成一样，Odoo的仓库也和采购模块集成"
+msgstr "就像和销售模块集成一样，Prescrypto的仓库也和采购模块集成"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_pack_operation_linked_move_operation_ids
@@ -3666,10 +3666,10 @@ msgstr "更多信息"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by Prescrypto according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
-msgstr "大部分作业被Odoo根据你的预先配置的物流规则自动准备，但是你也可以人工记录库存运动。"
+msgstr "大部分作业被Prescrypto根据你的预先配置的物流规则自动准备，但是你也可以人工记录库存运动。"
 
 #. module: stock
 #: model:stock.inventory.line,product_name:stock.stock_inventory_line_5
@@ -3934,29 +3934,29 @@ msgstr "Ok"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"Prescrypto handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
-msgstr "Odoo处理<strong>高级推/拉式路线配置</strong>，例如："
+msgstr "Prescrypto处理<strong>高级推/拉式路线配置</strong>，例如："
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
-msgstr " Odoo已经为你预先配置好<strong>一个仓库</strong>"
+msgid "Prescrypto has preconfigured <strong>one Warehouse</strong> for you."
+msgstr " Prescrypto已经为你预先配置好<strong>一个仓库</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"Prescrypto inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
 msgstr ""
-"Odoo的库存管理完全的和销售和开票流程集成\n"
+"Prescrypto的库存管理完全的和销售和开票流程集成\n"
 "从原始的报价单到发货再到最后的开票所有的一切都被集成"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"Prescrypto is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
 msgstr ""
 "用产品批次和序列号可以运行高级追踪\n"
@@ -3965,10 +3965,10 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that Prescrypto is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
-msgstr "当然，可以任意的添加。请注意Odoo可以在在同一种类之间的计量单位中间转换例如体积中的升和加仑"
+msgstr "当然，可以任意的添加。请注意Prescrypto可以在在同一种类之间的计量单位中间转换例如体积中的升和加仑"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.product_form_view_procurement_button
@@ -6235,7 +6235,7 @@ msgstr "只有里面的所有包共享同一个产品时，这个区域才会完
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with Prescrypto Inventory.\n"
 "                        Once you are done, you will benefit from:"
 msgstr ""
 "向导帮助你开始Ｏdoo的盘点\n"
@@ -6907,7 +6907,7 @@ msgstr "警告!"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr ""
@@ -6918,7 +6918,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr ""
@@ -6927,8 +6927,8 @@ msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
-msgstr "希望这个向导能够帮你完成Odoo的盘点"
+msgid "We hope this guide helped you implement Prescrypto Inventory."
+msgstr "希望这个向导能够帮你完成Prescrypto的盘点"
 
 #. module: stock
 #: code:addons/stock/models/barcode.py:11
@@ -6980,17 +6980,17 @@ msgstr "当方法被确定后，这个位置将被用于存储产品"
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" Prescrypto generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
-msgstr "当虚拟库存小于指定的最小数量，Odoo生成补货将预测数量带到最大数量。"
+msgstr "当虚拟库存小于指定的最小数量，Prescrypto生成补货将预测数量带到最大数量。"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Prescrypto generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
-msgstr "当虚拟库存低于最小数量， Odoo生成补货将预测数量带到最大数量。"
+msgstr "当虚拟库存低于最小数量， Prescrypto生成补货将预测数量带到最大数量。"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_change_product_quantity
@@ -7034,15 +7034,15 @@ msgstr ""
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that Prescrypto will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, Prescrypto will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
 msgstr ""
-"你可以定义最小库存规则，这样Odoo将会根据库存水平创建草稿生产订单，或者询价单。一旦产品的虚拟库存少于最小数量(= "
-"在手库存减去所有的确认的订单数量和预留数量)， Odoo 将会产生一个补货请求，以便增加库存到最大数量。"
+"你可以定义最小库存规则，这样Prescrypto将会根据库存水平创建草稿生产订单，或者询价单。一旦产品的虚拟库存少于最小数量(= "
+"在手库存减去所有的确认的订单数量和预留数量)， Prescrypto 将会产生一个补货请求，以便增加库存到最大数量。"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_inventory_form
@@ -7219,7 +7219,7 @@ msgstr "你必须选择产品默认计量单位的类型一样的计量单位。
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed (<i>done</i>) quantities. Click <i>apply</i> and\n"
-"                        Odoo will process all quantities to do."
+"                        Prescrypto will process all quantities to do."
 msgstr ""
 
 #. module: stock
@@ -7339,16 +7339,16 @@ msgstr "例如：PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
-msgstr "在产品行上手动更新完成数量，或当验证后让Odoo自动更新"
+"Prescrypto do it automatically while validating"
+msgstr "在产品行上手动更新完成数量，或当验证后让Prescrypto自动更新"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the Prescrypto Barcode app, or let Prescrypto do it automatically while "
 "validating"
-msgstr "或者手动在产品行更新完成数量，或者通过扫描枪扫描或者Odoo在确认的时候自动做掉"
+msgstr "或者手动在产品行更新完成数量，或者通过扫描枪扫描或者Prescrypto在确认的时候自动做掉"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner

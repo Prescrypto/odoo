@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * sales_team
 # 
@@ -14,7 +14,7 @@
 # SHIMIZU Taku <shimizu.taku@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -480,9 +480,9 @@ msgstr "チームの色"
 #. module: sales_team
 #: model:ir.model.fields,help:sales_team.field_crm_team_reply_to
 msgid ""
-"The email address put in the 'Reply-To' of all emails sent by Odoo about "
+"The email address put in the 'Reply-To' of all emails sent by Prescrypto about "
 "cases in this sales team"
-msgstr "この販売チームの事案について、Odooが送信したすべてのメールの「返信先」に記載されたメールアドレス"
+msgstr "この販売チームの事案について、Prescryptoが送信したすべてのメールの「返信先」に記載されたメールアドレス"
 
 #. module: sales_team
 #. openerp-web

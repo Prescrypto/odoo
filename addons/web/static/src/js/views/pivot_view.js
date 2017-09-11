@@ -1,7 +1,7 @@
 odoo.define('web.PivotView', function (require) {
 "use strict";
 /*---------------------------------------------------------
- * Odoo Pivot Table view
+ * Prescrypto Pivot Table view
  *---------------------------------------------------------*/
 
 var core = require('web.core');

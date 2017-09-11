@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * purchase
 # 
@@ -12,7 +12,7 @@
 # Khishigbat Ganbold <khishigbat@asterisk-tech.mn>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:27+0000\n"
 "PO-Revision-Date: 2017-06-23 13:27+0000\n"
@@ -932,10 +932,10 @@ msgstr "Сар тутамын худалдан авалтууд"
 #: model:ir.actions.act_window,help:purchase.purchase_rfq
 msgid ""
 "Most propositions of purchase orders are created automatically\n"
-"                by Odoo based on inventory needs."
+"                by Prescrypto based on inventory needs."
 msgstr ""
 "Агуулахын шаардлагууд дээр үндэслээд худалдан авалтын захиалгуудын ихэнхи "
-"татан авалтыг Odoo автоматаар үүсгэдэг."
+"татан авалтыг Prescrypto автоматаар үүсгэдэг."
 
 #. module: purchase
 #: selection:product.template,purchase_line_warn:0
@@ -1864,12 +1864,12 @@ msgstr ""
 msgid ""
 "Use this menu to control the invoices to be received from your\n"
 "            vendors. When registering a new bill, set the purchase order\n"
-"            and Odoo will fill the bill automatically according to ordered\n"
+"            and Prescrypto will fill the bill automatically according to ordered\n"
 "            or received quantities."
 msgstr ""
 "Нийлүүлэгчдээсээ хүлээж авах нэхэмжлэлүүдийг удирдахын тулд энэ цэсийг "
 "ашиглана уу. Шинэ баримт бүртгэж байхдаа худалдан авалтын захиалгыг "
-"тохируулж өгсөнөөр Odoo захиалсан эсвэл хүлээж авсан дүнгээр баримтуудыг "
+"тохируулж өгсөнөөр Prescrypto захиалсан эсвэл хүлээж авсан дүнгээр баримтуудыг "
 "автоматаар бөглөх болно."
 
 #. module: purchase
@@ -1953,7 +1953,7 @@ msgid ""
 "Vendors bills can be pre-generated based on purchase\n"
 "                    orders or receipts. This allows you to control bills\n"
 "                    you receive from your vendor according to the draft\n"
-"                    document in Odoo."
+"                    document in Prescrypto."
 msgstr ""
 "Нийлүүлэгчийн тооцоо нь худалдан авалтын захиалга\n"
 "                    эсвэл хүлээн авалт дээр суурилан урьдчилан үүсгэгдэж болно. \n"

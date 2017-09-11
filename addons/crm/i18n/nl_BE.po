@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * crm
 #
@@ -6,7 +6,7 @@
 # Eric Geens <ericgeens@yahoo.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-14 13:41+0000\n"
 "PO-Revision-Date: 2016-02-20 10:37+0000\n"
@@ -1401,14 +1401,14 @@ msgstr "Zeer hoog"
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"
 "                                        data."
 msgstr ""
 "Wij kunnen het hele importproces voor u \n"
-"afhandelen: stuur uw Odoo projectbeheerder\n"
+"afhandelen: stuur uw Prescrypto projectbeheerder\n"
 "eenvoudigweg een CSV-bestand met al uw\n"
 "datagegevens."
 

@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_quote
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-04-19 09:47+0000\n"
@@ -195,24 +195,24 @@ msgstr "Última actualización el"
 #: model:product.template,description_sale:website_quote.product_template_quote_1
 #: model:product.template,description_sale:website_quote.product_template_quote_3
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better functional understanding of Odoo"
+"Learn directly from our team and network of Prescrypto experts. Choose from the "
+"available training sessions for a better functional understanding of Prescrypto"
 msgstr ""
-"Aprenda directamente de nuestro equipo y red de expertos de Odoo. Escoja "
+"Aprenda directamente de nuestro equipo y red de expertos de Prescrypto. Escoja "
 "entre las sesiones de formación disponible para una mejor comprensión "
-"funcional de Odoo"
+"funcional de Prescrypto"
 
 #. module: website_quote
 #: model:product.product,description_sale:website_quote.product_product_quote_2
 #: model:product.template,description_sale:website_quote.product_product_quote_2_product_template
 #: model:product.template,description_sale:website_quote.product_template_quote_2
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better technical understanding of Odoo"
+"Learn directly from our team and network of Prescrypto experts. Choose from the "
+"available training sessions for a better technical understanding of Prescrypto"
 msgstr ""
-"Aprenda directamente de nuestro equipo y red de expertos de Odoo. Escoja "
+"Aprenda directamente de nuestro equipo y red de expertos de Prescrypto. Escoja "
 "entre las sesiones de formación disponible para una mejor comprensión "
-"técnica de Odoo"
+"técnica de Prescrypto"
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_line_website_description

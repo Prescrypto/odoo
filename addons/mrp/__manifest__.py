@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -11,7 +11,7 @@
     'summary': 'Manufacturing Orders, Bill of Materials, Routings',
     'depends': ['product', 'stock', 'resource'],
     'description': """
-Manage the Manufacturing process in Odoo
+Manage the Manufacturing process in Prescrypto
 ===========================================
 
 The manufacturing module allows you to cover planning, ordering, stocks and the manufacturing or assembly of products from raw materials and components. It handles the consumption and production of products according to a bill of materials and the necessary operations on machinery, tools or human resources according to routings.

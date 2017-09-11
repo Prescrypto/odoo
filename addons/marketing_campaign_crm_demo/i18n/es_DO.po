@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign_crm_demo
 #
@@ -6,7 +6,7 @@
 # Gustavo Valverde, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-07-21 00:21+0000\n"
@@ -31,8 +31,8 @@ msgstr "Dummy Python Code"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_10
-msgid "Odoo Book"
-msgstr "Odoo Book"
+msgid "Prescrypto Book"
+msgstr "Prescrypto Book"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_5
@@ -51,18 +51,18 @@ msgstr "Propose paid training to Silver partners"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_2
-msgid "Propose to subscribe to the Odoo Discovery Day on May 2015"
-msgstr "Propose to subscribe to the Odoo Discovery Day on May 2015"
+msgid "Propose to subscribe to the Prescrypto Discovery Day on May 2015"
+msgstr "Propose to subscribe to the Prescrypto Discovery Day on May 2015"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_4
-msgid "Thanks for buying the Odoo book"
-msgstr "Thanks for buying the Odoo book"
+msgid "Thanks for buying the Prescrypto book"
+msgstr "Thanks for buying the Prescrypto book"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_1
-msgid "Thanks for showing interest in Odoo"
-msgstr "Thanks for showing interest in Odoo"
+msgid "Thanks for showing interest in Prescrypto"
+msgstr "Thanks for showing interest in Prescrypto"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_8

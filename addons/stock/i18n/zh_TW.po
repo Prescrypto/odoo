@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * stock
 #
@@ -6,7 +6,7 @@
 # YenFu Chang <s9011025@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-22 14:03+0000\n"
 "PO-Revision-Date: 2016-06-13 10:08+0000\n"
@@ -55,8 +55,8 @@ msgstr "，如果會計或採購模組已安裝"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo 團隊"
+msgid "- The Prescrypto Team"
+msgstr "- Prescrypto 團隊"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.product_form_view_procurement_button
@@ -367,8 +367,8 @@ msgstr "包含內容"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
-msgstr "通過改變這裡的數量，您確認新的完成數量: Odoo不會自動生成欠單。"
+"Prescrypto will not automatically generate a back order."
+msgstr "通過改變這裡的數量，您確認新的完成數量: Prescrypto不會自動生成欠單。"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_location_active
@@ -4269,19 +4269,19 @@ msgstr "當方法被確定後，這個位置將被用於儲存產品"
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field, "
-"Odoo generates a procurement to bring the forecasted quantity to the Max "
+"Prescrypto generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
-"當虛擬庫存小於指定的最小數量，Odoo生成補貨單來預測達到最大數量前的數量。"
+"當虛擬庫存小於指定的最小數量，Prescrypto生成補貨單來預測達到最大數量前的數量。"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Prescrypto generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
-"當虛擬庫存低於最小數量， Odoo生成一個採購訂單提供的數量達到規定最大庫存的數"
+"當虛擬庫存低於最小數量， Prescrypto生成一個採購訂單提供的數量達到規定最大庫存的數"
 "量。"
 
 #. module: stock

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
@@ -18,7 +18,7 @@
 # shaeon <cjpalmero@hotmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -181,13 +181,13 @@ msgstr "¡Error! No puede crear categorías recursivas"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure Odoo"
-msgstr "Explica cómo configurar Odoo"
+msgid "Explain how to configure Prescrypto"
+msgstr "Explica cómo configurar Prescrypto"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
-msgstr "Explique cómo implementarlo en Odoo"
+msgid "Explain how to implement it in Prescrypto"
+msgstr "Explique cómo implementarlo en Prescrypto"
 
 #. module: website_forum_doc
 #: model:ir.model.fields,field_description:website_forum_doc.field_forum_documentation_toc_forum_id
@@ -398,8 +398,8 @@ msgstr "Nombre de la etapa"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
-msgstr "La respuesta debe ser comprensible para alguien que no conoce Odoo"
+msgid "The answer is understandable for someone who does not know Prescrypto"
+msgstr "La respuesta debe ser comprensible para alguien que no conoce Prescrypto"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question

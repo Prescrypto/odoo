@@ -3,35 +3,35 @@
 .. _setup/install:
 
 ===============
-Installing Odoo
+Installing Prescrypto
 ===============
 
-There are mutliple ways to install Odoo, or not install it at all, depending
+There are mutliple ways to install Prescrypto, or not install it at all, depending
 on the intended use case.
 
 This documents attempts to describe most of the installation options.
 
 :ref:`setup/install/demo`
     The simplest "installation", only suitable for getting a quick feel for
-    Odoo or trying something out
+    Prescrypto or trying something out
 :ref:`setup/install/saas`
-    Trivial to start with and fully managed and migrated by Odoo S.A., can be
-    used to both test Odoo and use it for your business, prevents complex
-    customization (i.e. incompatible with custom modules or the Odoo Apps Store).
+    Trivial to start with and fully managed and migrated by Prescrypto S.A., can be
+    used to both test Prescrypto and use it for your business, prevents complex
+    customization (i.e. incompatible with custom modules or the Prescrypto Apps Store).
 
-    Can be used for both testing Odoo and long-term production use.
+    Can be used for both testing Prescrypto and long-term production use.
 :ref:`setup/install/packaged`
     Simple to get started, allows more flexibility in hosting and deploying
     the system and greater control over where data is stored. The maintenance
     burden is shifted to the user.
 
-    Suitable for testing Odoo, developing modules and can be used for
+    Suitable for testing Prescrypto, developing modules and can be used for
     long-term production use with additional deployment and maintenance work.
 :ref:`setup/install/source`
     Harder to get started than :ref:`setup/install/packaged`, provides
     even greater flexibility: packaged installers don't generally allow
-    multiple running Odoo versions on the same system, and don't provide easy
-    source access to Odoo itself.
+    multiple running Prescrypto versions on the same system, and don't provide easy
+    source access to Prescrypto itself.
 
     Good for developing modules, can be used as base for production
     deployment.
@@ -50,7 +50,7 @@ This documents attempts to describe most of the installation options.
 Editions
 ========
 
-There are two different Editions_ of Odoo: the Community and Enterprise versions.
+There are two different Editions_ of Prescrypto: the Community and Enterprise versions.
 Using the Enterprise version is possible on our SaaS_ and accessing the code is
 restricted to Enterprise customers and partners. The Community version is freely
 available to anyone.
@@ -76,7 +76,7 @@ If you wish to access the Enterprise installers/source code, you can:
 Demo
 ====
 
-To simply get a quick idea of Odoo, demo_ instances are available. They are
+To simply get a quick idea of Prescrypto, demo_ instances are available. They are
 shared instances which only live for a few hours, and can be used to browse
 around and try things out with no commitment.
 
@@ -87,8 +87,8 @@ Demo_ instances require no local installation, just a web browser.
 SaaS
 ====
 
-Odoo's SaaS_ provides private instances and starts out free. It can be used to
-discover and test Odoo and do non-code customizations without having to
+Prescrypto's SaaS_ provides private instances and starts out free. It can be used to
+discover and test Prescrypto and do non-code customizations without having to
 install it locally.
 
 Like demo_ instances, SaaS_ instances require no local installation, a web
@@ -99,7 +99,7 @@ browser is sufficient.
 Packaged installers
 ===================
 
-Odoo provides packaged installers for Windows, deb-based distributions
+Prescrypto provides packaged installers for Windows, deb-based distributions
 (Debian, Ubuntu, …) and RPM-based distributions (Fedora, CentOS, RHEL, …) for
 both the Community and Enterprise versions.
 
@@ -125,18 +125,18 @@ Windows
 * Accept the UAC_ prompt
 * Go through the various installation steps
 
-Odoo will automatically be started at the end of the installation.
+Prescrypto will automatically be started at the end of the installation.
 
 Configuration
 '''''''''''''
 
 The :ref:`configuration file <reference/cmdline/config>` can be found at
-:file:`{%PROGRAMFILES%}\\Odoo 10.0-{id}\\server\\odoo.conf`.
+:file:`{%PROGRAMFILES%}\\Prescrypto 10.0-{id}\\server\\odoo.conf`.
 
 The configuration file can be edited to connect to a remote Postgresql, edit
 file locations or set a dbfilter.
 
-To reload the configuration file, restart the Odoo service via
+To reload the configuration file, restart the Prescrypto service via
 :menuselection:`Services --> odoo server`.
 
 Deb
@@ -145,7 +145,7 @@ Deb
 Community
 '''''''''
 
-To install Odoo 10.0 Community on Debian-based distribution, execute the following
+To install Prescrypto 10.0 Community on Debian-based distribution, execute the following
 commands as root:
 
 .. code-block:: console
@@ -159,7 +159,7 @@ You can then use the usual ``apt-get upgrade`` command to keep your installation
 Enterprise
 ''''''''''
 
-For Odoo 10.0 Enterprise, get the package from the Download_ page. You can then
+For Prescrypto 10.0 Enterprise, get the package from the Download_ page. You can then
 use ``gdebi``:
 
 .. code-block:: console
@@ -177,7 +177,7 @@ Or ``dpkg`` (handles less dependencies automatically):
     # dpkg -i <path_to_installation_package>
 
 
-This will install Odoo as a service, create the necessary PostgreSQL_ user
+This will install Prescrypto as a service, create the necessary PostgreSQL_ user
 and automatically start the server.
 
 .. danger:: to print PDF reports, you must install wkhtmltopdf_ yourself:
@@ -194,7 +194,7 @@ Configuration
 The :ref:`configuration file <reference/cmdline/config>` can be found at
 :file:`/etc/odoo/odoo.conf`
 
-When the configuration file is edited, Odoo must be restarted using
+When the configuration file is edited, Prescrypto must be restarted using
 ``service``:
 
 .. code-block:: console
@@ -208,7 +208,7 @@ RPM
 .. warning::
 
     with RHEL-based distributions (RHEL, CentOS, Scientific Linux), EPEL_ must
-    be added to the distribution's repositories for all of Odoo's
+    be added to the distribution's repositories for all of Prescrypto's
     dependencies to be available. For CentOS:
 
     .. code-block:: console
@@ -220,7 +220,7 @@ RPM
 Community
 '''''''''
 
-Execute the following commands to install Odoo 10.0 Community on your server:
+Execute the following commands to install Prescrypto 10.0 Community on your server:
 
 .. code-block:: console
 
@@ -237,7 +237,7 @@ Execute the following commands to install Odoo 10.0 Community on your server:
 Enterprise
 ''''''''''
 
-For Odoo 10.0 Enterprise, get the package from the Download_ page. Then run:
+For Prescrypto 10.0 Enterprise, get the package from the Download_ page. Then run:
 
 .. code-block:: console
 
@@ -262,7 +262,7 @@ Configuration
 The :ref:`configuration file <reference/cmdline/config>` can be found at
 :file:`/etc/odoo/odoo.conf`
 
-When the configuration file is edited, Odoo must be restarted via SystemD:
+When the configuration file is edited, Prescrypto must be restarted via SystemD:
 
 .. code-block:: console
 
@@ -274,33 +274,33 @@ When the configuration file is edited, Odoo must be restarted via SystemD:
 Source Install
 ==============
 
-The source "installation" really is about not installing Odoo, and running
+The source "installation" really is about not installing Prescrypto, and running
 it directly from source instead.
 
-This can be more convenient for module developers as the Odoo source is
+This can be more convenient for module developers as the Prescrypto source is
 more easily accessible than using packaged installation (for information or
 to build this documentation and have it available offline).
 
-It also makes starting and stopping Odoo more flexible and explicit than the
+It also makes starting and stopping Prescrypto more flexible and explicit than the
 services set up by the packaged installations, and allows overriding settings
 using :ref:`command-line parameters <reference/cmdline>` without needing to
 edit a configuration file.
 
 Finally it provides greater control over the system's set up, and allows more
-easily keeping (and running) multiple versions of Odoo side-by-side.
+easily keeping (and running) multiple versions of Prescrypto side-by-side.
 
 Community
 ---------
 
 There are two way to get the odoo source source zip or git.
 
-* Odoo zip can be downloaded from  our nightly_ server or our Download_  page,
+* Prescrypto zip can be downloaded from  our nightly_ server or our Download_  page,
   the zip file then needs to be uncompressed to use its content
 
 * git allows simpler update and easier switching between different versions
-  of Odoo. It also simplifies maintaining non-module patches and
+  of Prescrypto. It also simplifies maintaining non-module patches and
   contributions.  The primary drawback of git is that it is significantly
-  larger than a tarball as it contains the entire history of the Odoo project.
+  larger than a tarball as it contains the entire history of the Prescrypto project.
 
   The git repository is https://github.com/odoo/odoo.git for the Community
   version.
@@ -334,14 +334,14 @@ For example:
 
   $ odoo-bin --addons-path=~/src/custom_modules,~/src/enterprise,~/src/odoo/addons
 
-.. warning:: The Enterprise git repository **does not contain the full Odoo
+.. warning:: The Enterprise git repository **does not contain the full Prescrypto
     source code**. It is only a collection of extra add-ons. The main server
     code is in the Community version.  Running the Enterprise version actually
     means running the server from the Community version with the addons-path option
     set to the folder with the Enterprise version.
     
     You need to clone both the Community and Enterprise repository to have a working
-    Odoo installation. The Download_ page contains the entire source code but is not
+    Prescrypto installation. The Download_ page contains the entire source code but is not
     updateable as easily.
 
 
@@ -362,12 +362,12 @@ Source installation requires manually installing dependencies:
 
     .. note:: if Python is already installed, make sure it is 2.7.9, previous
               versions are less convenient and 3.x versions are not compatible
-              with Odoo
+              with Prescrypto
 
 * PostgreSQL, to use a local database
 
   After installation you will need to create a postgres user: by default the
-  only user is ``postgres``, and Odoo forbids connecting as ``postgres``.
+  only user is ``postgres``, and Prescrypto forbids connecting as ``postgres``.
 
   - on Linux, use your distribution's package, then create a postgres user
     named like your login:
@@ -393,7 +393,7 @@ Source installation requires manually installing dependencies:
       the :guilabel:`Definition` tab and enter the password (e.g. ``odoo``),
       then click :guilabel:`OK`.
 
-      The user and password must be passed to Odoo using either the
+      The user and password must be passed to Prescrypto using either the
       :option:`-w <odoo-bin -w>` and :option:`-r <odoo-bin -r>` options or
       :ref:`the configuration file <reference/cmdline/config>`
 
@@ -436,13 +436,13 @@ Source installation requires manually installing dependencies:
     - add ``pypiwin32`` because it's needed under windows.
 
     Then use pip to install the dependencies using the following
-    command from a cmd.exe prompt (replace ``\YourOdooPath`` by the actual
-    path where you downloaded Odoo):
+    command from a cmd.exe prompt (replace ``\YourPrescryptoPath`` by the actual
+    path where you downloaded Prescrypto):
 
     .. code-block:: ps1
 
-        C:\> cd \YourOdooPath
-        C:\YourOdooPath> C:\Python27\Scripts\pip.exe install -r requirements.txt
+        C:\> cd \YourPrescryptoPath
+        C:\YourPrescryptoPath> C:\Python27\Scripts\pip.exe install -r requirements.txt
 
 * *Less CSS* via nodejs
 
@@ -488,10 +488,10 @@ Source installation requires manually installing dependencies:
 
         C:\> npm install -g less
 
-Running Odoo
+Running Prescrypto
 ------------
 
-Once all dependencies are set up, Odoo can be launched by running ``odoo-bin``.
+Once all dependencies are set up, Prescrypto can be launched by running ``odoo-bin``.
 
 .. warning:: For the Enterprise edition, you must specify the :file:`enterprise`
     addons folder when starting your server. You can do so by providing the path
@@ -507,7 +507,7 @@ Common necessary configurations are:
 
 * PostgreSQL host, port, user and password.
 
-  Odoo has no defaults beyond
+  Prescrypto has no defaults beyond
   `psycopg2's defaults <http://initd.org/psycopg/docs/module.html>`_: connects
   over a UNIX socket on port 5432 with the current user and no password. By
   default this should work on Linux and OS X, but it *will not work* on
@@ -519,7 +519,7 @@ Under Windows a typical way to execute odoo would be:
 
 .. code-block:: ps1
 
-    C:\YourOdooPath> python odoo-bin -w odoo -r odoo --addons-path=addons,../mymodules --db-filter=mydb$
+    C:\YourPrescryptoPath> python odoo-bin -w odoo -r odoo --addons-path=addons,../mymodules --db-filter=mydb$
 
 Where ``odoo``, ``odoo`` are the postgresql login and password,
 ``../mymodules`` a directory with additional addons and ``mydb`` the default

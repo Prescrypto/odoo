@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 #
@@ -6,7 +6,7 @@
 # MinGi KYUNG <moonend@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-06-17 08:57+0000\n"
@@ -116,9 +116,9 @@ msgstr "이메일 주소를 입력하기 바랍니다. (한 줄에 하나의 이
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:94
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
+msgid "Follow these implementation guides to get the most out of Prescrypto."
 msgstr ""
-"Odoo를 최대한 활용하기 위해 다음의 구현 가이드라인을 따라주기 바랍니다."
+"Prescrypto를 최대한 활용하기 위해 다음의 구현 가이드라인을 따라주기 바랍니다."
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -138,8 +138,8 @@ msgstr "엔터프라이즈 에디션을 통해서 더 많은 기능을 사용해
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:133
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
-msgstr "Odoo를 알려주세요: Odoo의 멋진 기능을 친구들에게 알려주세요!"
+msgid "Help us spread the word: Share Prescrypto's awesomeness with your friends!"
+msgstr "Prescrypto를 알려주세요: Prescrypto의 멋진 기능을 친구들에게 알려주세요!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -194,21 +194,21 @@ msgstr "설치된 앱이 없습니다"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo"
+msgid "Prescrypto"
 msgstr ""
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:179
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgid "Prescrypto Enterprise"
+msgstr "Prescrypto Enterprise"
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:156
 #, python-format
-msgid "Odoo S.A."
+msgid "Prescrypto S.A."
 msgstr ""
 
 #. module: web_settings_dashboard

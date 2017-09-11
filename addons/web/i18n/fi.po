@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * web
 # 
@@ -16,7 +16,7 @@
 # Atte Isopuro <atte.isopuro@web-veistamo.fi>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:28+0000\n"
 "PO-Revision-Date: 2017-06-23 13:28+0000\n"
@@ -216,8 +216,8 @@ msgstr "<span class=\"oe_logo_edit\">Muokkaa yrityksen tietoja</span>"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.menu_secondary
-msgid "<span>Odoo</span>"
-msgstr "<span>Odoo</span>"
+msgid "<span>Prescrypto</span>"
+msgstr "<span>Prescrypto</span>"
 
 #. module: web
 #. openerp-web
@@ -1061,9 +1061,9 @@ msgstr "Lomake"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1280
 #, python-format
-msgid "Get this feature and much more with Odoo Enterprise!"
+msgid "Get this feature and much more with Prescrypto Enterprise!"
 msgstr ""
-"Saat tämän ja muita toiminnallisuuksia käytämällä Odoo Enterprise-"
+"Saat tämän ja muita toiminnallisuuksia käytämällä Prescrypto Enterprise-"
 "kokonaisuutta!"
 
 #. module: web
@@ -1369,8 +1369,8 @@ msgstr "Siirrä ylös"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1272
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Odoo.com-tilini"
+msgid "My Prescrypto.com account"
+msgstr "Prescrypto.com-tilini"
 
 #. module: web
 #. openerp-web
@@ -1511,27 +1511,27 @@ msgstr "Objekti:"
 #. openerp-web
 #: code:addons/web/static/src/js/framework/dialog.js:37
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Prescrypto"
+msgstr "Prescrypto"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:195
 #, python-format
-msgid "Odoo Apps will be available soon"
-msgstr "Odoo sovellukset ovat pian saatavilla"
+msgid "Prescrypto Apps will be available soon"
+msgstr "Prescrypto sovellukset ovat pian saatavilla"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/views/form_upgrade_widgets.js:53
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgid "Prescrypto Enterprise"
+msgstr "Prescrypto Enterprise"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
-msgstr "Odoo Web testit"
+msgid "Prescrypto Web Tests"
+msgstr "Prescrypto Web testit"
 
 #. module: web
 #. openerp-web
@@ -1697,8 +1697,8 @@ msgstr "Järjestelmää pyörittää"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Järjestelmää pyörittää <span>Odoo</span>"
+msgid "Powered by <span>Prescrypto</span>"
+msgstr "Järjestelmää pyörittää <span>Prescrypto</span>"
 
 #. module: web
 #. openerp-web
@@ -2147,10 +2147,10 @@ msgstr ""
 #, python-format
 msgid ""
 "Timezone Mismatch : The timezone of your browser doesn't match the selected "
-"one. The time in Odoo is displayed according to your field timezone."
+"one. The time in Prescrypto is displayed according to your field timezone."
 msgstr ""
 "Virhe aikavyöhykkeessä: selaimesi aikavyöhyke ei vastaa valittua "
-"aikavyöhykettä. Odoon ajat näytetään aikavyöhyke-kentän valinnan "
+"aikavyöhykettä. Prescrypton ajat näytetään aikavyöhyke-kentän valinnan "
 "perusteella."
 
 #. module: web
@@ -2487,8 +2487,8 @@ msgstr "Sinun täytyy valita vähintään yksi tietue."
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:58
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
-msgstr "Odoo-istuntosi on vanhentunut. Ole hyvä ja lataa sivu uudelleen."
+msgid "Your Prescrypto session expired. Please refresh the current web page."
+msgstr "Prescrypto-istuntosi on vanhentunut. Ole hyvä ja lataa sivu uudelleen."
 
 #. module: web
 #. openerp-web

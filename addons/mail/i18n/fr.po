@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * mail
 # 
@@ -41,7 +41,7 @@
 # Micky Jault <micky037@hotmail.fr>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:53+0000\n"
 "PO-Revision-Date: 2016-11-14 15:53+0000\n"
@@ -136,7 +136,7 @@ msgid ""
 "    </a>\n"
 "    % endif\n"
 "    using\n"
-"    <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #875A7B;\">Odoo</a>.\n"
+"    <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #875A7B;\">Prescrypto</a>.\n"
 "</p>\n"
 "</div>"
 msgstr ""
@@ -2057,11 +2057,11 @@ msgstr ""
 #. module: mail
 #: model:ir.model.fields,help:mail.field_base_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the Prescrypto server, "
 "enter the domain name here."
 msgstr ""
 "Si vous avez configuré un domain \"catch-all\" email redirigé vers le "
-"serveur d'Odoo, entrez le nom du domaine ici."
+"serveur d'Prescrypto, entrez le nom du domaine ici."
 
 #. module: mail
 #: code:addons/mail/models/mail_alias.py:141
@@ -3186,30 +3186,30 @@ msgstr "Nombre de messages non lus"
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.message_user_assigned
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Prescrypto"
+msgstr "Prescrypto"
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/js/client_action.js:130
 #, python-format
 msgid ""
-"Odoo has now the permission to send you native notifications on this device."
+"Prescrypto has now the permission to send you native notifications on this device."
 msgstr ""
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
-msgstr "Odoo a besoin de votre autorisation pour"
+msgid "Prescrypto needs your permission to"
+msgstr "Prescrypto a besoin de votre autorisation pour"
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/js/client_action.js:128
 #, python-format
 msgid ""
-"Odoo will not have the permission to send native notifications on this "
+"Prescrypto will not have the permission to send native notifications on this "
 "device."
 msgstr ""
 
@@ -4119,11 +4119,11 @@ msgstr "Le code HTML avec caractères d'échappement remplaçant le raccourci"
 #: model:ir.model.fields,help:mail.field_mail_alias_mixin_alias_model_id
 #: model:ir.model.fields,help:mail.field_mail_channel_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Prescrypto Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"Le modèle (sorte de document Odoo) auquel correspond cet alias. Tout les "
+"Le modèle (sorte de document Prescrypto) auquel correspond cet alias. Tout les "
 "e-mail entrant ne correspondant pas à un enregistrement existant entraînera "
 "la création d'un nouvel enregistrement de ce modèle (Ex. : une tâche d'un "
 "projet)"

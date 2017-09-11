@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -7,7 +7,7 @@
 # Эдуард Манятовский <manyatovskiy@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-10-10 08:44+0000\n"
@@ -244,8 +244,8 @@ msgstr "Значок должен быть уникальным!"
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "О вашем использовании Odoo"
+msgid "About your Prescrypto usage"
+msgstr "О вашем использовании Prescrypto"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_active
@@ -322,8 +322,8 @@ msgstr "Архивировано"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "Вы используете Odoo ежедневно?"
+msgid "Are you using Prescrypto on a daily basis?"
+msgstr "Вы используете Prescrypto ежедневно?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -699,8 +699,8 @@ msgstr "Группировать"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
-msgstr "Как вы участвуете или планируете участвовать в Odoo?"
+msgid "How do you contribute or plan to contribute to Prescrypto?"
+msgstr "Как вы участвуете или планируете участвовать в Prescrypto?"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_2_6
@@ -734,8 +734,8 @@ msgstr "Я участвую в обсуждении и форумах"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
-msgstr "Мне нравится Github, как все официальные проекты Odoo"
+msgid "I use Github, like all official Prescrypto projects"
+msgstr "Мне нравится Github, как все официальные проекты Prescrypto"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_2
@@ -744,8 +744,8 @@ msgstr "Я использую другую систему хранилища (So
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
-msgstr "Я использую контекстную справку в Odoo"
+msgid "I use the contextual help in Prescrypto"
+msgstr "Я использую контекстную справку в Prescrypto"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_5
@@ -806,9 +806,9 @@ msgstr "Если другое, укажите, пожалуйста:"
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
+msgid "If you do not contribute or develop in Prescrypto, skip this page."
 msgstr ""
-"Если вы не участвуете или не разрабатываете в Odoo, пропустите эту страницу."
+"Если вы не участвуете или не разрабатываете в Prescrypto, пропустите эту страницу."
 
 #. module: survey
 #: model:ir.ui.view,arch_db:survey.sfinished
@@ -1757,10 +1757,10 @@ msgstr "Слишком много пунктов меню, сложно для �
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of Prescrypto. Try to remind your firsts days on Prescrypto and\n"
 "what have been your difficulties."
 msgstr ""
-"Эти вопросы касаются эргономии и легкости использования Odoo. Попытайтесь вспомнить свои первые дни на Odoo и\n"
+"Эти вопросы касаются эргономии и легкости использования Prescrypto. Попытайтесь вспомнить свои первые дни на Prescrypto и\n"
 "каковы были ваши трудности."
 
 #. module: survey
@@ -1775,8 +1775,8 @@ msgstr "Они полезны для ежедневного использова
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
-msgstr "Они помогают новым пользователям разобраться в Odoo"
+msgid "They help new users to understand Prescrypto"
+msgstr "Они помогают новым пользователям разобраться в Prescrypto"
 
 #. module: survey
 #: code:addons/survey/models/survey.py:546
@@ -2019,9 +2019,9 @@ msgstr "Что вы думаете о группах пользователей?
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of Prescrypto, available in the web "
 "client ?"
-msgstr "Что вы думаете о проекциях процесса Odoo, доступных в веб-клиенте?"
+msgstr "Что вы думаете о проекциях процесса Prescrypto, доступных в веб-клиенте?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_4
@@ -2065,8 +2065,8 @@ msgstr "Да, я использую версию 7.0, установленную
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "Да, я использую онлайн версию Odoo"
+msgid "Yes, I use the online version of Prescrypto"
+msgstr "Да, я использую онлайн версию Prescrypto"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

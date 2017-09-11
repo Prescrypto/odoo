@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
@@ -13,7 +13,7 @@
 # salmemik <salmemik@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -174,12 +174,12 @@ msgstr "Virhe! Et voi luoda rekursiivisia ryhmiä."
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure Odoo"
+msgid "Explain how to configure Prescrypto"
 msgstr ""
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
+msgid "Explain how to implement it in Prescrypto"
 msgstr ""
 
 #. module: website_forum_doc
@@ -391,7 +391,7 @@ msgstr "Vaiheen nimi"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
+msgid "The answer is understandable for someone who does not know Prescrypto"
 msgstr ""
 
 #. module: website_forum_doc

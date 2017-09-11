@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * web
 #
@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-01-21 10:35+0000\n"
@@ -17,9 +17,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"#-#-#-#-#  es_AR.po (Odoo 9.0)  #-#-#-#-#\n"
+"#-#-#-#-#  es_AR.po (Prescrypto 9.0)  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"#-#-#-#-#  es_AR.po (Odoo 9.0)  #-#-#-#-#\n"
+"#-#-#-#-#  es_AR.po (Prescrypto 9.0)  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: web
@@ -996,8 +996,8 @@ msgstr "Más"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1272
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Mi cuenta Odoo.com"
+msgid "My Prescrypto.com account"
+msgstr "Mi cuenta Prescrypto.com"
 
 #. module: web
 #. openerp-web
@@ -1052,20 +1052,20 @@ msgstr "Objeto:"
 #. openerp-web
 #: code:addons/web/static/src/js/framework/dialog.js:37
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Prescrypto"
+msgstr "Prescrypto"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:195
 #, python-format
-msgid "Odoo Apps will be available soon"
-msgstr "Odoo Apps estará disponible en breve"
+msgid "Prescrypto Apps will be available soon"
+msgstr "Prescrypto Apps estará disponible en breve"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
-msgstr "Tests web de Odoo"
+msgid "Prescrypto Web Tests"
+msgstr "Tests web de Prescrypto"
 
 #. module: web
 #. openerp-web
@@ -1684,8 +1684,8 @@ msgstr "Debe seleccionar al menos un registro."
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:58
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
-msgstr "Su sesión Odoo expiró. Refresque por favor la página web actual."
+msgid "Your Prescrypto session expired. Please refresh the current web page."
+msgstr "Su sesión Prescrypto expiró. Refresque por favor la página web actual."
 
 #. module: web
 #. openerp-web

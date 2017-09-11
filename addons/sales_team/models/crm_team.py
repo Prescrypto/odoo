@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from odoo import api, fields, models
 
@@ -37,7 +37,7 @@ class CrmTeam(models.Model):
     user_id = fields.Many2one('res.users', string='Team Leader')
     member_ids = fields.One2many('res.users', 'sale_team_id', string='Team Members')
     reply_to = fields.Char(string='Reply-To',
-                           help="The email address put in the 'Reply-To' of all emails sent by Odoo about cases in this sales team")
+                           help="The email address put in the 'Reply-To' of all emails sent by Prescrypto about cases in this sales team")
     color = fields.Integer(string='Color Index', help="The color of the team")
 
     @api.model

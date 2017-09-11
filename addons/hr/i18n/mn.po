@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -12,7 +12,7 @@
 # Khishigbat Ganbold <khishigbat@asterisk-tech.mn>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-10-10 08:43+0000\n"
@@ -345,8 +345,8 @@ msgstr "Нөөцийн хувиарлалтыг тодорхойлох"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Odoo-н функционалийн ерөнхий сургалтыг хүргэх"
+msgid "Deliver generic Prescrypto functional training sessions"
+msgstr "Prescrypto-н функционалийн ерөнхий сургалтыг хүргэх"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -922,11 +922,11 @@ msgstr "Ажилд авахаар таамагласан шинэ ажилчды
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Prescrypto's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
 msgstr ""
-"                Odoo-н хэлтсийн бүтэц нь ажилчинд холбоотой бүх баримтыг\n"
+"                Prescrypto-н хэлтсийн бүтэц нь ажилчинд холбоотой бүх баримтыг\n"
 "                хэлтсийн бүтцээр удирдахад тусладаг: зардал, цагийн хуудас, амралт чөлөө, \n"
 "                ажилтан авах гэх мэт"
 
@@ -1365,11 +1365,11 @@ msgstr "Мэргэжлийн Үйлчилгээний Даргад тайлаг�
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Prescrypto employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr ""
-"Odoo ажилтаны дэлгэцийг өнгөц харахад л та хүн болгоны \n"
+"Prescrypto ажилтаны дэлгэцийг өнгөц харахад л та хүн болгоны \n"
 "холбогдох мэдээлэл, ажлын байр, боломж, г.м. \n"
 "бүх мэдээллийг хялбархан олох боломжтой."
 

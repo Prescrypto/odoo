@@ -273,7 +273,7 @@ odoo.define('website.website', function (require) {
     });
 
     // enable magnify on zommable img
-    $('.zoomable img[data-zoom]').zoomOdoo();
+    $('.zoomable img[data-zoom]').zoomPrescrypto();
 
     Dialog.include({
         init: function () {

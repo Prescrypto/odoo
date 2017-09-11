@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * base_import
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:54+0000\n"
 "PO-Revision-Date: 2016-01-25 08:56+0000\n"
@@ -273,12 +273,12 @@ msgstr "ID"
 #, python-format
 msgid ""
 "If the file contains\n"
-"                the column names, Odoo can try auto-detecting the\n"
+"                the column names, Prescrypto can try auto-detecting the\n"
 "                field corresponding to the column. This makes imports\n"
 "                simpler especially when the file has many columns."
 msgstr ""
 "만약 파일이 컬럼 이름을 포함하고 있으면\n"
-"Odoo는 컬럼 이름에 대응하는 필드를 자동으로 검출합니다.\n"
+"Prescrypto는 컬럼 이름에 대응하는 필드를 자동으로 검출합니다.\n"
 "이것은 가져오기를 많은 컬럼을 가진 파일을 다룰 때 간편하게 해줍니다"
 
 #. module: base_import

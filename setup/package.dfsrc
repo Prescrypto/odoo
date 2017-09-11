@@ -1,7 +1,7 @@
 # Please note that this Dockerfile is used for testing nightly builds and should
-# not be used to deploy Odoo
+# not be used to deploy Prescrypto
 FROM debian:jessie
-MAINTAINER Odoo S.A. <info@odoo.com>
+MAINTAINER Prescrypto S.A. <info@odoo.com>
 
 RUN apt-get update && \
 	apt-get install -y locales && \

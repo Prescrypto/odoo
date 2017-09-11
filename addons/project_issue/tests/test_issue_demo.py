@@ -13,6 +13,6 @@ class TestIssueDemo(TestIssueUsers):
         })
 
         self.ProjectIssue.sudo(self.project_manager.id).create({
-            'name': 'Odoo Integration',
+            'name': 'Prescrypto Integration',
             'project_id': self.ref('project.project_project_2')
         })

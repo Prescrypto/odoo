@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_sale
 # 
@@ -11,7 +11,7 @@
 # Norimichi Sugimoto <norimichi.sugimoto@tls-ltd.co.jp>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-09 13:04+0000\n"
 "PO-Revision-Date: 2016-12-09 13:04+0000\n"
@@ -191,10 +191,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
-"                                Everything is editable in your Odoo website. Feel free to edit any page title, field or button label. Simply hit *Edit* in upper-right corner to start editing the page."
+"                                Everything is editable in your Prescrypto website. Feel free to edit any page title, field or button label. Simply hit *Edit* in upper-right corner to start editing the page."
 msgstr ""
 "<span class=\"fa fa-lightbulb-o fa-2x\"/>\n"
-"                                Odooのウェブサイトですべてのものを編集できます。 ページのタイトル、フィールド、またはボタンのラベルを自由に編集してください。 右上の* 編集*を押すだけでページの編集が始まります。"
+"                                Prescryptoのウェブサイトですべてのものを編集できます。 ページのタイトル、フィールド、またはボタンのラベルを自由に編集してください。 右上の* 編集*を押すだけでページの編集が始まります。"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -675,8 +675,8 @@ msgstr ""
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "<strong>See it in action in Odoo</strong><br/>"
-msgstr "<strong>Odooの挙動を見てください</strong><br/>"
+msgid "<strong>See it in action in Prescrypto</strong><br/>"
+msgstr "<strong>Prescryptoの挙動を見てください</strong><br/>"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -1360,9 +1360,9 @@ msgstr "Fedexと連携"
 #: code:addons/website_sale/static/src/js/website_sale_tour_shop.js:62
 #, python-format
 msgid ""
-"Follow the steps and advices in the Odoo Planner to deploy your e-Commerce "
+"Follow the steps and advices in the Prescrypto Planner to deploy your e-Commerce "
 "website in no time!"
-msgstr "Odoo Plannerの手順とアドバイスに従って、すぐに電子商取引のWebサイトを展開してください！"
+msgstr "Prescrypto Plannerの手順とアドバイスに従って、すぐに電子商取引のWebサイトを展開してください！"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -1460,9 +1460,9 @@ msgstr "ID"
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "If you deal with a major shipper (UPS, FedEx, DHL, etc.), activate the "
-"related connector in Odoo to compute accurate costs and print labels."
+"related connector in Prescrypto to compute accurate costs and print labels."
 msgstr ""
-"大手配送業者(UPS、FedEx、DHLなど)と対処する場合は、Odooの関連コネクタを有効にして、正確なコストを計算しラベルを印刷してください。"
+"大手配送業者(UPS、FedEx、DHLなど)と対処する場合は、Prescryptoの関連コネクタを有効にして、正確なコストを計算しラベルを印刷してください。"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.terms
@@ -1517,10 +1517,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "In North America, prices are shown tax-excluded whatever your business is "
-"(default mode in Odoo). In most other countries, only B2B prices are tax-"
+"(default mode in Prescrypto). In most other countries, only B2B prices are tax-"
 "exluded; B2C prices being tax-included."
 msgstr ""
-"北米では、あなたのビジネスが何であれ、価格は税抜きで表示されます(Odooのデフォルトモード)。 他の多くの国では、B2B価格のみが課税対象となります。"
+"北米では、あなたのビジネスが何であれ、価格は税抜きで表示されます(Prescryptoのデフォルトモード)。 他の多くの国では、B2B価格のみが課税対象となります。"
 " B2Cの価格は税込みです。"
 
 #. module: website_sale
@@ -2696,8 +2696,8 @@ msgstr ""
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"To do so, take the most out of Odoo's <strong>pricing options</strong>:<br/>"
-msgstr "これを行うには、Odooの<strong>価格設定オプション</strong>を最大限に活用してください：<br/>"
+"To do so, take the most out of Prescrypto's <strong>pricing options</strong>:<br/>"
+msgstr "これを行うには、Prescryptoの<strong>価格設定オプション</strong>を最大限に活用してください：<br/>"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.report_shop_saleorder_document
@@ -2874,8 +2874,8 @@ msgstr "はい、このカードで支払います"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "You can setup 3 types of <strong>payment methods in Odoo:</strong>"
-msgstr "あなたは3種類の<strong>支払い方法をOdooで設定できます：</strong>"
+msgid "You can setup 3 types of <strong>payment methods in Prescrypto:</strong>"
+msgstr "あなたは3種類の<strong>支払い方法をPrescryptoで設定できます：</strong>"
 
 #. module: website_sale
 #: model:ir.actions.act_window,help:website_sale.action_abandonned_orders_ecommerce
@@ -3046,8 +3046,8 @@ msgstr "利用諸条件"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "use Odoo API to import through scripts"
-msgstr "Odoo APIを使用してスクリプトをインポートする"
+msgid "use Prescrypto API to import through scripts"
+msgstr "Prescrypto APIを使用してスクリプトをインポートする"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_pricelist_website_id

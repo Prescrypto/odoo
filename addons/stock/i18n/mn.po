@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -13,7 +13,7 @@
 # Khishigbat Ganbold <khishigbat@asterisk-tech.mn>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-22 14:03+0000\n"
 "PO-Revision-Date: 2016-11-22 14:03+0000\n"
@@ -136,8 +136,8 @@ msgstr ", НББ эсвэл худалдан авалт суусан үед"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo баг"
+msgid "- The Prescrypto Team"
+msgstr "- Prescrypto баг"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -474,9 +474,9 @@ msgstr "<strong>Хүрэх</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
+msgid "<strong>Enjoy your Inventory management with Prescrypto!</strong>"
 msgstr ""
-"<strong>Odoo-г ашиглан Агуулахын менежментээ амжилттай "
+"<strong>Prescrypto-г ашиглан Агуулахын менежментээ амжилттай "
 "хэрэгжүүлээрэй!</strong>"
 
 #. module: stock
@@ -1109,18 +1109,18 @@ msgstr "Үл давтагдах цувралын дугаараар"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
+"Prescrypto will not automatically generate a back order."
 msgstr ""
 "Энэ тоо хэмжээг өөрчилснөөр шинэ тоо хэмжээг гүйцэтгэсэн гэж зөвшөөрч байгаа"
-" хэрэг юм: Odoo нь дутагдлын захиалгыг автоматаар үүсгэхгүй."
+" хэрэг юм: Prescrypto нь дутагдлын захиалгыг автоматаар үүсгэхгүй."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, Prescrypto measures products by 'units', which are generic and "
 "represent just about anything"
 msgstr ""
-"Odoo нь анхны байдлаараа барааг 'нэгж'-ээр хэмждэг бөгөөд энэ нь ерөнхий "
+"Prescrypto нь анхны байдлаараа барааг 'нэгж'-ээр хэмждэг бөгөөд энэ нь ерөнхий "
 "бөгөөд юугч хэмжих боломжтой"
 
 #. module: stock
@@ -1930,14 +1930,14 @@ msgstr ""
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"            organization. Odoo is able to manage physical locations\n"
+"            organization. Prescrypto is able to manage physical locations\n"
 "            (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "            vendors) and virtual locations which are the counterpart of\n"
 "            the stock operations like the manufacturing orders\n"
 "            consumptions, inventories, etc."
 msgstr ""
 "Агуулахын бүтэц, зохион байгуулалттай таарах байрлалуудыг\n"
-"            тодорхойл. Odoo нь бодит байрлал\n"
+"            тодорхойл. Prescrypto нь бодит байрлал\n"
 "            (багуулах, тавиур, сагс, гм), харилцагчийн байрлал (захиалагч,\n"
 "            нийлүүлэгч) хийсвэр байрлалыг удирддаг. Хийсвэр байрлал нь \n"
 "            агуулахын ажилбарын харьцсан тал болдог. Үйлдвэрлэлийн захиалга,\n"
@@ -2267,15 +2267,15 @@ msgstr "Европын харилцагчид"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in Prescrypto moves the products from one\n"
 "            location to another one.  For instance, if you receive products\n"
-"            from a vendor, Odoo will move products from the Vendor\n"
+"            from a vendor, Prescrypto will move products from the Vendor\n"
 "            location to the Stock location. Each report can be performed on\n"
 "            physical, partner or virtual locations."
 msgstr ""
-"Odoo-д агуулахын ажилбар бүр нь барааг нэг байрлалаас\n"
+"Prescrypto-д агуулахын ажилбар бүр нь барааг нэг байрлалаас\n"
 "            нөгөө байрлал руу шилжүүлдэг.  Тухайлбал, хэрэв нийлүүлэгчээс\n"
-"            бараа хүлээн авбал, Odoo нь нийлүүлэгчийн байрлалаас\n"
+"            бараа хүлээн авбал, Prescrypto нь нийлүүлэгчийн байрлалаас\n"
 "            агуулахын байрлал руу барааг зөөнө. Тайлан нь физик байрлал,\n"
 "            харилцагчийн байрлал, виртуаль байрлал дээр ажиллана."
 
@@ -2366,10 +2366,10 @@ msgstr "Барааны Ангилалын Тогтмол Байрлалууд"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
-"Odoo-н баг<br/>\n"
+"Prescrypto-н баг<br/>\n"
 "Fabien Pinckaers, Үүсгэн байгуулагч"
 
 #. module: stock
@@ -2822,12 +2822,12 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, Prescrypto automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
 msgstr ""
-"Хэрэв автомат татан авалтыг тохируулсан бол, Odoo нь татан авах захиалгыг\n"
+"Хэрэв автомат татан авалтыг тохируулсан бол, Prescrypto нь татан авах захиалгыг\n"
 "                        автоматаар үүсгэнэ. Тэгэхээр санаа зовох шаардлагагүй болох боловч\n"
 "                        систем заримдаа холбогдох баримтыг үүсгэж чадалгүй хоригдож болдог.\n"
 "                        Энэ нь голдуу тохиргооны алдаанаас болдог."
@@ -2885,12 +2885,12 @@ msgstr "Дараах дэлгэц рүү ороод зүүн дээд товчо
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In Prescrypto, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        Prescrypto will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
 msgstr ""
-"Odoo-д, <strong>Дахин захиалах дүрэм</strong> нь барааг нөхөн дүүргэхэд хэрэглэгддэг.\n"
-"                        Odoo нь бараа дуусах үед барааг шинээр худалдан саналыг автоматаар\n"
+"Prescrypto-д, <strong>Дахин захиалах дүрэм</strong> нь барааг нөхөн дүүргэхэд хэрэглэгддэг.\n"
+"                        Prescrypto нь бараа дуусах үед барааг шинээр худалдан саналыг автоматаар\n"
 "                        үүсгэж санал болгодог."
 
 #. module: stock
@@ -3264,10 +3264,10 @@ msgstr "Энэ гологдолын байрлал уу?"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
+"                        If you want to do that, contact your Prescrypto project manager."
 msgstr ""
 "Эхний тооллогоо Excel эсвэл CSV файлаас импортлох боломжтой.\n"
-"                        Хэрэв үүнийг хийхээр бол Odoo төслийн менежертэйгээ холбогдоно уу."
+"                        Хэрэв үүнийг хийхээр бол Prescrypto төслийн менежертэйгээ холбогдоно уу."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -3471,10 +3471,10 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, Prescrypto inventory management is\n"
 "                        fully integrated with the purchase app."
 msgstr ""
-"Борлуулалтын урсгалтай ижилээр, Odoo бараа материалын\n"
+"Борлуулалтын урсгалтай ижилээр, Prescrypto бараа материалын\n"
 "                  менежмент нь худалдан авалтын модультайгаа бүрэн уялдсан байдаг."
 
 #. module: stock
@@ -3894,11 +3894,11 @@ msgstr "Илүү мэдээлэл"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by Prescrypto according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
 msgstr ""
-"Ихэнх ажилбар Odoo-н логистикийн дүрмийн тохиргооны дагууд автоматаар "
+"Ихэнх ажилбар Prescrypto-н логистикийн дүрмийн тохиргооны дагууд автоматаар "
 "бэлтгэгдэнэ. Гэхдээ гараараа мөн агуулахын хөдөлгөөнийг хөтлөж болно."
 
 #. module: stock
@@ -4173,44 +4173,44 @@ msgstr "OK"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"Prescrypto handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
 msgstr ""
-"Odoo нь <strong>дэвшилтэт түгээх/татах маршрутын тохиргоо</strong>-г "
+"Prescrypto нь <strong>дэвшилтэт түгээх/татах маршрутын тохиргоо</strong>-г "
 "удирддаг, жишээлбэл:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
+msgid "Prescrypto has preconfigured <strong>one Warehouse</strong> for you."
 msgstr ""
-"Odoo нь  <strong>Нэг агуулах</strong> -г урьдчилан тохируулсан байдаг."
+"Prescrypto нь  <strong>Нэг агуулах</strong> -г урьдчилан тохируулсан байдаг."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"Prescrypto inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
 msgstr ""
-"Odoo-н бараа материалын систем нь борлуулалт болон нэхэмжлэлийн\n"
+"Prescrypto-н бараа материалын систем нь борлуулалт болон нэхэмжлэлийн\n"
 "                        процесстой бүрэн уялдсан байдаг. Эхний үнийн саналаас эхлээд\n"
 "                        хүргэлт, нэхэмжлэлийн бүх процесс нь автоматажсан байдаг."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"Prescrypto is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
-msgstr "Odoo нь Барааны цувралыг ашиглан дэвшилтэт мөшгилтийг хийх боломжтой."
+msgstr "Prescrypto нь Барааны цувралыг ашиглан дэвшилтэт мөшгилтийг хийх боломжтой."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that Prescrypto is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
 msgstr ""
-"Өөрийнхийгөө нэмэх явдалд болгоомжлох шаардлагагүй. Odoo нь нэг төрлийн "
+"Өөрийнхийгөө нэмэх явдалд болгоомжлох шаардлагагүй. Prescrypto нь нэг төрлийн "
 "хэмжих нэгжүүдийн хооронд хөрвүүлэлт хийх боломжтой. Жишээлбэл: литр, "
 "галлоныг Эзэлхүүн төрөлд."
 
@@ -6577,10 +6577,10 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with Prescrypto Inventory.\n"
 "                        Once you are done, you will benefit from:"
 msgstr ""
-"Энэ заавар нь Odoo Бараа Материалыг эхлүүлэхэд зааварчилна.\n"
+"Энэ заавар нь Prescrypto Бараа Материалыг эхлүүлэхэд зааварчилна.\n"
 "                        Хийж дуусгаснаар дараах ашиг тусыг хүртэнэ:"
 
 #. module: stock
@@ -7299,12 +7299,12 @@ msgstr "Анхааруулга!"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr ""
 "Импорт хийх процессийг бид танд\n"
-"                                        туслаж болно: Odoo төслийн менежертээ\n"
+"                                        туслаж болно: Prescrypto төслийн менежертээ\n"
 "                                        өгөгдөл агуулж байгаа CSV файлыг\n"
 "                                        илгээгээрэй."
 
@@ -7312,20 +7312,20 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr ""
 "Импорт хийх процессийг бид танд\n"
-"                                        туслаж болно: Odoo төслийн менежертээ\n"
+"                                        туслаж болно: Prescrypto төслийн менежертээ\n"
 "                                        барааны өгөгдөл агуулж байгаа CSV файлыг\n"
 "                                        илгээгээрэй."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
+msgid "We hope this guide helped you implement Prescrypto Inventory."
 msgstr ""
-"Энэ заавар нь Odoo Бараа Материалыг хэрэгжүүлэхэд тусласан гэж бид найдж "
+"Энэ заавар нь Prescrypto Бараа Материалыг хэрэгжүүлэхэд тусласан гэж бид найдж "
 "байна."
 
 #. module: stock
@@ -7385,22 +7385,22 @@ msgstr "Арга нь тогтмол бол энэ байрлал нь бара�
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" Prescrypto generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
 "Ирээдүйн үлдэгдэл нь энэ талбар заасан Минимум тоо хэмжээнээс бага болбол "
-"Odoo нь ирээдүйн үлдэгдлийг Максимум тоо хэмжээнд хүрэхүйцээр татан авах "
+"Prescrypto нь ирээдүйн үлдэгдлийг Максимум тоо хэмжээнд хүрэхүйцээр татан авах "
 "захиалгыг үүсгэдэг."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Prescrypto generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
 "Ирээдүйн үлдэгдэл нь энэ талбар заасан Минимум тоо хэмжээнээс бага болбол "
-"Odoo нь ирээдүйн үлдэгдлийг Максимум тоо хэмжээнд хүрэхүйцээр татан авах "
+"Prescrypto нь ирээдүйн үлдэгдлийг Максимум тоо хэмжээнд хүрэхүйцээр татан авах "
 "захиалгыг үүсгэдэг."
 
 #. module: stock
@@ -7450,18 +7450,18 @@ msgstr ""
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that Prescrypto will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, Prescrypto will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
 msgstr ""
-"Хамгийн бага нөөцийн дүрмийг тодорхойлж болох бөгөөд ингэснээр Odoo нь "
+"Хамгийн бага нөөцийн дүрмийг тодорхойлж болох бөгөөд ингэснээр Prescrypto нь "
 "нөөцийн түвшингээс хамааруулан автоматаар үйлдвэрлэлийн ноорог захиалга "
 "эсвэл худалдан авах үнийн саналыг автоматаар үүсгэдэг. Нөөцийн ирээдүйн "
 "үлдэгдэл (=гарт байгаа үлдэгдлээс батлагдсан захиалга болон нөөцлөлтийг "
-"хассан тоо) нь хамгийн бага тооноос бага болмогц Odoo нь үлдэгдлийн хамгийн "
+"хассан тоо) нь хамгийн бага тооноос бага болмогц Prescrypto нь үлдэгдлийн хамгийн "
 "их үлдэгдэл хүртэлх хэмжээгээр нэмэгдүүлэх татан авах захиалгыг үүсгэдэг."
 
 #. module: stock
@@ -7658,10 +7658,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed (<i>done</i>) quantities. Click <i>apply</i> and\n"
-"                        Odoo will process all quantities to do."
+"                        Prescrypto will process all quantities to do."
 msgstr ""
 "Та (<i>хийгдсэн</i>) боловсруулагдсан тоо хэмжээг тааруулаагүй байна, <i>Хэрэглэх</i> товчийг дарвал \n"
-"                        Odoo нь бүх тоо хэмжээгээр боловсруулах болно."
+"                        Prescrypto нь бүх тоо хэмжээгээр боловсруулах болно."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_picking_return.py:43
@@ -7782,19 +7782,19 @@ msgstr "ж: PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
+"Prescrypto do it automatically while validating"
 msgstr ""
-"барааны мөрүүд дээр Хийгдсэн тоо хэмжээг гараар шинэчлэх эсвэл Odoo нь "
+"барааны мөрүүд дээр Хийгдсэн тоо хэмжээг гараар шинэчлэх эсвэл Prescrypto нь "
 "шалгах үед автоматаар хийхийн аль нэгээр"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the Prescrypto Barcode app, or let Prescrypto do it automatically while "
 "validating"
 msgstr ""
-"барааны мөрүүд дээр Хийгдсэн тоо хэмжээг гараар шинэчлэх эсвэл Odoo-г "
+"барааны мөрүүд дээр Хийгдсэн тоо хэмжээг гараар шинэчлэх эсвэл Prescrypto-г "
 "зураасан код уншуулах боломжийг ашиглан шалгах үед автоматаар хийхийн аль "
 "нэгээр"
 

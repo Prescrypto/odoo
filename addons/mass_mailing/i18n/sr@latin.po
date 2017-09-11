@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * mass_mailing
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-05-23 20:53+0000\n"
@@ -106,14 +106,14 @@ msgid ""
 "style=\"padding:10px 15px 10px 10px;vertical-align:middle\" valign=\"center"
 "\" width=\"270\"><table align=\"right\" border=\"0\" cellpadding=\"0\" "
 "cellspacing=\"0\" style=\"border-collapse:collapse\"><tbody><tr><td align="
-"\"right\"><a href=\"https://www.facebook.com/Odoo\"><span class=\"fa fa-"
+"\"right\"><a href=\"https://www.facebook.com/Prescrypto\"><span class=\"fa fa-"
 "facebook-square fa-2x\" style=\"color:#44B7B7;\"></span></a></td><td align="
-"\"right\" style=\"padding-left:5px\"><a href=\"https://www.facebook.com/Odoo"
+"\"right\" style=\"padding-left:5px\"><a href=\"https://www.facebook.com/Prescrypto"
 "\"><span class=\"fa fa-google-plus-square fa-2x\" style=\"color:#44B7B7;\"></"
 "span></a></td><td align=\"right\" style=\"padding-left:5px\"><a href="
-"\"https://www.facebook.com/Odoo\"><span class=\"fa fa-linkedin-square fa-2x"
+"\"https://www.facebook.com/Prescrypto\"><span class=\"fa fa-linkedin-square fa-2x"
 "\" style=\"color:#44B7B7;\"></span></a></td><td align=\"right\" style="
-"\"padding-left:5px\"><a href=\"https://www.facebook.com/Odoo\"><span class="
+"\"padding-left:5px\"><a href=\"https://www.facebook.com/Prescrypto\"><span class="
 "\"fa fa-twitter-square fa-2x\" style=\"color:#44B7B7;\"></span></a></td></"
 "tr></tbody></table></td></tr></tbody></table></div><div style=\"padding:0px;"
 "width:600px;margin:auto;background-color:#44B7B7;color:#168484\"><table "
@@ -168,13 +168,13 @@ msgid ""
 "#44B7B7\"><div style=\"padding:10px\"><table cellpadding=\"0\" cellspacing="
 "\"0\" style=\"margin: 0 auto;width:100%;border-collapse:collapse;color:"
 "inherit;color:inherit\"><tbody><tr><td style=\"text-align:center\"> <a style="
-"\"text-decoration: none;\" href=\"https://www.facebook.com/Odoo\"><span "
+"\"text-decoration: none;\" href=\"https://www.facebook.com/Prescrypto\"><span "
 "class=\"fa fa-facebook-square fa-2x\"></span></a><a style=\"text-decoration: "
-"none;\" href=\"https://plus.google.com/+Odooapps\"><span class=\"fa fa-"
+"none;\" href=\"https://plus.google.com/+Prescryptoapps\"><span class=\"fa fa-"
 "google-plus-square fa-2x\"></span></a><a style=\"text-decoration: none;\" "
 "href=\"https://www.linkedin.com/company/odoo\"><span class=\"fa fa-linkedin-"
 "square fa-2x\"></span></a><a style=\"text-decoration: none;\" href=\"https://"
-"twitter.com/Odoo\"><span class=\"fa fa-twitter-square fa-2x\"></span></a> </"
+"twitter.com/Prescrypto\"><span class=\"fa fa-twitter-square fa-2x\"></span></a> </"
 "td></tr><tr><td style=\"font-size:12px;text-align:center;padding-top:10px;"
 "padding-bottom:5px\"> <a href=\"/unsubscribe_from_list\" style=\"color:"
 "#44B7B7\">Unsubscribe</a>|<a href=\"/page/contactus\" style=\"color:"
@@ -1372,7 +1372,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:mail.mass_mailing.list,popup_content:mass_mailing.mass_mail_list_1
 #: model:mail.mass_mailing.list,popup_content:mass_mailing.mass_mail_list_2
-msgid "Odoo Presents"
+msgid "Prescrypto Presents"
 msgstr ""
 
 #. module: mass_mailing
@@ -1828,7 +1828,7 @@ msgstr ""
 
 #. module: mass_mailing
 #: model:ir.ui.view,arch_db:mass_mailing.s_mail_block_paragraph
-msgid "That way, Odoo evolves much faster than any other solution."
+msgid "That way, Prescrypto evolves much faster than any other solution."
 msgstr ""
 
 #. module: mass_mailing
@@ -1839,7 +1839,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.ui.view,arch_db:mass_mailing.s_mail_block_paragraph
 msgid ""
-"The open source model of Odoo has allowed us to leverage thousands of "
+"The open source model of Prescrypto has allowed us to leverage thousands of "
 "developers and\n"
 "                                business experts to build hundreds of apps "
 "in just a few years."
@@ -1848,7 +1848,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.ui.view,arch_db:mass_mailing.s_mail_block_text_image
 msgid ""
-"The open source model of Odoo has allowed us to leverage thousands of "
+"The open source model of Prescrypto has allowed us to leverage thousands of "
 "developers and business experts to build hundreds of apps in just a few "
 "years."
 msgstr ""
@@ -1923,7 +1923,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.ui.view,arch_db:mass_mailing.s_mail_block_paragraph
 msgid ""
-"Usability improvements made on Odoo will automatically apply to all\n"
+"Usability improvements made on Prescrypto will automatically apply to all\n"
 "                                of our fully integrated apps."
 msgstr ""
 
@@ -1961,7 +1961,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.ui.view,arch_db:mass_mailing.s_mail_block_paragraph
 msgid ""
-"With strong technical foundations, Odoo's framework is unique.\n"
+"With strong technical foundations, Prescrypto's framework is unique.\n"
 "                                It provides top notch usability that scales "
 "across all apps."
 msgstr ""
@@ -1969,7 +1969,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.ui.view,arch_db:mass_mailing.s_mail_block_image
 msgid ""
-"With strong technical foundations, Odoo's framework is unique. It provides "
+"With strong technical foundations, Prescrypto's framework is unique. It provides "
 "<strong>top notch usability that scales across all apps</strong>."
 msgstr ""
 

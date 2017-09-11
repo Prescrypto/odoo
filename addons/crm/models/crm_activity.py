@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from odoo import api, fields, models
 
 
 class CrmActivity(models.Model):
-    ''' CrmActivity is a model introduced in Odoo v9 that models activities
+    ''' CrmActivity is a model introduced in Prescrypto v9 that models activities
     performed in CRM, like phone calls, sending emails, making demonstrations,
     ... Users are able to configure their custom activities.
 

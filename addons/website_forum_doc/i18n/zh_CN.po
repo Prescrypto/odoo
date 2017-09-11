@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
@@ -6,7 +6,7 @@
 # Jeffery Chen Fan <jeffery9@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -167,13 +167,13 @@ msgstr "错误！你不能创建循环类别。"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure Odoo"
-msgstr "讲解怎么配置Odoo"
+msgid "Explain how to configure Prescrypto"
+msgstr "讲解怎么配置Prescrypto"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
-msgstr "讲解怎么在Odoo上实施它"
+msgid "Explain how to implement it in Prescrypto"
+msgstr "讲解怎么在Prescrypto上实施它"
 
 #. module: website_forum_doc
 #: model:ir.model.fields,field_description:website_forum_doc.field_forum_documentation_toc_forum_id
@@ -384,8 +384,8 @@ msgstr "阶段名称"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
-msgstr "对于不知道Odoo的人来说答案也得很容易懂"
+msgid "The answer is understandable for someone who does not know Prescrypto"
+msgstr "对于不知道Prescrypto的人来说答案也得很容易懂"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question

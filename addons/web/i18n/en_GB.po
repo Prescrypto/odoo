@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * web
 #
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-04-21 09:34+0000\n"
@@ -982,8 +982,8 @@ msgstr "More"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1272
 #, python-format
-msgid "My Odoo.com account"
-msgstr "My Odoo.com account"
+msgid "My Prescrypto.com account"
+msgstr "My Prescrypto.com account"
 
 #. module: web
 #. openerp-web
@@ -1045,13 +1045,13 @@ msgstr "Object:"
 #. openerp-web
 #: code:addons/web/static/src/js/framework/dialog.js:37
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Prescrypto"
+msgstr "Prescrypto"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
-msgstr "Odoo Web Tests"
+msgid "Prescrypto Web Tests"
+msgstr "Prescrypto Web Tests"
 
 #. module: web
 #. openerp-web
@@ -1674,8 +1674,8 @@ msgstr "You must select at least one record."
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:58
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
-msgstr "Your Odoo session expired. Please refresh the current web page."
+msgid "Your Prescrypto session expired. Please refresh the current web page."
+msgstr "Your Prescrypto session expired. Please refresh the current web page."
 
 #. module: web
 #. openerp-web

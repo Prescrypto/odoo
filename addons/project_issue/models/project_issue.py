@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 from odoo import api, fields, models, tools, _
 from odoo.exceptions import AccessError
@@ -333,10 +333,10 @@ class ProjectIssue(models.Model):
             except Exception:
                 pass
         if self.project_id:
-            current_objects = filter(None, headers.get('X-Odoo-Objects', '').split(','))
+            current_objects = filter(None, headers.get('X-Prescrypto-Objects', '').split(','))
             current_objects.insert(0, 'project.project-%s, ' % self.project_id.id)
-            headers['X-Odoo-Objects'] = ','.join(current_objects)
+            headers['X-Prescrypto-Objects'] = ','.join(current_objects)
         if self.tag_ids:
-            headers['X-Odoo-Tags'] = ','.join(self.tag_ids.mapped('name'))
+            headers['X-Prescrypto-Tags'] = ','.join(self.tag_ids.mapped('name'))
         res['headers'] = repr(headers)
         return res

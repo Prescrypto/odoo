@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * project
 # 
@@ -34,7 +34,7 @@
 # Janire Olagibel <janire.olaguibel@es.gt.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:26+0000\n"
 "PO-Revision-Date: 2017-06-23 13:26+0000\n"
@@ -69,7 +69,7 @@ msgid ""
 "                    <tr>\n"
 "                        <td style=\"padding:15px 10px;font-size:20px\">\n"
 "                            <p dir=\"ltr\" style=\"font-size:15px;margin-top:0pt;margin-bottom:0pt;\">\n"
-"                                <span>Your Odoo Project application is up and running</span></p><br>\n"
+"                                <span>Your Prescrypto Project application is up and running</span></p><br>\n"
 "                            <p dir=\"ltr\" style=\"margin-top:0pt;margin-bottom:8pt;\">\n"
 "                                <span style=\"font-size:13px;font-weight:bold;\">What’s next?</span></p>\n"
 "                            <ul style=\"margin-top:0pt;margin-bottom:0pt;font-size:13px;list-style-type:disc;\">\n"
@@ -133,7 +133,7 @@ msgid ""
 "                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\">\n"
 "                                <span>We would be delighted to assist you along the way. Contact us through our\n"
 "                                <a href=\"https://www.odoo.com/help\">support form</a> if you have any question.\n"
-"                                You can also discover how to get the best out of Odoo Project with our </span>\n"
+"                                You can also discover how to get the best out of Prescrypto Project with our </span>\n"
 "                                <a href=\"https://www.odoo.com/documentation/user/10.0/project.html\">\n"
 "                                <span style=\"text-decoration:underline;\">User Documentation</span></a>\n"
 "                                </span><span> or with our </span>\n"
@@ -141,13 +141,13 @@ msgid ""
 "                                <span style=\"text-decoration:underline;\">API Documentation</span></a>\n"
 "                            </p>\n"
 "                            <br>\n"
-"                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\"><span>Enjoy your Odoo experience,</span></p>\n"
+"                            <p dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;\"><span>Enjoy your Prescrypto experience,</span></p>\n"
 "                        </td>\n"
 "                    </tr>\n"
 "                </tbody>\n"
 "            </table>\n"
 "            <div dir=\"ltr\" style=\"font-size:13px;margin-top:0pt;margin-bottom:8pt;color:grey\">\n"
-"                <span><br/>-- <br/>The Odoo Team<br/>PS: People love Odoo, check </span><a href=\"https://twitter.com/odoo/favorites\"><span style=\"text-decoration:underline;\">what they say about it.</span></a></span>\n"
+"                <span><br/>-- <br/>The Prescrypto Team<br/>PS: People love Prescrypto, check </span><a href=\"https://twitter.com/odoo/favorites\"><span style=\"text-decoration:underline;\">what they say about it.</span></a></span>\n"
 "            </div>\n"
 "        </div>"
 msgstr ""
@@ -216,8 +216,8 @@ msgstr ""
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "- The Odoo Team"
-msgstr "- El equipo de Odoo"
+msgid "- The Prescrypto Team"
+msgstr "- El equipo de Prescrypto"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -421,13 +421,13 @@ msgstr ""
 msgid ""
 "<span class=\"panel-title\">\n"
 "                                            <span class=\"fa fa-tasks\"/>\n"
-"                                            <strong> Directly in Odoo</strong>\n"
+"                                            <strong> Directly in Prescrypto</strong>\n"
 "                                        </span>"
 msgstr ""
 "<span class=\"panel-title\">\n"
 "                                            <span class=\"fa fa-tasks\"/>\n"
 "                                            <strong> \n"
-"Directamente en Odoo</strong>\n"
+"Directamente en Prescrypto</strong>\n"
 "                                        </span>"
 
 #. module: project
@@ -599,10 +599,10 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"<strong>A great feature in Odoo is the integration of a Collaborative Notepad called Etherpad.</strong><br/>\n"
+"<strong>A great feature in Prescrypto is the integration of a Collaborative Notepad called Etherpad.</strong><br/>\n"
 "                            It replaces the standard Description area in Tasks and Issues and is extremely useful for several cases."
 msgstr ""
-"<strong>Una gran funcionalidad de Odoo es la integración de un bloc de notas colaborativo llamado Etherpad</strong><br/>\n"
+"<strong>Una gran funcionalidad de Prescrypto es la integración de un bloc de notas colaborativo llamado Etherpad</strong><br/>\n"
 "Sustituye al área de descripción estándar en tareas y problemas y es extremadamente útil para varios casos."
 
 #. module: project
@@ -660,10 +660,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Be careful about the messages you send</strong><br/>\n"
-"                                    Sending a message through Odoo will automatically send an email containing your message to all the followers including internal employees, external users or customers."
+"                                    Sending a message through Prescrypto will automatically send an email containing your message to all the followers including internal employees, external users or customers."
 msgstr ""
 "<strong>Tenga cuidado con los mensajes que envía</strong> <br/>\n"
-"Enviar un mensaje a través de Odoo enviará automáticamente un correo electrónico con su mensaje a todos los seguidores, incluidos los empleados internos, los usuarios externos y los clientes."
+"Enviar un mensaje a través de Prescrypto enviará automáticamente un correo electrónico con su mensaje a todos los seguidores, incluidos los empleados internos, los usuarios externos y los clientes."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -697,10 +697,10 @@ msgstr "<strong>Contáctenos ahora:</strong><br/>"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Create tasks and issues by email</strong><br/>\n"
-"                                In Odoo, every project has an email alias. If you send an email to this alias, it will automatically create a task or issue in the first stage of the project, with all the email recipients as its default followers."
+"                                In Prescrypto, every project has an email alias. If you send an email to this alias, it will automatically create a task or issue in the first stage of the project, with all the email recipients as its default followers."
 msgstr ""
 "<strong>Crear tareas e incidencias por correo electrónico</strong> <br/>\n"
-"En Odoo cada proyecto tiene un alias de correo electrónico. Si envía un correo electrónico a este alias automáticamente creará una tarea o una incidencia en la primera etapa del proyecto, con todos los destinatarios de correo electrónico como sus seguidores predeterminados."
+"En Prescrypto cada proyecto tiene un alias de correo electrónico. Si envía un correo electrónico a este alias automáticamente creará una tarea o una incidencia en la primera etapa del proyecto, con todos los destinatarios de correo electrónico como sus seguidores predeterminados."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -877,10 +877,10 @@ msgstr "<strong>Acciones recomendadas:</strong>"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Rely on the chatter</strong><br/>\n"
-"                                    Below every Task and Issue (or more generally, below every Document in Odoo) is an area called Chatter."
+"                                    Below every Task and Issue (or more generally, below every Document in Prescrypto) is an area called Chatter."
 msgstr ""
 "<strong> Confíe en el chat</strong> <br/>\n"
-"Debajo de cada tarea o incidencia (en general debajo de cada documento en Odoo) hay un área llamada chat."
+"Debajo de cada tarea o incidencia (en general debajo de cada documento en Prescrypto) hay un área llamada chat."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -953,8 +953,8 @@ msgstr "¿<strong>Qué actividades</strong> quiere gestionar?"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "<strong>What do you expect</strong> from using Odoo Project?"
-msgstr "¿<strong>Qué es lo que espera</strong> al usar Proyectos de Odoo?"
+msgid "<strong>What do you expect</strong> from using Prescrypto Project?"
+msgstr "¿<strong>Qué es lo que espera</strong> al usar Proyectos de Prescrypto?"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -1007,10 +1007,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "A project usually involves many stakeholders, be it the project's sponsor, resources, customers or external contractors. But the most important person in a project is usually the Project Manager.<br/>\n"
-"                    In Odoo, the Project Managers have the responsibility of managing the Kanban view: they ensure smooth progression of the projects, minimal downtime between stages and optimal work distribution between resources."
+"                    In Prescrypto, the Project Managers have the responsibility of managing the Kanban view: they ensure smooth progression of the projects, minimal downtime between stages and optimal work distribution between resources."
 msgstr ""
 "Un proyecto suele involucrar a muchas partes interesadas, ya sea el patrocinador del proyecto, los recursos, los clientes o contratas externas. Pero la persona más importante en un proyecto suele ser el Gerente de Proyecto. <br/>\n"
-"En Odoo los Gerentes de Proyecto tienen la responsabilidad de administrar la vista kanban: aseguran una progresión suave de los proyectos, un tiempo de inactividad mínimo entre etapas y una distribución óptima del trabajo entre los recursos."
+"En Prescrypto los Gerentes de Proyecto tienen la responsabilidad de administrar la vista kanban: aseguran una progresión suave de los proyectos, un tiempo de inactividad mínimo entre etapas y una distribución óptima del trabajo entre los recursos."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_task_kanban_state
@@ -1315,11 +1315,11 @@ msgstr "Bloqueada"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "But because change is never easy, we've created this Planner to guide you.<br/>\n"
-"                        For example, you'll understand why you shouldn’t use Odoo to plan but instead to\n"
+"                        For example, you'll understand why you shouldn’t use Prescrypto to plan but instead to\n"
 "                        collaborate, or why organizing your projects by role is wrong."
 msgstr ""
 "Pero como el cambio nunca es fácil, hemos creado este planificador para guiarle.<br/>\n"
-"Por ejemplo, entenderá por qué no debería usar Odoo para planificar sino para\n"
+"Por ejemplo, entenderá por qué no debería usar Prescrypto para planificar sino para\n"
 "colaborar, o por qué la organización de sus proyectos por rol es incorrecta."
 
 #. module: project
@@ -1494,7 +1494,7 @@ msgstr "Configurar proyecto"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Congratulations on choosing Odoo Project to help running your company more "
+"Congratulations on choosing Prescrypto Project to help running your company more "
 "efficiently!"
 msgstr "¡Enhorabuena!"
 
@@ -1602,10 +1602,10 @@ msgstr "Creado el"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Creating Tasks and/or Issues is the next step in managing your Projects.<br/>\n"
-"                        In Odoo, it is pretty straightforward, but here are some explanations you may find useful."
+"                        In Prescrypto, it is pretty straightforward, but here are some explanations you may find useful."
 msgstr ""
 "Crear tareas y/o incidencias es el siguiente paso en la gestión de sus Proyectos.<br/>\n"
-"En Odoo es bastante sencillo, pero aquí hay algunas explicaciones que pueden ser útiles."
+"En Prescrypto es bastante sencillo, pero aquí hay algunas explicaciones que pueden ser útiles."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.view_task_project_user_search
@@ -1733,11 +1733,11 @@ msgstr "Suprimir"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Depending on what you need and how you want to operate, there are several "
-"ways to work with Odoo. First, decide if you want to think in terms of tasks"
+"ways to work with Prescrypto. First, decide if you want to think in terms of tasks"
 " or issues. Then, activate the Timesheets app if you need it."
 msgstr ""
 "Dependiendo de lo que necesita y de cómo desea operar, hay varias maneras de"
-" trabajar con Odoo. En primer lugar decida si desea pensar en términos de "
+" trabajar con Prescrypto. En primer lugar decida si desea pensar en términos de "
 "tareas o incidencias. A continuación active la aplicación  de partes de "
 "trabajo si la necesita."
 
@@ -1940,20 +1940,20 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Even if there is no specific field in Odoo, it's important to define a person responsible for each stage of your Project.<br/>\n"
+"Even if there is no specific field in Prescrypto, it's important to define a person responsible for each stage of your Project.<br/>\n"
 "                        This person will have the responsibility for validating each stage and ensuring that the requirements to move to the next stage are met."
 msgstr ""
-"Incluso si no hay un campo específico en Odoo, es importante establecer una persona responsable de cada etapa de su Proyecto. <br/>\n"
+"Incluso si no hay un campo específico en Prescrypto, es importante establecer una persona responsable de cada etapa de su Proyecto. <br/>\n"
 "Esta persona tendrá la responsabilidad de validar cada etapa y asegurar que se cumplan los requisitos para pasar a la siguiente etapa."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Every business is different.<br/>\n"
-"                    Odoo allows you to customize every application and it's usually a good idea to customize screens to fit your project needs."
+"                    Prescrypto allows you to customize every application and it's usually a good idea to customize screens to fit your project needs."
 msgstr ""
 "Cada negocio es diferente. <br/>\n"
-"Odoo le permite personalizar cada aplicación y suele ser una buena idea personalizar pantallas para adaptarse a sus necesidades de proyecto."
+"Prescrypto le permite personalizar cada aplicación y suele ser una buena idea personalizar pantallas para adaptarse a sus necesidades de proyecto."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2047,10 +2047,10 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
-"De parte del equipo Odoo,<br/>\n"
+"De parte del equipo Prescrypto,<br/>\n"
 "Fabien Pinckaers, Fundador"
 
 #. module: project
@@ -2085,8 +2085,8 @@ msgstr ""
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Get full synchronization with Odoo"
-msgstr "Consiga la completa sincronización con Odoo"
+msgid "Get full synchronization with Prescrypto"
+msgstr "Consiga la completa sincronización con Prescrypto"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2349,10 +2349,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Internal notes are messages that will appear in the Chatter but will not be "
-"notified in Odoo's Inbox."
+"notified in Prescrypto's Inbox."
 msgstr ""
 "Las notas internas son mensajes que aparecerán en el chat pero que no serán "
-"notificados en la bandeja de entrada de Odoo."
+"notificados en la bandeja de entrada de Prescrypto."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2407,19 +2407,19 @@ msgstr ""
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"It is time to think about how you will transform your activities into real projects in Odoo.<br/>\n"
+"It is time to think about how you will transform your activities into real projects in Prescrypto.<br/>\n"
 "                        For that, the most important part is defining the stages of your projects. Stages are the different steps a task or an issue can go through, from its creation to its ending. They will appear in what we call the 'Kanban' view of your projects."
 msgstr ""
-"Es tiempo de pensar en como quieres transformar tus actividades en proyectos reales en Odoo.<br/>\n"
+"Es tiempo de pensar en como quieres transformar tus actividades en proyectos reales en Prescrypto.<br/>\n"
 "Para esto, la parte mas importante es definir las tapas del proyecto. Las etapas son los pasos de la tarea o incidencia por donde pasan, des de la creación hasta el final. Aparecerán la vista 'Kanban' de sus proyecto."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"It's essential to be clear about why you want to use Odoo Project and what your goals are.\n"
+"It's essential to be clear about why you want to use Prescrypto Project and what your goals are.\n"
 "                        Indeed, there are many ways to manage a project, to find the best one for you, you need to know exactly what you want to achieve. And later on, we will hopefully transform your objectives into real improvements for your company."
 msgstr ""
-"Es esencial ser claro sobre cuando tu quieres utilizar el proyecto Odoo y quienes son tus metas.\n"
+"Es esencial ser claro sobre cuando tu quieres utilizar el proyecto Prescrypto y quienes son tus metas.\n"
 "En efecto hay muchas formas de gestionar un proyecto, encontrar el mejor para ti, necesitas saber exactamente que necesitas conseguir. Y más tarde, esperar transformar los objetivos en mejoras reales para tu compañía."
 
 #. module: project
@@ -2599,14 +2599,14 @@ msgid ""
 "Managing notifications is essential: too few and you risk missing critical "
 "information, too many and you will be  overloaded with unnecessary "
 "information. The trick is to find the right balance between the projects, "
-"stages and tasks you want to be informed about. Fortunately, Odoo Project "
+"stages and tasks you want to be informed about. Fortunately, Prescrypto Project "
 "has many levels of notifications and messages you can choose from."
 msgstr ""
 "Gestionar notificaciones es esencial: demasiado pocos y te arriesgaras a "
 "perder información critica, demasiada y te sobrecargaras información "
 "innecesaria. El truco se encuentra en el equilibrio adecuado entre "
 "proyectos, etapas y tareas que quieras estar informado. Afortunadamente, el "
-"proyecto Odoo tiene muchos niveles de notificación y mensajes que puedes "
+"proyecto Prescrypto tiene muchos niveles de notificación y mensajes que puedes "
 "elegir."
 
 #. module: project
@@ -2747,11 +2747,11 @@ msgstr "Número de documentos adjuntos"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Odoo Project is a super fast and easy way to make your activities and tasks visible to\n"
+"Prescrypto Project is a super fast and easy way to make your activities and tasks visible to\n"
 "                        everyone in your company. Follow how things progress, see when things are stuck, know\n"
 "                        who's in charge, all in one place."
 msgstr ""
-"El proyecto de Odoo es una forma muy fácil de hacer sus tareas y actividades"
+"El proyecto de Prescrypto es una forma muy fácil de hacer sus tareas y actividades"
 " visibles para todos en su compañía. Siga como progresa las cosas, vea "
 "cuando las cosas están atascadas, conozca que esta al cargo, todo en un "
 "sitio."
@@ -2759,19 +2759,19 @@ msgstr ""
 #. module: project
 #: model:ir.model.fields,help:project.field_project_config_settings_generate_project_alias
 msgid ""
-"Odoo will generate an email alias at the project creation from project name."
+"Prescrypto will generate an email alias at the project creation from project name."
 msgstr ""
-"Odoo generará un alias de email en la creación del proyecto desde el nombre "
+"Prescrypto generará un alias de email en la creación del proyecto desde el nombre "
 "del proyecto."
 
 #. module: project
 #: model:ir.actions.act_window,help:project.action_view_task
 msgid ""
-"Odoo's project management allows you to manage the pipeline of your tasks "
+"Prescrypto's project management allows you to manage the pipeline of your tasks "
 "efficiently. You can track progress, discuss on tasks, attach documents, "
 "etc."
 msgstr ""
-"La gestión de proyectos de Odoo permite gestionar la cola de las tareas "
+"La gestión de proyectos de Prescrypto permite gestionar la cola de las tareas "
 "eficientemente. Puede seguir el proceso, discutir con las tareas, adjuntar "
 "documentos, etc."
 
@@ -3203,8 +3203,8 @@ msgstr "Responsabilidad"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Runs outside Odoo, always available"
-msgstr "Funciona fuera de Odoo, siempre disponible"
+msgid "Runs outside Prescrypto, always available"
+msgstr "Funciona fuera de Prescrypto, siempre disponible"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -3546,9 +3546,9 @@ msgstr "Análisis de tareas"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Tasks are the main mechanism in Odoo and are activated by default."
+msgid "Tasks are the main mechanism in Prescrypto and are activated by default."
 msgstr ""
-"Las tareas son el mecanismo principal de Odoo y están activadas por defecto."
+"Las tareas son el mecanismo principal de Prescrypto y están activadas por defecto."
 
 #. module: project
 #: model:ir.model,name:project.model_report_project_task_user
@@ -3579,14 +3579,14 @@ msgstr "Testeo"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"The Odoo Project app can be used to manage many activities, from the "
+"The Prescrypto Project app can be used to manage many activities, from the "
 "development of a new product to the daily operations of a customer support. "
 "With some creativity, it can even be used to manage your marketing "
 "communications or personal projects. But just because it can be done doesn't"
 " mean it's always a good idea: let's start by helping you understand what "
 "can be a good project."
 msgstr ""
-"El app de Proyecto Odoo puede ser utilizada para gestionar muchas "
+"El app de Proyecto Prescrypto puede ser utilizada para gestionar muchas "
 "actividades, des del desarrollo de un nuevo producto a las operaciones "
 "diarias del soporte de cliente. Con un poco de creatividad, puede incluso "
 "ser usado para gestionar las comunicaciones de marketing o proyectos "
@@ -3605,11 +3605,11 @@ msgstr ""
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Prescrypto Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"El modelo (Tipo de documento de Odoo) al que corresponde este seudónimo. "
+"El modelo (Tipo de documento de Prescrypto) al que corresponde este seudónimo. "
 "Cualquier correo entrante que no sea respuesta a un registro existente, "
 "causará la creación de un nuevo registro de este modelo (por ejemplo, una "
 "tarea de proyecto)."
@@ -3748,11 +3748,11 @@ msgstr "Parte de horas UdM"
 msgid ""
 "Timesheets are often essential for running a company.<br/>\n"
 "                    They are also prone to human error, repetitive, annoying, and sometimes stressful to employees.<br/>\n"
-"                    Fortunately, Odoo has several solutions to make them as efficient and painless as possible!<br/>"
+"                    Fortunately, Prescrypto has several solutions to make them as efficient and painless as possible!<br/>"
 msgstr ""
 "Los partes de horas son a menudo esenciales para dirigir una empresa.<br/>\n"
 "Estas son también propensas al error humano, repetitivas, molestas y a veces estresantes para el trabajador. <br/>\n"
-"Afortunadamente, Odoo tiene diversas soluciones para hacerlas tan eficientes y sin problemas como sea posible.<br/>"
+"Afortunadamente, Prescrypto tiene diversas soluciones para hacerlas tan eficientes y sin problemas como sea posible.<br/>"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -4144,8 +4144,8 @@ msgstr "Sus Objetivos"
 
 #. module: project
 #: model:mail.template,subject:project.mail_template_data_module_install_project
-msgid "Your Odoo Project application is up and running"
-msgstr "Su aplicación Odoo Project está en marcha y funcionando"
+msgid "Your Prescrypto Project application is up and running"
+msgstr "Su aplicación Prescrypto Project está en marcha y funcionando"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner

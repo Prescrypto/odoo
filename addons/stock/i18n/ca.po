@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -13,7 +13,7 @@
 # Gemma Bochaca <gemma.bochaca@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-22 14:03+0000\n"
 "PO-Revision-Date: 2016-11-22 14:03+0000\n"
@@ -134,8 +134,8 @@ msgstr ", si els mòduls de comptabilitat o de compra estan instal·lats"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- L'equip d'Odoo"
+msgid "- The Prescrypto Team"
+msgstr "- L'equip d'Prescrypto"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -475,8 +475,8 @@ msgstr "<strong>Destí</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
-msgstr "<strong>Gaudeixi la seva gestió d'inventari amb Odoo!</strong>"
+msgid "<strong>Enjoy your Inventory management with Prescrypto!</strong>"
+msgstr "<strong>Gaudeixi la seva gestió d'inventari amb Prescrypto!</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -1116,18 +1116,18 @@ msgstr "Amb un únic Número de Sèrie"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
+"Prescrypto will not automatically generate a back order."
 msgstr ""
 "Canviant aquesta quantitat aquí, accepta la nova quantitat com completa: "
-"Odoo no generarà automàticament una entrega parcial."
+"Prescrypto no generarà automàticament una entrega parcial."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, Prescrypto measures products by 'units', which are generic and "
 "represent just about anything"
 msgstr ""
-"Per defecte, Odoo mesura els productes per \"unitats\", que són genèric i "
+"Per defecte, Prescrypto mesura els productes per \"unitats\", que són genèric i "
 "representen quasi qualsevol cosa"
 
 #. module: stock
@@ -1938,14 +1938,14 @@ msgstr ""
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"            organization. Odoo is able to manage physical locations\n"
+"            organization. Prescrypto is able to manage physical locations\n"
 "            (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "            vendors) and virtual locations which are the counterpart of\n"
 "            the stock operations like the manufacturing orders\n"
 "            consumptions, inventories, etc."
 msgstr ""
 "Defineixi les seves ubicacions per reflectir la seva estructura de magatzem "
-"i organització. Odoo és capaç de gestionar ubicacions físiques (magatzems, "
+"i organització. Prescrypto és capaç de gestionar ubicacions físiques (magatzems, "
 "estanteries, cubs, etc.), ubicacions de socis (clients, proveïdors) i "
 "ubicacions virtuals que són la contrapartida de les operacions d'estoc com "
 "les ordres de fabricació consum, inventaris, etc."
@@ -2278,14 +2278,14 @@ msgstr "Clients europeus"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in Prescrypto moves the products from one\n"
 "            location to another one.  For instance, if you receive products\n"
-"            from a vendor, Odoo will move products from the Vendor\n"
+"            from a vendor, Prescrypto will move products from the Vendor\n"
 "            location to the Stock location. Each report can be performed on\n"
 "            physical, partner or virtual locations."
 msgstr ""
-"Cada operació d'estoc en Odoo mou els productes d'una ubicació a una altra. "
-"Per exemple, si rep productes d'un proveïdor, Odoo mourà els productes de la"
+"Cada operació d'estoc en Prescrypto mou els productes d'una ubicació a una altra. "
+"Per exemple, si rep productes d'un proveïdor, Prescrypto mourà els productes de la"
 " ubicació Proveïdor a la ubicació d'estoc. Es pot analitzar informes per "
 "ubicacions físiques, de tercers o virtuals."
 
@@ -2377,10 +2377,10 @@ msgstr "Ubicacions fixes per categoria de producte"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the Prescrypto Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
 msgstr ""
-"De part del equip Odoo,<br/>\n"
+"De part del equip Prescrypto,<br/>\n"
 "Fabien Pinckaers, Fundador"
 
 #. module: stock
@@ -2831,12 +2831,12 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, Prescrypto automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
 msgstr ""
-"Si va configurar l'abastiment automàtic, Odoo genera automàticament ordres "
+"Si va configurar l'abastiment automàtic, Prescrypto genera automàticament ordres "
 "d'abastiment. Generalment no necessita preocupar-se per ells, però a vegades"
 " el sistema pot romandre bloquejats sense generar el document corresponent "
 "habitualment degut a un problema de configuració."
@@ -2893,12 +2893,12 @@ msgstr "Import utilitzant el botó superior esquerra en"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In Prescrypto, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        Prescrypto will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
 msgstr ""
-"A Odoo, <strong>les Regles d'aprovisionament</strong> s'utilitzen per "
-"reposar els seus productes. Odoo proposarà automàticament una compra per "
+"A Prescrypto, <strong>les Regles d'aprovisionament</strong> s'utilitzen per "
+"reposar els seus productes. Prescrypto proposarà automàticament una compra per "
 "comprar noves"
 
 #. module: stock
@@ -3275,10 +3275,10 @@ msgstr "És una ubicació de ferralla?"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
+"                        If you want to do that, contact your Prescrypto project manager."
 msgstr ""
 "També és possible importar el seu inventari inicial des d'un arxiu Excel o "
-"CSV. Si desitja realitzar-lo, contacti amb el seu gestor de projecte Odoo."
+"CSV. Si desitja realitzar-lo, contacti amb el seu gestor de projecte Prescrypto."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -3479,10 +3479,10 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, Prescrypto inventory management is\n"
 "                        fully integrated with the purchase app."
 msgstr ""
-"A l'igual que amb el flux de vendes, la gestió d'inventari d'Odoo està "
+"A l'igual que amb el flux de vendes, la gestió d'inventari d'Prescrypto està "
 "completament integrada amb l'aplicació de compres."
 
 #. module: stock
@@ -3904,11 +3904,11 @@ msgstr "Més informació"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by Prescrypto according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
 msgstr ""
-"La majoria de les operacions són preparades automàticament per Odoo segons "
+"La majoria de les operacions són preparades automàticament per Prescrypto segons "
 "les regles de logística preconfigurades però també pot registrar moviments "
 "manuals d'existències."
 
@@ -4186,47 +4186,47 @@ msgstr "D'acord"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"Prescrypto handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
 msgstr ""
-"Odoo gestiona <strong>configuració avançada de rutes push/pull</strong>, per"
+"Prescrypto gestiona <strong>configuració avançada de rutes push/pull</strong>, per"
 " exemple:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
-msgstr "Odoo ha preconfigurat <strong>un magatzem</strong> per vostè."
+msgid "Prescrypto has preconfigured <strong>one Warehouse</strong> for you."
+msgstr "Prescrypto ha preconfigurat <strong>un magatzem</strong> per vostè."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"Prescrypto inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
 msgstr ""
-"La gestió de l'inventari en Odoo està completament integrada amb els "
+"La gestió de l'inventari en Prescrypto està completament integrada amb els "
 "processos de venda i facturació. Tot està automatitzat, des del pressupost "
 "inicial fins a la factura definitiva."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"Prescrypto is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
 msgstr ""
-"Odoo és capaç d'executar la traçabilitat avançada mitjançant l'ús de números"
+"Prescrypto és capaç d'executar la traçabilitat avançada mitjançant l'ús de números"
 " de Lots/Sèries de productes, generalment identificades per codi de barres "
 "enganxades als productes"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that Prescrypto is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
 msgstr ""
 "Per descomptat, senti's lliure d'afegir la seva pròpia unitat. Tingui en "
-"compte que Odoo és capaç de convertir unitats dins la mateixa categoria, per"
+"compte que Prescrypto és capaç de convertir unitats dins la mateixa categoria, per"
 " exemple, litres a galons en la categoria de volum"
 
 #. module: stock
@@ -6627,10 +6627,10 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with Prescrypto Inventory.\n"
 "                        Once you are done, you will benefit from:"
 msgstr ""
-"Aquesta guia ajuda a començar amb Odoo Inventory.\n"
+"Aquesta guia ajuda a començar amb Prescrypto Inventory.\n"
 "Un cop hagi acabat, vostè es beneficiarà de:"
 
 #. module: stock
@@ -7358,30 +7358,30 @@ msgstr "Avís!"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr ""
 "Realitzem el procés d'importació per vostè:\n"
 "simplement mani un arxiu CSV al seu gestor de projecte\n"
-" en Odoo amb totes les seves dades."
+" en Prescrypto amb totes les seves dades."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your Prescrypto project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr ""
 "Realitzem el procés d'importació per vostè:\n"
 "simplement mani un arxiu CSV al seu gestor de projecte\n"
-"en Odoo amb tots els seus productes."
+"en Prescrypto amb tots els seus productes."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
-msgstr "Esperem que aquesta guia l'ajuda a implementar Odoo Inventory"
+msgid "We hope this guide helped you implement Prescrypto Inventory."
+msgstr "Esperem que aquesta guia l'ajuda a implementar Prescrypto Inventory"
 
 #. module: stock
 #: code:addons/stock/models/barcode.py:11
@@ -7442,21 +7442,21 @@ msgstr ""
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" Prescrypto generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
 "Quan les existències virtuals estiguin per sota de la quantitat mínima "
-"especificada en aquest camp, Odoo generarà un abastiment per portar la "
+"especificada en aquest camp, Prescrypto generarà un abastiment per portar la "
 "quantitat prevista a la quantitat màxima."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Prescrypto generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
-"Quan les existències virtuals estiguin per sota de la quantitat, Odoo "
+"Quan les existències virtuals estiguin per sota de la quantitat, Prescrypto "
 "generarà un abastiment per portar la quantitat prevista a la quantitat "
 "especificada com aquí com màxima."
 
@@ -7509,18 +7509,18 @@ msgstr ""
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that Prescrypto will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, Prescrypto will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
 msgstr ""
-"Pot definir les seves regles d'estoc mínim, de forma que Odoo creí "
+"Pot definir les seves regles d'estoc mínim, de forma que Prescrypto creí "
 "automàticament ordres de fabricació esborrany o sol·liciti cotitzacions "
 "d'acord amb el nivell d'existències. Un cop que l'estoc virtual d'un "
 "producte (= estic disponible menys tots els perduts i reserves confirmades) "
-"estigui per sota de la quantitat mínim, Odoo generarà una sol·licitud "
+"estigui per sota de la quantitat mínim, Prescrypto generarà una sol·licitud "
 "d'abastiment per augmentar l'estoc fins a la quantitat màxima."
 
 #. module: stock
@@ -7718,10 +7718,10 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed (<i>done</i>) quantities. Click <i>apply</i> and\n"
-"                        Odoo will process all quantities to do."
+"                        Prescrypto will process all quantities to do."
 msgstr ""
 "No ha introduït quantitats processades (<i>fet</i>). Faci clic en "
-"<i>aplicar</i> i Odoo processarà totes les quantitats restants."
+"<i>aplicar</i> i Prescrypto processarà totes les quantitats restants."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_picking_return.py:43
@@ -7842,21 +7842,21 @@ msgstr "p. ex. PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
+"Prescrypto do it automatically while validating"
 msgstr ""
 "ja sigui mitjançant l'actualització manual de la quantitat Feta en les "
-"línies de productes, o deixar que Odoo ho faci automàticament al validar"
+"línies de productes, o deixar que Prescrypto ho faci automàticament al validar"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the Prescrypto Barcode app, or let Prescrypto do it automatically while "
 "validating"
 msgstr ""
 "ja sigui mitjançant l'actualització manual de la quantitat Feta en les "
-"línies de productes, o escanejar-les amb l'aplicació de codi de barres Odoo,"
-" o deixar que Odoo ho faci automàticament al validar"
+"línies de productes, o escanejar-les amb l'aplicació de codi de barres Prescrypto,"
+" o deixar que Prescrypto ho faci automàticament al validar"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner

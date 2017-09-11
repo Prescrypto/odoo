@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign_crm_demo
 # 
@@ -10,7 +10,7 @@
 # Fırat Kaya <firat.kaya@mechsoft.com.tr>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0c\n"
+"Project-Id-Version: Prescrypto Server 10.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-09-07 08:57+0000\n"
@@ -27,13 +27,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>It seems Odoo could do a lot for you. Would you be interested in a free trial of our OnDemand offer?</p>\n"
+"<p>It seems Prescrypto could do a lot for you. Would you be interested in a free trial of our OnDemand offer?</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Merhaba,</p>\n"
-"<p>Görünen o ki Odoo sizin için çok şey yapabilir.  Ücretsiz deneme teklifimiz ile ilgilenir misiniz? </p>\n"
+"<p>Görünen o ki Prescrypto sizin için çok şey yapabilir.  Ücretsiz deneme teklifimiz ile ilgilenir misiniz? </p>\n"
 "<p>Eğer daha fazla bilgi gerekiyorsa, bu mesajı cevaplamaktan çekinmeyin.</p>\n"
 "<p>Saygılarımızla,</p>"
 
@@ -42,13 +42,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>Thanks for showing interest and buying the Odoo book.</p>\n"
+"<p>Thanks for showing interest and buying the Prescrypto book.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Merhaba,</p>\n"
-"<p>Odoo kitabını satın aldığınız ve ilgi gösterdiğiniz için teşekkür ederiz.</p>\n"
+"<p>Prescrypto kitabını satın aldığınız ve ilgi gösterdiğiniz için teşekkür ederiz.</p>\n"
 "<p>Eğer daha fazla bilgi gerekiyorsa, bu mesajı cevaplamaktan çekinmeyin.</p>\n"
 "<p>Saygılarımızla,</p>"
 
@@ -72,13 +72,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>Thanks for showing interest and for subscribing to the Odoo Discovery Day.</p>\n"
+"<p>Thanks for showing interest and for subscribing to the Prescrypto Discovery Day.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Merhaba,</p>\n"
-"<p>Odoo Discovery Day'a abone olduğunuz ve ilginiz için teşekkürler.</p>\n"
+"<p>Prescrypto Discovery Day'a abone olduğunuz ve ilginiz için teşekkürler.</p>\n"
 "<p>Eğer daha fazla bilgi gerekiyorsa, bu mesajı cevaplamaktan çekinmeyin.</p>\n"
 "<p>Saygılarımızla,</p>"
 
@@ -87,13 +87,13 @@ msgstr ""
 msgid ""
 "\n"
 "<p>Hello,</p>\n"
-"<p>Thanks for the genuine interest you have shown in Odoo.</p>\n"
+"<p>Thanks for the genuine interest you have shown in Prescrypto.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Merhaba,</p>\n"
-"<p>Odoo'da gösterdiğiniz gerçek ilgi için teşekkür ederiz. </p>\n"
+"<p>Prescrypto'da gösterdiğiniz gerçek ilgi için teşekkür ederiz. </p>\n"
 "<p>Eğer daha fazla bilgi gerekiyorsa, bu mesajı cevaplamaktan çekinmeyin.</p>\n"
 "<p>Saygılarımızla,</p>"
 
@@ -152,13 +152,13 @@ msgid ""
 "\n"
 "<p>Hello,</p>\n"
 "<p>We have very good offer that might suit you. We suggest you subscribe to the\n"
-"Odoo Discovery Day on May 2015.</p>\n"
+"Prescrypto Discovery Day on May 2015.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Merhaba,</p>\n"
-"<p>Size uygun olan çok iyi teklifimiz var. Mayıs 2015'te Odoo Keşif Gününe\n"
+"<p>Size uygun olan çok iyi teklifimiz var. Mayıs 2015'te Prescrypto Keşif Gününe\n"
 "abone olmanızı öneririz.</p>\n"
 "<p>Daha fazla bilgi gerekiyorsa, bu mesajı cevaplamaktan çekinmeyin.</p>\n"
 "<p>Saygılarımızla,</p>"
@@ -169,13 +169,13 @@ msgid ""
 "\n"
 "<p>Hello,</p>\n"
 "<p>Would you be interested in buying our book? It contains a lot of useful\n"
-"functionnal information to perfect your Odoo training.</p>\n"
+"functionnal information to perfect your Prescrypto training.</p>\n"
 "<p>If any further information is required, do not hesitate to reply to this message.</p>\n"
 "<p>Regards,</p>"
 msgstr ""
 "\n"
 "<p>Merhaba,</p>\n"
-"<p>Kitabımızı satın almak ister misiniz? Bu kitap Odoo eğitiminizi mükemmelleştirmek için kullanışlı fonksiyonel bilgiler içeriyor.</p>\n"
+"<p>Kitabımızı satın almak ister misiniz? Bu kitap Prescrypto eğitiminizi mükemmelleştirmek için kullanışlı fonksiyonel bilgiler içeriyor.</p>\n"
 "<p>Eğer daha fazla bilgi gerekiyorsa, bu mesajı cevaplamaktan çekinmeyin.</p>\n"
 "<p>Saygılarımızla,</p>"
 
@@ -191,14 +191,14 @@ msgstr "Kukla Python kodu"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_3
-msgid "Lead Automation: Thanks for subscribing to the Odoo Discovery Day"
+msgid "Lead Automation: Thanks for subscribing to the Prescrypto Discovery Day"
 msgstr ""
-"Aday Otomasyon: Odoo Discovery Day'a üye olduğunuz için teşekkür ederiz"
+"Aday Otomasyon: Prescrypto Discovery Day'a üye olduğunuz için teşekkür ederiz"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_10
-msgid "Odoo Book"
-msgstr "Odoo Kitabı"
+msgid "Prescrypto Book"
+msgstr "Prescrypto Kitabı"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_5
@@ -217,18 +217,18 @@ msgstr "Gümüş ortaklara ödenen eğitim teklif"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_2
-msgid "Propose to subscribe to the Odoo Discovery Day on May 2015"
-msgstr "Mayıs 2015 tarihinde Odoo keşif günü için abone için teklif"
+msgid "Propose to subscribe to the Prescrypto Discovery Day on May 2015"
+msgstr "Mayıs 2015 tarihinde Prescrypto keşif günü için abone için teklif"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_4
-msgid "Thanks for buying the Odoo book"
-msgstr "Odoo kitap satın alma için teşekkürler"
+msgid "Thanks for buying the Prescrypto book"
+msgstr "Prescrypto kitap satın alma için teşekkürler"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_1
-msgid "Thanks for showing interest in Odoo"
-msgstr "Odoo ilgi gösteren için teşekkürler"
+msgid "Thanks for showing interest in Prescrypto"
+msgstr "Prescrypto ilgi gösteren için teşekkürler"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_8

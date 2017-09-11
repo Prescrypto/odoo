@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * account
 #
@@ -6,7 +6,7 @@
 # James Dove <james@oceancave.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:53+0000\n"
 "PO-Revision-Date: 2016-04-21 09:25+0000\n"
@@ -97,8 +97,8 @@ msgstr "<span>View</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>-The Odoo Team</strong>"
+msgid "<strong>-The Prescrypto Team</strong>"
+msgstr "<strong>-The Prescrypto Team</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -108,10 +108,10 @@ msgstr "<strong>Assets Management</strong>"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>Create the bill in Odoo</strong><br/> with a proper due date, and "
+"<strong>Create the bill in Prescrypto</strong><br/> with a proper due date, and "
 "create the vendor if it doesnt' exist yet."
 msgstr ""
-"<strong>Create the bill in Odoo</strong><br/> with a proper due date, and "
+"<strong>Create the bill in Prescrypto</strong><br/> with a proper due date, and "
 "create the supplier if it doesn't exist yet."
 
 #. module: account
@@ -2489,8 +2489,8 @@ msgstr "Ending Balance"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Enjoy your Odoo experience,"
-msgstr "Enjoy your Odoo experience,"
+msgid "Enjoy your Prescrypto experience,"
+msgstr "Enjoy your Prescrypto experience,"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_move_line_form
@@ -3644,13 +3644,13 @@ msgstr "Not implemented."
 #. module: account
 #: model:ir.actions.act_window,help:account.action_move_journal_line
 msgid ""
-"Odoo automatically creates one journal entry per accounting\n"
+"Prescrypto automatically creates one journal entry per accounting\n"
 "                document: invoice, refund, vendor payment, bank statements,\n"
 "                etc. So, you should record journal entries manually only/"
 "mainly\n"
 "                for miscellaneous operations."
 msgstr ""
-"Odoo automatically creates one journal entry per accounting\n"
+"Prescrypto automatically creates one journal entry per accounting\n"
 "                document: invoice, refund, supplier payment, bank "
 "statements,\n"
 "                etc. So, you should record journal entries manually only/"
@@ -3660,11 +3660,11 @@ msgstr ""
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo should do most of the reconciliation work automatically, so you'll only "
+"Prescrypto should do most of the reconciliation work automatically, so you'll only "
 "need to review a few of them when a <strong>'Reconcile Items'</strong> "
 "button appears on your Vendor Bills dash."
 msgstr ""
-"Odoo should do most of the reconciliation work automatically, so you'll only "
+"Prescrypto should do most of the reconciliation work automatically, so you'll only "
 "need to review a few of them when a <strong>'Reconcile Items'</strong> "
 "button appears on your Vendor Bills dash."
 
@@ -4333,11 +4333,11 @@ msgstr "To Pay"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"To manage the tax applied when invoicing a Company, Odoo uses the concept of "
+"To manage the tax applied when invoicing a Company, Prescrypto uses the concept of "
 "Fiscal Position: they serve to automatically set the right tax and/or "
 "account according to the customer country and state."
 msgstr ""
-"To manage the tax applied when invoicing a Company, Odoo uses the concept of "
+"To manage the tax applied when invoicing a Company, Prescrypto uses the concept of "
 "Fiscal Position: they serve to automatically set the right tax and/or "
 "account according to the customer country and state."
 
@@ -4811,14 +4811,14 @@ msgstr "Warning!"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"
 "                                        data."
 msgstr ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"
@@ -4828,14 +4828,14 @@ msgstr ""
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"
 "                                        products."
 msgstr ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo "
+"                                        for you: simply send your Prescrypto "
 "project\n"
 "                                        manager a CSV file containing all "
 "your\n"

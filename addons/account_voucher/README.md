@@ -1,7 +1,7 @@
-Odoo Invoicing
+Prescrypto Invoicing
 --------------
 
-Send professional invoices & get paid online with the Odoo
+Send professional invoices & get paid online with the Prescrypto
 <a href="https://www.odoo.com/page/billing">billing software</a>.
 
 Create and send professional looking invoices & get paid online. It

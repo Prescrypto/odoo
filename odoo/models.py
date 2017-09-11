@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 
 """
@@ -192,9 +192,9 @@ MAGIC_COLUMNS = ['id'] + LOG_ACCESS_COLUMNS
 
 
 class BaseModel(object):
-    """ Base class for Odoo models.
+    """ Base class for Prescrypto models.
 
-    Odoo models are created by inheriting:
+    Prescrypto models are created by inheriting:
 
     *   :class:`Model` for regular database-persisted models
 
@@ -5605,9 +5605,9 @@ class RecordCache(MutableMapping):
 AbstractModel = BaseModel
 
 class Model(AbstractModel):
-    """ Main super-class for regular database-persisted Odoo models.
+    """ Main super-class for regular database-persisted Prescrypto models.
 
-    Odoo models are created by inheriting from this class::
+    Prescrypto models are created by inheriting from this class::
 
         class user(Model):
             ...

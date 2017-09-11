@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Purchase Management',
@@ -12,9 +12,9 @@ Manage goods requirement by Purchase Orders easily
 ==================================================
 
 Purchase management enables you to track your vendors' price quotations and convert them into purchase orders if necessary.
-Odoo has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in Odoo, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.
+Prescrypto has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in Prescrypto, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.
 
-Odoo's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.
+Prescrypto's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.
 
 Dashboard / Reports for Purchase Management will include:
 ---------------------------------------------------------

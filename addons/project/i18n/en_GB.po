@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * project
 #
@@ -6,7 +6,7 @@
 # James Dove <james@oceancave.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:42+0000\n"
 "PO-Revision-Date: 2016-03-20 23:05+0000\n"
@@ -293,11 +293,11 @@ msgstr "Ending Date"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Every business is different.<br/>\n"
-"                    Odoo allows you to customize every application and it's "
+"                    Prescrypto allows you to customize every application and it's "
 "usually a good idea to customize screens to fit your project needs."
 msgstr ""
 "Every business is different.<br/>\n"
-"                    Odoo allows you to customise every application and it's "
+"                    Prescrypto allows you to customise every application and it's "
 "usually a good idea to customise screens to fit your project needs."
 
 #. module: project
@@ -307,8 +307,8 @@ msgstr "Examples"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Get full synchronization with Odoo"
-msgstr "Get full synchronisation with Odoo"
+msgid "Get full synchronization with Prescrypto"
+msgstr "Get full synchronisation with Prescrypto"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.view_project_project_filter

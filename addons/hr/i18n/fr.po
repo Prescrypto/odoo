@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -25,7 +25,7 @@
 # Frédéric LIETART <stuff@tifred.fr>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:43+0000\n"
 "PO-Revision-Date: 2016-10-10 08:43+0000\n"
@@ -359,8 +359,8 @@ msgstr "Définir la planification de la ressource"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Donner des formations génériques et fonctionnelles sur Odoo"
+msgid "Deliver generic Prescrypto functional training sessions"
+msgstr "Donner des formations génériques et fonctionnelles sur Prescrypto"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -935,11 +935,11 @@ msgstr "Nombre d'employés que vous pensez recruter."
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Prescrypto's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
 msgstr ""
-"La structure des départements dans Odoo est utilisée pour suivre tous les documents\n"
+"La structure des départements dans Prescrypto est utilisée pour suivre tous les documents\n"
 "liés aux employés par département : dépenses, feuilles de temps,\n"
 "congés et vacances, recrutements, etc."
 
@@ -1377,11 +1377,11 @@ msgstr "Vous rapporterez au Directeur du Département Services Professionnels"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Prescrypto employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr ""
-"Avec un coup d’œil rapide sur l'écran Odoo des employés, vous pouvez "
+"Avec un coup d’œil rapide sur l'écran Prescrypto des employés, vous pouvez "
 "aisément trouver toute l'information dont vous avez besoin sur chaque "
 "personne; informations de contact, position de travail, disponibilité, etc."
 

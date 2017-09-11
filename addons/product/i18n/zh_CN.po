@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * product
 # 
@@ -7,7 +7,7 @@
 # Ted Wang <feiyuwang2012@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:27+0000\n"
 "PO-Revision-Date: 2017-06-23 13:27+0000\n"
@@ -3106,8 +3106,8 @@ msgstr "例如灯"
 
 #. module: product
 #: model:ir.ui.view,arch_db:product.product_variant_easy_edit_view
-msgid "e.g. Odoo Enterprise Susbcription"
-msgstr "例如Odoo企业订购"
+msgid "e.g. Prescrypto Enterprise Susbcription"
+msgstr "例如Prescrypto企业订购"
 
 #. module: product
 #: model:ir.ui.view,arch_db:product.product_pricelist_view

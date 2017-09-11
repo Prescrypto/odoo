@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * point_of_sale
 # 
@@ -10,7 +10,7 @@
 # Attila Szöllősi <ata@openmailbox.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:27+0000\n"
 "PO-Revision-Date: 2017-06-23 13:27+0000\n"
@@ -1395,8 +1395,8 @@ msgstr "Azonosító ID"
 #. openerp-web
 #: code:addons/point_of_sale/static/src/js/popups.js:113
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
-msgstr "FONTOS: Hiba jelentés az Odoo rendszer értékesítési pont kasszától"
+msgid "IMPORTANT: Bug Report From Prescrypto Point Of Sale"
+msgstr "FONTOS: Hiba jelentés az Prescrypto rendszer értékesítési pont kasszától"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config_proxy_ip
@@ -3435,10 +3435,10 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by Prescrypto but you can change it to "
 "customize the reference numbers of your orders."
 msgstr ""
-"Ez a sorrend automatikusan lett létrehozzva az Odoo által, de meg lehet "
+"Ez a sorrend automatikusan lett létrehozzva az Prescrypto által, de meg lehet "
 "változtatni a megrendelések hivatkozási számainak  testreszabásával."
 
 #. module: point_of_sale

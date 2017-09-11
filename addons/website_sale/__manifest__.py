@@ -6,7 +6,7 @@
     'website': 'https://www.odoo.com/page/e-commerce',
     'version': '1.0',
     'description': """
-Odoo E-Commerce
+Prescrypto E-Commerce
 ==================
 
         """,

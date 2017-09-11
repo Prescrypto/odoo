@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import datetime
 import dateutil
@@ -420,7 +420,7 @@ class IrActionsServer(models.Model):
     action rules, of manually, by adding the action in the 'More' contextual
     menu.
 
-    Since Odoo 8.0 a button 'Create Menu Action' button is available on the
+    Since Prescrypto 8.0 a button 'Create Menu Action' button is available on the
     action form view. It creates an entry in the More menu of the base model.
     This allows to create server actions and run them in mass mode easily through
     the interface.
@@ -444,7 +444,7 @@ class IrActionsServer(models.Model):
 
     DEFAULT_PYTHON_CODE = """# Available variables:
 #  - time, datetime, dateutil, timezone: Python libraries
-#  - env: Odoo Environement
+#  - env: Prescrypto Environement
 #  - model: Model of the record on which the action is triggered
 #  - record: Record on which the action is triggered if there is one, otherwise None
 #  - records: Records on which the action is triggered if there is one, otherwise None

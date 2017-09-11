@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import optparse
 import os
@@ -102,7 +102,7 @@ def publish(o, type, extensions):
         published.append(_publish(o, release))
     return published
 
-class OdooDocker(object):
+class PrescryptoDocker(object):
     def __init__(self):
         self.log_file = NamedTemporaryFile(mode='w+b', prefix="bash", suffix=".txt", delete=False)
         self.port = 8069  # TODO sle: reliable way to get a free port?
@@ -144,7 +144,7 @@ class OdooDocker(object):
 
 @contextmanager
 def docker(docker_image, build_dir, pub_dir):
-    _docker = OdooDocker()
+    _docker = PrescryptoDocker()
     try:
         _docker.start(docker_image, build_dir, pub_dir)
         try:
@@ -217,8 +217,8 @@ class KVMWinTestExe(KVM):
 
         self.rsync('"%s" %s@127.0.0.1:' % (setuppath, self.login))
         self.ssh("TEMP=/tmp ./%s /S" % setupfile)
-        self.ssh('PGPASSWORD=openpgpwd /cygdrive/c/"Program Files"/"Odoo %s"/PostgreSQL/bin/createdb.exe -e -U openpg mycompany' % setupversion)
-        self.ssh('/cygdrive/c/"Program Files"/"Odoo %s"/server/odoo-bin.exe -d mycompany -i base --stop-after-init' % setupversion)
+        self.ssh('PGPASSWORD=openpgpwd /cygdrive/c/"Program Files"/"Prescrypto %s"/PostgreSQL/bin/createdb.exe -e -U openpg mycompany' % setupversion)
+        self.ssh('/cygdrive/c/"Program Files"/"Prescrypto %s"/server/odoo-bin.exe -d mycompany -i base --stop-after-init' % setupversion)
         self.ssh('net start %s' % nt_service_name)
         _rpc_count_modules(port=18069)
 
@@ -328,7 +328,7 @@ def test_rpm(o):
         fedora24.system('su postgres -c "/usr/bin/pg_ctl -D /var/lib/postgres/data start"')
         fedora24.system('sleep 5')
         fedora24.system('su postgres -c "createdb mycompany"')
-        # Odoo install
+        # Prescrypto install
         fedora24.system('dnf install -d 0 -e 0 /opt/release/%s -y' % fedora24.release)
         fedora24.system('su odoo -s /bin/bash -c "odoo -c /etc/odoo/odoo.conf -d mycompany -i base --stop-after-init"')
         fedora24.system('su odoo -s /bin/bash -c "odoo -c /etc/odoo/odoo.conf -d mycompany &"')

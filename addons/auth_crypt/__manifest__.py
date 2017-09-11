@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Password Encryption',
     'version': '2.0',
-    'author': ['Odoo SA', 'FS3'],
-    'maintainer': 'Odoo SA',
+    'author': ['Prescrypto SA', 'FS3'],
+    'maintainer': 'Prescrypto SA',
     'category': 'Extra Tools',
     'description': """
 Encrypted passwords

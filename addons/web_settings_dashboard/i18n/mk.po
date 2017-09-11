@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 #
@@ -6,7 +6,7 @@
 # Aleksandar Vangelovski <aleksandarv@hbee.eu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-07 08:57+0000\n"
 "PO-Revision-Date: 2016-06-17 08:57+0000\n"
@@ -117,9 +117,9 @@ msgstr "Внеси емаил адреси (една по ред)"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:94
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
+msgid "Follow these implementation guides to get the most out of Prescrypto."
 msgstr ""
-"Следи ги овие имплементациски водичи за да искористете највеќе од Odoo."
+"Следи ги овие имплементациски водичи за да искористете највеќе од Prescrypto."
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -139,10 +139,10 @@ msgstr "Добијте повеќе функционалности со Enterpri
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:133
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
+msgid "Help us spread the word: Share Prescrypto's awesomeness with your friends!"
 msgstr ""
 "Помогнете ни да ја раширеме информацијата: Споделете го вашето задоволно "
-"искуство од Odoo со вашите пријатели!"
+"искуство од Prescrypto со вашите пријатели!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -197,21 +197,21 @@ msgstr "Немате апликации инсталирани"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo"
+msgid "Prescrypto"
 msgstr ""
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:179
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo претпријатие"
+msgid "Prescrypto Enterprise"
+msgstr "Prescrypto претпријатие"
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:156
 #, python-format
-msgid "Odoo S.A."
+msgid "Prescrypto S.A."
 msgstr ""
 
 #. module: web_settings_dashboard

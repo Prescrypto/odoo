@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 import json
 import time
@@ -120,7 +120,7 @@ class ReportController(Controller):
             se = _serialize_exception(e)
             error = {
                 'code': 200,
-                'message': "Odoo Server Error",
+                'message': "Prescrypto Server Error",
                 'data': se
             }
             return request.make_response(html_escape(json.dumps(error)))

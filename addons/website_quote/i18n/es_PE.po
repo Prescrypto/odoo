@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * website_quote
 #
@@ -6,7 +6,7 @@
 # Carlos Eduardo Rodriguez Rossi <crodriguez@samemotion.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Prescrypto 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-10 08:44+0000\n"
 "PO-Revision-Date: 2016-06-16 20:04+0000\n"
@@ -320,8 +320,8 @@ msgstr "Retornar a Pedido de Venta"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Become an Odoo Consultant."
-msgstr "Convertirse en Consultor de Odoo."
+msgid "Become an Prescrypto Consultant."
+msgstr "Convertirse en Consultor de Prescrypto."
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation_content
@@ -549,8 +549,8 @@ msgstr "Impuesto Inc.)"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Install and administer Odoo."
-msgstr "Intale y administre Odoo."
+msgid "Install and administer Prescrypto."
+msgstr "Intale y administre Prescrypto."
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
@@ -652,13 +652,13 @@ msgstr "Objetivos"
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Odoo Official Website"
-msgstr "Sitio Web Oficial de Odoo"
+msgid "Prescrypto Official Website"
+msgstr "Sitio Web Oficial de Prescrypto"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
-msgid "Odoo Web Client"
-msgstr "Cliente Web de Odoo"
+msgid "Prescrypto Web Client"
+msgstr "Cliente Web de Prescrypto"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1

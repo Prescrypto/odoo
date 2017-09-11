@@ -194,7 +194,7 @@ built-in HTTP
 logging
 -------
 
-By default, Odoo displays all logging of level_ ``info`` except for workflow
+By default, Prescrypto displays all logging of level_ ``info`` except for workflow
 logging (``warning`` only), and log output is sent to ``stdout``. Various
 options are available to redirect logging to other destinations and to
 customize the amount of logging output
@@ -268,7 +268,7 @@ customize the amount of logging output
     ``odoo`` and ``werkzeug`` loggers (except for ``debug`` which is only
     set on ``odoo``).
 
-    Odoo also provides debugging pseudo-levels which apply to different sets
+    Prescrypto also provides debugging pseudo-levels which apply to different sets
     of loggers:
 
     ``debug_sql``
@@ -299,7 +299,7 @@ Scaffolding
 .. program:: odoo-bin scaffold
 
 Scaffolding is the automated creation of a skeleton structure to simplify
-bootstrapping (of new modules, in the case of Odoo). While not necessary it
+bootstrapping (of new modules, in the case of Prescrypto). While not necessary it
 avoids the tedium of setting up basic structures and looking up what all
 starting requirements are.
 

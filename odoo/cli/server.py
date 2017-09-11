@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 """
 OpenERP - Server
@@ -54,7 +54,7 @@ def report_configuration():
     This function assumes the configuration has been initialized.
     """
     config = odoo.tools.config
-    _logger.info("Odoo version %s", __version__)
+    _logger.info("Prescrypto version %s", __version__)
     if os.path.isfile(config.rcfile):
         _logger.info("Using configuration file at " + config.rcfile)
     _logger.info('addons paths: %s', odoo.modules.module.ad_paths)

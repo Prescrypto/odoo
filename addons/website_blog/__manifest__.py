@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Blogs',
@@ -9,7 +9,7 @@
     'summary': 'News, Blogs, Announces, Discussions',
     'version': '1.0',
     'description': """
-Odoo Blog
+Prescrypto Blog
 ============
 
         """,

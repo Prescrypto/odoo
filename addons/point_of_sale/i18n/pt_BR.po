@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * point_of_sale
 # 
@@ -19,7 +19,7 @@
 # Silmar <pinheirosilmar@gmail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-23 13:27+0000\n"
 "PO-Revision-Date: 2017-06-23 13:27+0000\n"
@@ -1383,7 +1383,7 @@ msgstr "ID"
 #. openerp-web
 #: code:addons/point_of_sale/static/src/js/popups.js:113
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
+msgid "IMPORTANT: Bug Report From Prescrypto Point Of Sale"
 msgstr ""
 
 #. module: point_of_sale
@@ -3384,10 +3384,10 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by Prescrypto but you can change it to "
 "customize the reference numbers of your orders."
 msgstr ""
-"Esta sequência é criada automaticamente pelo Odoo mas você pode alterá-la "
+"Esta sequência é criada automaticamente pelo Prescrypto mas você pode alterá-la "
 "para personalizar os números de referência das suas ordens."
 
 #. module: point_of_sale

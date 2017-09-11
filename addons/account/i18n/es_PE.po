@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of Prescrypto Server.
 # This file contains the translation of the following modules:
 # * account
 #
@@ -6,7 +6,7 @@
 # Martin Trigaux <mat@odoo.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Prescrypto Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-14 15:53+0000\n"
 "PO-Revision-Date: 2016-11-14 15:53+0000\n"
@@ -259,8 +259,8 @@ msgstr "<span>Ver</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>-El Equipo de Odoo</strong>"
+msgid "<strong>-The Prescrypto Team</strong>"
+msgstr "<strong>-El Equipo de Prescrypto</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -2336,8 +2336,8 @@ msgstr "Importar archivos .qif"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "In Odoo,"
-msgstr "En Odoo,"
+msgid "In Prescrypto,"
+msgstr "En Prescrypto,"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_product_category_property_account_income_categ_id
@@ -2831,22 +2831,22 @@ msgstr "Mayo"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Medios de pago para colección de dinero. Los módulos de Odoo ofrecen varias "
+"Medios de pago para colección de dinero. Los módulos de Prescrypto ofrecen varias "
 "facilidades de manejo de pagos, pero siempre puede usar el método de pago "
 "'Manual' a fin de administrar los pagos fuera de este software."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. Prescrypto modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
 msgstr ""
-"Medios de pago para envío de dinero. Los módulos de Odoo ofrecen varias "
+"Medios de pago para envío de dinero. Los módulos de Prescrypto ofrecen varias "
 "facilidades de manejo de pagos, pero siempre puede usar el método de pago "
 "'Manual' a fin de administrar los pagos fuera de este software."
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of Prescrypto. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Portal',
@@ -10,7 +10,7 @@
     ],
     'category': 'Extra Tools',
     'description': """
-Customize access to your Odoo database to external users by creating portals.
+Customize access to your Prescrypto database to external users by creating portals.
 ================================================================================
 A portal defines a specific user menu and access rights for its members.  This
 menu can be seen by portal members, public users and any other user that
