@@ -1,50 +1,84 @@
-[![Build Status](http://runbot.odoo.com/runbot/badge/flat/1/10.0.svg)](http://runbot.odoo.com/runbot)
-[![Tech Doc](http://img.shields.io/badge/10.0-docs-875A7B.svg?style=flat)](http://www.odoo.com/documentation/10.0)
-[![Help](http://img.shields.io/badge/10.0-help-875A7B.svg?style=flat)](https://www.odoo.com/forum/help-1)
-[![Nightly Builds](http://img.shields.io/badge/10.0-nightly-875A7B.svg?style=flat)](http://nightly.odoo.com/)
+# Inicio
 
-Prescrypto
-----
+1. Instalar [Docker for Mac][docker].
 
-Prescrypto is a suite of web based open source business apps.
+2. Inicializar el ambiente de desarrollo.
 
-The main Prescrypto Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>,
-<a href="https://www.odoo.com/page/website-builder">Website Builder</a>,
-<a href="https://www.odoo.com/page/e-commerce">eCommerce</a>,
-<a href="https://www.odoo.com/page/warehouse">Warehouse Management</a>,
-<a href="https://www.odoo.com/page/project-management">Project Management</a>,
-<a href="https://www.odoo.com/page/accounting">Billing &amp; Accounting</a>,
-<a href="https://www.odoo.com/page/point-of-sale">Point of Sale</a>,
-<a href="https://www.odoo.com/page/employees">Human Resources</a>,
-<a href="https://www.odoo.com/page/lead-automation">Marketing</a>,
-<a href="https://www.odoo.com/page/manufacturing">Manufacturing</a>,
-<a href="https://www.odoo.com/page/purchase">Purchase Management</a>,
-<a href="https://www.odoo.com/#apps">...</a>
+    ```sh
+    # descargar codigo fuente
+    git clone git@github.com:Prescrypto/odoo.git && cd oodo
 
-Prescrypto Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
-a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you install several Apps.
+    # crear ambiente de desarrollo
+    docker-compose up -d
+    ```
 
+3. Abrir http://localhost:8069/ en su navegador.
 
-Getting started with Prescrypto
--------------------------
-For a standard installation please follow the <a href="https://www.odoo.com/documentation/10.0/setup/install.html">Setup instructions</a>
-from the documentation.
+# Operaciones comunes
 
-If you are a developer you may type the following command at your terminal:
+**Detener el servidor**
 
-    wget -O- https://raw.githubusercontent.com/odoo/odoo/10.0/setup/setup_dev.py | python
+```sh
+docker-compose down
+```
 
-Then follow <a href="https://www.odoo.com/documentation/10.0/tutorials.html">the developer tutorials</a>
+**Visualizar historial**
 
+```sh
+docker-compose logs
+```
 
-For Prescrypto employees
-------------------
+**Recrear contenedor**
 
-To add the odoo-dev remote use this command:
+```sh
+# cambiar x.x con la versión nueva
+docker build -t prescrypto/odoo:x.x -t prescrypto/odoo:latest .
+```
 
-    $ ./setup/setup_dev.py setup_git_dev
+**Actualizar contenedor**
 
-To fetch odoo merge pull requests refs use this command:
+```sh
+# autenticar con hub.docker.com
+docker login
 
-    $ ./setup/setup_dev.py setup_git_review
+# subir versión nueva a hub.docker.com
+docker push prescrypto/odoo
+```
 
+# Herramientas adicionales
+
+## Gestión gráfica de PostgreSQL
+
+[pgAdmin 4][pgadmin] viene incluido para administrar la base de datos local. Se puede encontrar en  http://localhost:5050/. Los valores para conectarse a la base de datos de la instalación de Odoo son los siguientes:
+
+- **Host name/address**: db
+
+- **Username**: odoo
+
+- **Password**: odoo
+
+## Gestión gráfica de Docker
+
+Docker es una herramienta poderosa, pero complicada. El uso de un ambiente gráfico ayudara a diagnosticar y a entender el ambiente Docker de una manera sencilla. En este caso, utilizaremos [Portainer][portainer].
+
+1. Abrir una terminal.
+
+2. Descargar la imagen.
+
+    ```sh
+    docker pull portainer/portainer
+    ```
+
+3. Correr la aplicación.
+
+    ```sh
+    docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer
+    ```
+
+4. Abrir http://localhost:9000/ en un navegador.
+
+5. Seguir las indicaciones.
+
+[docker]: https://docs.docker.com/docker-for-mac/install/#what-to-know-before-you-install
+[portainer]: https://portainer.io/
+[pgadmin]: https://www.pgadmin.org/
