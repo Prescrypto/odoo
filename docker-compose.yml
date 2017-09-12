@@ -1,0 +1,33 @@
+version: '2'
+services:
+  web:
+    image: prescrypto/odoo
+    depends_on:
+      - db
+    ports:
+      - "8069:8069"
+    volumes:
+      - .:/mnt/prescrypto-odoo
+      - ./addons:/mnt/extra-addons
+      - ./prescrypto:/mnt/custom-addons
+      - ./output:/var/lib/odoo
+  db:
+    image: postgres:9.4
+    environment:
+      - POSTGRES_PASSWORD=odoo
+      - POSTGRES_USER=odoo
+      - POSTGRES_DB=postgres
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - pgdata:/var/lib/postgresql/data/pgdata
+  pgadmin:
+    image: thajeztah/pgadmin4
+    depends_on:
+      - db
+    ports:
+      - "5050:5050"
+    volumes:
+      - pgadmin:/pgadmin/config
+volumes:
+  pgdata: {}
+  pgadmin: {}

@@ -3,6 +3,7 @@ _build/
 
 # dotfiles
 .*
+!.gitkeep
 !.gitignore
 !.mailmap
 # compiled python files
@@ -32,3 +33,7 @@ install/win32/meta.py
 /man/
 /share/
 /src/
+
+# docker
+output/*
+!output/.gitkeep
