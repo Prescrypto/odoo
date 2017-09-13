@@ -1,0 +1,3 @@
+[submodule "prescrypto"]
+	path = prescrypto
+	url = git@github.com:Prescrypto/odoo-modules.git
