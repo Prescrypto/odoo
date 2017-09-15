@@ -6,7 +6,10 @@
 
     ```sh
     # descargar codigo fuente
-    git clone git@github.com:Prescrypto/odoo.git && cd oodo
+    git clone git@github.com:Prescrypto/odoo.git --recursive
+
+    # ir al directorio del proyecto
+    cd odoo
 
     # crear ambiente de desarrollo
     docker-compose up -d
