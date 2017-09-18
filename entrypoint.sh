@@ -24,7 +24,7 @@ check_config "db_port" "$PORT"
 check_config "db_user" "$USER"
 check_config "db_password" "$PASSWORD"
 
-ODOO=/mnt/prescrypto-odoo/odoo-bin
+ODOO="/mnt/prescrypto-odoo/odoo-bin -u campos_clientes_vittal"
 
 case "$1" in
     -- | odoo)
