@@ -33,6 +33,7 @@ install/win32/meta.py
 /man/
 /share/
 /src/
+/virtualenv/
 
 # docker
 output/*
