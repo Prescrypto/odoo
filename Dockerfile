@@ -41,16 +41,13 @@ RUN useradd --no-create-home --shell /bin/bash --gid odoo odoo
 # Set password
 RUN echo 'odoo:odoo' | chpasswd
 
-# Copy entrypoint script and Odoo configuration file
-COPY ./entrypoint.sh /
+# Copy Odoo configuration file and python deps
 COPY ./odoo.conf /etc/odoo/
 COPY ./requirements.txt /
 RUN chown odoo /etc/odoo/odoo.conf
 
 # Add python dependencies
-RUN pip install -r requirements.txt
-
-# Mount /mnt/prescrypto-odoo for our fork and /mnt/custom-addons for Prescrypto addons
+RUN pip install -r requirements.txt # Mount /mnt/prescrypto-odoo for our fork and /mnt/custom-addons for Prescrypto addons
 RUN mkdir -p /mnt/prescrypto-odoo \
         && chown -R odoo /mnt/prescrypto-odoo
 RUN mkdir -p /mnt/custom-addons \
@@ -71,5 +68,4 @@ ENV ODOO_RC /etc/odoo/odoo.conf
 # Set default user when running the container
 USER odoo
 
-ENTRYPOINT ["/entrypoint.sh"]
-CMD ["odoo"]
+ENTRYPOINT ["/bin/bash"]

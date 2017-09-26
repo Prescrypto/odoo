@@ -1,4 +1,6 @@
-# Inicio
+# Odoo
+
+## Ambiente de desarrollo
 
 1. Instalar [Docker for Mac][docker].
 
@@ -13,11 +15,26 @@
 
     # crear ambiente de desarrollo
     docker-compose up -d
+
+    # abrir terminal de la aplicación
+    docker attach odoo_web_1
+
+    # correr servidor
+    cd /mnt/prescrypto
+    ./odoo-bin -r odoo -w odoo --db_host db --addons-path=addons,prescrypto -i campos_clientes_vittal
     ```
 
 3. Abrir http://localhost:8069/ en su navegador.
 
-# Operaciones comunes
+## Operaciones comunes
+
+**Recargar el módulo**
+
+Esto es necesario al actualizar el modelo ya que se ocupan recompilar la fuente Python.
+
+```sh
+./odoo-bin -r odoo -w odoo --db_host db --addons-path=addons,prescrypto -u campos_clientes_vittal
+```
 
 **Detener el servidor**
 
@@ -25,32 +42,9 @@
 docker-compose down
 ```
 
-**Visualizar historial**
+## Herramientas adicionales
 
-```sh
-docker-compose logs
-```
-
-**Recrear contenedor**
-
-```sh
-# cambiar x.x con la versión nueva
-docker build -t prescrypto/odoo:x.x -t prescrypto/odoo:latest .
-```
-
-**Actualizar contenedor**
-
-```sh
-# autenticar con hub.docker.com
-docker login
-
-# subir versión nueva a hub.docker.com
-docker push prescrypto/odoo
-```
-
-# Herramientas adicionales
-
-## Gestión gráfica de PostgreSQL
+### Gestión gráfica de PostgreSQL
 
 [pgAdmin 4][pgadmin] viene incluido para administrar la base de datos local. Se puede encontrar en  http://localhost:5050/. Los valores para conectarse a la base de datos de la instalación de Odoo son los siguientes:
 
@@ -60,7 +54,7 @@ docker push prescrypto/odoo
 
 - **Password**: odoo
 
-## Gestión gráfica de Docker
+### Gestión gráfica de Docker
 
 Docker es una herramienta poderosa, pero complicada. El uso de un ambiente gráfico ayudara a diagnosticar y a entender el ambiente Docker de una manera sencilla. En este caso, utilizaremos [Portainer][portainer].
 
