@@ -1,7 +1,9 @@
 version: '2'
 services:
   web:
-    image: prescrypto/odoo
+    build: .
+    stdin_open: true
+    tty: true
     depends_on:
       - db
     ports:
