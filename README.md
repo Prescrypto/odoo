@@ -79,3 +79,14 @@ Docker es una herramienta poderosa, pero complicada. El uso de un ambiente gráf
 [docker]: https://docs.docker.com/docker-for-mac/install/#what-to-know-before-you-install
 [portainer]: https://portainer.io/
 [pgadmin]: https://www.pgadmin.org/
+
+
+### For custom modules
+
+Get clone the custom modules on `./prescrypto/` for example:
+* `$ cd ./odoo/Prescrypto/`
+* `./odoo/Prescrypto/ $ git clone https://github.com/Prescrypto/campos-clientes-vittal`
+* `./odoo/Prescrypto/ $ cd campos-clientes-vittal`
+* Maybe here you need to switch to some branch or create new one then
+
+You are ready to development with our custom odoo and our custom modules
