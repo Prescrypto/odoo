@@ -20,7 +20,7 @@
     docker attach odoo_web_1
 
     # correr servidor
-    cd /mnt/prescrypto
+    cd /mnt/prescrypto-odoo
     ./odoo-bin -r odoo -w odoo --db_host db --addons-path=addons,prescrypto -i campos_clientes_vittal
     ```
 
