@@ -103,7 +103,7 @@ ADD ./.profile.d /app/.profile.d
 #RUN rm /bin/sh \
 #        && ln -s /bin/bash /bin/sh
 
-ENTRYPOINT ["/entrypoint.sh"]
+#ENTRYPOINT ["/entrypoint.sh"]
 #ENTRYPOINT ["/bin/sh"]
-CMD ["odoo"]
+#CMD ["odoo"]
 

@@ -581,6 +581,7 @@ class ConnectionPool(object):
                 raise PoolError('The Connection Pool Is Full')
 
         try:
+            print("JMRM connection info: {}".format(connection_info))
             result = psycopg2.connect(
                 connection_factory=PsycoConnection,
                 **connection_info)
