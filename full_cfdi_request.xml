@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:scfd="http://namespace.pegasotecnologia.com/SCFD" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <soapenv:Header></soapenv:Header>
+    <soapenv:Body>
+        <scfd:emitirCFD>
+            <scfd:PoRequestCFD>
+            <RequestCFD version="3.3">
+    <Comprobante Version="3.3" Serie="INV" Folio="20210002" Fecha="2021-03-05T19:47:38" FormaPago="99" SubTotal="2000" Moneda="MXN" Total="2000" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="15900">
+        <Emisor Rfc="TMO1104114Y9" Nombre="TIEMPOREAL_TMO1104114Y9_ws" RegimenFiscal="601"/>
+        <Receptor Rfc="VIS1504019A8" Nombre="Visoñe S.A. de C.V" UsoCFDI="G03"/>
+        <Conceptos>
+            <Concepto ClaveProdServ="85121800" Cantidad="1" ClaveUnidad="E48" Unidad="1" Descripcion="[Areaprotegida1] Area Protegida" ValorUnitario="2000" Importe="2000"/>
+        </Conceptos>
+    </Comprobante>
+    <Transaccion id="2021-03-05T19:47:38INV20210002"/>
+    <TipoComprobante clave="Factura" nombre="Factura"/>
+    <Sucursal nombre="MATRIZ"/>
+    <Receptor emailReceptor="pcadena@vidauno.com;rhernandez@vidauno.com"/>
+</RequestCFD>
+
+            </scfd:PoRequestCFD>
+        </scfd:emitirCFD>
+    </soapenv:Body>
+</soapenv:Envelope>

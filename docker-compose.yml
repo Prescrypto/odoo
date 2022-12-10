@@ -13,6 +13,8 @@ services:
       - ./addons:/mnt/extra-addons
       - ./prescrypto:/mnt/custom-addons
       - ./output:/var/lib/odoo
+      - ./:/odoo
+    env_file: ./.env_variables
   db:
     image: postgres:9.4
     environment:
@@ -20,6 +22,8 @@ services:
       - POSTGRES_USER=odoo
       - POSTGRES_DB=postgres
       - PGDATA=/var/lib/postgresql/data/pgdata
+    ports:
+      - '5432:5432'
     volumes:
       - pgdata:/var/lib/postgresql/data/pgdata
   pgadmin:

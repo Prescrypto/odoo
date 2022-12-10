@@ -1,0 +1,3 @@
+[submodule "prescrypto/campos_clientes_vittal"]
+	path = prescrypto/campos_clientes_vittal
+	url = https://github.com/Prescrypto/campos-clientes-vittal
