@@ -39,4 +39,11 @@ install/win32/meta.py
 output/*
 !output/.gitkeep
 prescrypto/
+
+OpenUpgrade/
+
+*.log
+db_variables
+*.dump
+prescrypto_odoo.log.*
 config/

@@ -90,3 +90,23 @@ Get clone the custom modules on `./prescrypto/` for example:
 * Maybe here you need to switch to some branch or create new one then
 
 You are ready to development with our custom odoo and our custom modules
+
+### DB backup
+
+heroku pg:backups:capture --app erste
+
+
+heroku pg:backups:url --app erste
+
+
+curl -o latest_backup.dump "https://xfrtu.s3.amazonaws.com/1a8185a6-9539-4f70-8c43-ddc03a0ebf4e/2024-06-09T03%3A31%3A01Z/fd4b1abb-0753-4617-aba1-4279cbcc628f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQKF7VQWOPUHP4I75%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T034231Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=03fd4bc9717f6fba150dea1ce6865284d5ef0f050c9145e7f5bf107975598783"
+
+
+pg_restore --verbose --clean --no-acl --no-owner -h localhost -U YOUR_LOCAL_DB_USER -d YOUR_LOCAL_DB_NAME latest_backup.dump
+
+
+
+## Herou bash
+heroku run bash -a erste
+
+

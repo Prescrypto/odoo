@@ -7,3 +7,9 @@ css: ${CSS_FILES}
 	sass -t expanded --compass --unix-newlines --sourcemap=none $< $@
 watch:
 	sass -t expanded --compass --unix-newlines --sourcemap=none --watch .:.
+# build:
+#     docker compose up -d --build
+# shell_root:
+#     docker compose exec -u root -ti web bash
+# shell:
+#     docker compose exec web bash
