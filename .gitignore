@@ -39,3 +39,4 @@ install/win32/meta.py
 output/*
 !output/.gitkeep
 prescrypto/
+config/
